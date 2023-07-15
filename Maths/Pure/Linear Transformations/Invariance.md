@@ -1,4 +1,3 @@
-# Invariance
 An invariant point is a point, that when transformed by a given transformation, is transformed unto itself. ie. $\begin{pmatrix}a&b\newline c&d\end{pmatrix}\begin{pmatrix}x\newline y\end{pmatrix} = \begin{pmatrix}x\newline y\end{pmatrix}$
 
 ## Invariant Points

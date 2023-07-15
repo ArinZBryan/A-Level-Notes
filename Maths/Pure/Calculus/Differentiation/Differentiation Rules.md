@@ -1,5 +1,3 @@
-# Differentiation Rules
-
 There are three rules used for differentiation that come up all the time, and are generally applicable.
 
 ## Product Rule

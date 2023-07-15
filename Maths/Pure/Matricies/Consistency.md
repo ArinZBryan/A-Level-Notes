@@ -1,5 +1,3 @@
-# Consistency
-
 A system of 3D simultaneous equations can result in one of several outcomes
 
 ![Diagram](./../../Images/Consistency.png)

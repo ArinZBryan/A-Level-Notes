@@ -1,8 +1,5 @@
-# Random Sampling
 Ordinarily we would want each thing in our sampling frame to have an **equal chance of being chosen**, in order to **avoid bias**.  
 This is known as <u>*random sampling*</u>. There are a few ways to do this...
-
-<hr/>
 
 ## Simple Random Sampling
 ### What is it?
@@ -17,8 +14,6 @@ In sampling frame <u> each item has an identifying number.</u> Use a <u>random n
 - Not suitable when the population size is large
 - Sampling frames needed.
 
-<hr/>
-
 ## Systematic Sampling
 ### What is it?
 Required elements are chosen at regular intervals in an ordered list.
@@ -31,8 +26,6 @@ starting at random items between $1$ and $k$.
 ### Disadvantages
 - Sampling frame again needed.
 - Can introduce bias if sampling frame is not adequately random.
-
-<hr/>
 
 ## Stratified Sampling
 ### What is it?

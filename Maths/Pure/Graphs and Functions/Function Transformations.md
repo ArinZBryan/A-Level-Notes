@@ -1,5 +1,3 @@
-# Function Transformations
-
 Given a function $f(x)$
 - $f(x) + c$ moves $f(x)$ up by c units
 - $f(x-c)$ moves $f(x)$ right by c units

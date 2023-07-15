@@ -1,4 +1,3 @@
-# Vector Operations
 There are two operations specific to vectors that are used at A Level:
 
 ## Dot (scalar) Product

@@ -1,4 +1,3 @@
-# Integration by Substitution
 Integration by substitution is a method of integration where the integrand is replaced with a new variable that makes the integral possible using known integration techniques.
 
 ## Method

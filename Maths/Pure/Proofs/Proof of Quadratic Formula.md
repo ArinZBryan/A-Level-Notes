@@ -1,4 +1,3 @@
-# Proof of the quadratic formula
 1. $ax^2 + bx + c = 0$  
 (the a quadratic polynomial)
 

@@ -1,5 +1,3 @@
-# Sums of geometric series
-
 ## Finite Summations
 A geometric series, of the form $x_n = ar^{(n-1)}$ can be summed. It is possible that in an exam to be asked to derive the formula for summing such a geometric sequence:
 

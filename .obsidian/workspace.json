@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/File Systems.md",
+                "file": "Maths/Statistics/Measures of Location And Spread/Variance and Standard Deviation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/File Systems.md",
+                "file": "Maths/Statistics/Measures of Location And Spread/Variance and Standard Deviation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/File Systems.md",
+                "file": "Maths/Statistics/Measures of Location And Spread/Variance and Standard Deviation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/File Systems.md"
+                "file": "Maths/Statistics/Measures of Location And Spread/Variance and Standard Deviation.md"
               }
             }
           }
@@ -151,35 +151,41 @@
   },
   "active": "325e0003d006c929",
   "lastOpenFiles": [
-    "Computer Science/Data Representation.md",
-    "Computer Science/File Systems.md",
+    "Maths/Statistics/Measures of Location And Spread/Variables.md",
+    "Maths/Statistics/Measures of Location And Spread/Quartiles, Percentiles and the Median.md",
+    "Maths/Statistics/Measures of Location And Spread/Coding.md",
     "Maths/Statistics/Hypothesis Testing/Hypothesis Testing.md",
+    "Maths/Statistics/Collecting Data/Types of Data.md",
+    "Maths/Statistics/Collecting Data/Random Sampling.md",
+    "Maths/Statistics/Collecting Data/Populations and Samples.md",
+    "Maths/Statistics/Collecting Data/Non-Random Sampling.md",
+    "Maths/Pure/Vectors/Vector Operations.md",
+    "Maths/Pure/Vectors/Skew Lines.md",
+    "Maths/Pure/Vectors/Perpendicular Vectors.md",
+    "Maths/Pure/Vectors/Distances between points, lines and planes.pdf",
+    "Maths/Pure/Sums and Series/Sums of Polynomial Series.md",
+    "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
+    "Maths/Pure/Sums and Series/Sums of Arithmetic Series.md",
+    "Maths/Pure/Sums and Series/Standard Series Expansions.md",
+    "Maths/Pure/Radians/Small Angle Approximations.md",
+    "Maths/Pure/Radians/Radian Measure.md",
+    "Maths/Pure/Proofs/Proof of Quadratic Formula.md",
+    "Maths/Pure/Methods Of Proof/Proof by Induction - Recurrance relations.md",
+    "Maths/Pure/Methods Of Proof/Proof by Induction - recurrance relations.pdf",
+    "Maths/Pure/Methods Of Proof/Proof by Exhaustion.md",
+    "Maths/Pure/Methods Of Proof/Proof by Contradiction.md",
+    "Maths/Pure/Matricies/Matrix Operations.md",
+    "Maths/Pure/Matricies/Matricies and Simultaneous Equations.md",
+    "Maths/Pure/Matricies/Determinants and Inverses.md",
+    "Maths/Pure/Matricies/Consistency.md",
+    "Maths/Pure/Linear Transformations/Invariance.md",
     "Maths/Images/area_between_curves_fx.drawio.svg",
     "Robotics/datasheets/uln2004a.pdf",
     "Robotics/datasheets/stepper-motor-specs.pdf",
     "Robotics/datasheets/Finder 40-Series Relays.pdf",
-    "Robotics/benefactors.md",
-    "Robotics/block-diagram.md",
-    "Robotics/notes.md",
-    "Robotics/parts.md",
-    "Robotics/README.md",
-    "Physics/Waves.md",
     "Robotics/wsTest.py",
     "Robotics/SCH_RGS-Turret_2023-06-20.json",
     "Robotics/datasheets",
-    "Physics/SUVAT.md",
-    "Physics/Stress, Strain, Youngs Modulus and Hooke's Law.md",
-    "Physics/Standing Waves.md",
-    "Physics/Quantum Physics.md",
-    "Physics/Momentum And Impulse.md",
-    "Physics/Moments.md",
-    "Physics/Harmonic Motion.md",
-    "Physics/Electricity.md",
-    "Physics/Diffraction.md",
-    "Physics/Density, Viscosity and Stokes Law.md",
-    "Physics/Collisions.md",
-    "Physics/Circular Motion.md",
-    "Maths/Statistics/Probablility/Probability.md",
     "Physics/Images/totalInternalReflection.png",
     "Physics/Images/StressStrainGraph.jpg",
     "Physics/Images/SHM-graphs.drawio.svg",
@@ -190,13 +196,7 @@
     "Physics/Images/OhmicConductorGraph.png",
     "Physics/Images/MomentsDiagram.png",
     "Physics/Images",
-    "Physics/Statistics/Statistical Distributions/The Normal Distribution.md",
-    "Physics/Statistics/Statistical Distributions/The Binomial Distribution.md",
     "Physics/Statistics/Statistical Distributions",
-    "Physics/Statistics/Representations of Data/Cumulative Frequency Graphs.md",
-    "Physics/Statistics/Representations of Data/Box Plots and Outliers.md",
-    "Physics/Statistics/Representations of Data",
-    "Physics/Statistics/Large_Dataset/Formats_For_Computers/PY/__pycache__/large_dataset.cpython-310.pyc",
     "Untitled.canvas"
   ]
 }

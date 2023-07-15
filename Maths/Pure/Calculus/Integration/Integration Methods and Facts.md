@@ -1,4 +1,3 @@
-# Integration Methods and Facts
 Unlike when taking the derivative, there are no small number of easy rules to learn. Instead, there are a myriad of different specific integrals to learn, and a few, lesser used methods.
 
 ## Standard Integration

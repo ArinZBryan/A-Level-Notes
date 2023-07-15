@@ -1,5 +1,3 @@
-# Proof by Induction - Recurrance Relations
-
 ## The Method
 
 This method of proof by induction is used for questions of the form:

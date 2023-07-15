@@ -1,6 +1,3 @@
-# Box Plots and Outliers
-
-
 ## Box plots
 A quick recap of box plots  
 ![Example Box Plot](./../../Images/generic_box_plot.drawio.svg)

@@ -1,5 +1,3 @@
-# Variance and Standard Deviation
-
 ## Variance
 Variance is a measure of spread that takes all values into account. Variance by definition, is the **average squared distance from the mean**. It is notated as $Var(x)$
 

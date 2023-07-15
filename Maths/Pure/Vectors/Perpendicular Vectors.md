@@ -1,5 +1,3 @@
-# Perpendicular Vectors
-
 ## 2D
 To test if two vectors are perpendicular in 2D, simply take the dot product of the two vectors. If it equals zero, then they are perpendicular.  
 eg.  

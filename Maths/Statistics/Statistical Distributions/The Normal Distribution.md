@@ -1,7 +1,3 @@
-# The Normal Distribution
-
-
-
 ## Standard Normal Distribution
 The standard normal distribution is one where the mean is zero, and the standard deviation is 1. This can be represented in two ways:
 $X~N(0,1^2)$ or $\phi(Z)$, where $Z = \frac{X -\mu}{\sigma}$

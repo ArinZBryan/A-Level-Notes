@@ -1,5 +1,3 @@
-# Determinants and Inverses
-
 ## Determinants
 The determinant of a matrix can take one of two values, either zero, or some other number. If the determinant is not zero, then it can be said to be equal to the area scale factor of the transformation represented by the matrix. If the matrix is a 3x3 matrix, then this is the volume scale factor of the relavent transformation. If the determinant is zero, then the transformation maps all points on to either a point or a line, thus a shape with no volume or area. 
 

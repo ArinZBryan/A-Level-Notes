@@ -1,4 +1,3 @@
-# Binomial Expansion
 A binomial is a polynomial with only two terms, and is then of the form $(a + b)$
 
 ## Pascal's Traingle

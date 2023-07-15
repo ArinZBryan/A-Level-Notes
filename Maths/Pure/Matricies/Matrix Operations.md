@@ -1,4 +1,3 @@
-# Matrix Operations
 There are three main operations that can be performed between two vectors:
 
 ## Addition

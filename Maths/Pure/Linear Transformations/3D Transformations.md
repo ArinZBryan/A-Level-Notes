@@ -1,68 +1,26 @@
-# Transformations of 3D vectors
-
-$\begin{bmatrix}
--1 & 0 & 0\newline
-0 & 1 & 0\newline
-0 & 0 & 1 
-\end{bmatrix} \rightarrow$  A reflection in the plane $x = 0$
+$\begin{bmatrix}-1 & 0 & 0\newline0 & 1 & 0\newline0 & 0 & 1 \end{bmatrix} \rightarrow$  A reflection in the plane $x = 0$
 
 
-$\begin{bmatrix}
-1 & 0 & 0\newline
-0 & -1 & 0\newline
-0 & 0 & 1\newline
-\end{bmatrix} \rightarrow$  A reflection in the plane $y = 0$
+$\begin{bmatrix}1 & 0 & 0\newline0 & -1 & 0\newline0 & 0 & 1\newline\end{bmatrix} \rightarrow$  A reflection in the plane $y = 0$
 
-$\begin{bmatrix}
-1 & 0 & 0\newline
-0 & 1 & 0\newline
-0 & 0 & -1 \newline
-\end{bmatrix} \rightarrow$  A reflection in the plane $z = 0$
+$\begin{bmatrix}1 & 0 & 0\newline0 & 1 & 0\newline0 & 0 & -1 \newline\end{bmatrix} \rightarrow$  A reflection in the plane $z = 0$
 
 
-$\begin{bmatrix}
-1 & 0 & 0  \newline  
-0 & \cos\theta & -\sin\theta  \newline  
-0 & \sin\theta & \cos\theta  \newline
-\end{bmatrix} \rightarrow$ A rotation by angle $\theta$ about the x axis
+$\begin{bmatrix}1 & 0 & 0  \newline  0 & \cos\theta & -\sin\theta  \newline  0 & \sin\theta & \cos\theta \newline\end{bmatrix} \rightarrow$ A rotation by angle $\theta$ about the x axis
 
-$\begin{bmatrix}
-\cos\theta & 0 & \sin\theta\newline
-0 & 1 & 0\newline
--\sin\theta & 0 & \cos\theta\newline 
-\end{bmatrix} \rightarrow$ A rotation by angle $\theta$ about the y axis
+$\begin{bmatrix}\cos\theta & 0 & \sin\theta\newline0 & 1 & 0\newline-\sin\theta & 0 & \cos\theta\newline \end{bmatrix} \rightarrow$ A rotation by angle $\theta$ about the y axis
 
-$\begin{bmatrix}
-\cos\theta & -\sin\theta & 0\newline
-\sin\theta & \cos\theta & 0\newline
-0 & 0 & 1\newline
-\end{bmatrix} \rightarrow$ A rotation by angle $\theta$ about the x axis
+$\begin{bmatrix}\cos\theta & -\sin\theta & 0\newline\sin\theta & \cos\theta & 0\newline0 & 0 & 1\newline\end{bmatrix} \rightarrow$ A rotation by angle $\theta$ about the x axis
 
-$\begin{bmatrix}
-a & 0 & 0\newline
-0 & a & 0\newline
-0 & 0 & a\newline
-\end{bmatrix} \rightarrow$ An enlargement by scale factor $a$ about the origin  
+$\begin{bmatrix}a & 0 & 0\newline0 & a & 0\newline0 & 0 & a\newline\end{bmatrix} \rightarrow$ An enlargement by scale factor $a$ about the origin  
 
-$\begin{bmatrix}
-a & 0 & 0\newline
-0 & 1 & 0\newline
-0 & 0 & 1\newline
-\end{bmatrix} \rightarrow$ A stretch parallel to the x axis by scale factor $a$ about the origin
+$\begin{bmatrix}a & 0 & 0\newline0 & 1 & 0\newline0 & 0 & 1\newline\end{bmatrix} \rightarrow$ A stretch parallel to the x axis by scale factor $a$ about the origin
 
 
-$\begin{bmatrix}
-1 & 0 & 0\newline
-0 & a & 0\newline
-0 & 0 & 1\newline
-\end{bmatrix} \rightarrow$ A stretch parallel to the y axis by scale factor $a$ about the origin
+$\begin{bmatrix}1 & 0 & 0\newline0 & a & 0\newline0 & 0 & 1\newline\end{bmatrix} \rightarrow$ A stretch parallel to the y axis by scale factor $a$ about the origin
 
 
-$\begin{bmatrix}
-1 & 0 & 0\newline
-0 & 1 & 0\newline
-0 & 0 & a\newline
-\end{bmatrix} \rightarrow$ A stretch parallel to the z axis by scale factor $a$ about the origin
+$\begin{bmatrix}1 & 0 & 0\newline0 & 1 & 0\newline0 & 0 & a\newline\end{bmatrix} \rightarrow$ A stretch parallel to the z axis by scale factor $a$ about the origin
 
 
 ## Generalisations

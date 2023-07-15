@@ -1,5 +1,3 @@
-# Types of Data
-
 ## Qualitative / Categorical
 Non-numerical values, such as colour. This type of data can generally only be ***counted***.
 

@@ -1,8 +1,6 @@
-# Non-Random Sampling 
 Random sampling can be problematic because often, the sampling frame is not known, so if a random sample was taken from the population, the results could be skewed.
 
 There are two types of Non-Random Sampling
-<hr/>
 
 ## Quota Sampling 
 ### What is it?

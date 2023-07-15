@@ -1,6 +1,3 @@
-# Populations and Samples
-
-## Populations vs. Samples
 A population is: the <u>whole</u> set of items that are of interest
 
 A sample is the name given to some subset of the population intended to represent the population. Once you have this group, it is known as a '*sampling frame*'.

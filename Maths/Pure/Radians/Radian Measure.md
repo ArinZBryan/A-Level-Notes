@@ -1,5 +1,3 @@
-# Radian Measure
-
 ## Converting between degrees and radians
 
 $2\pi$ rad $=360^{\circ}$  

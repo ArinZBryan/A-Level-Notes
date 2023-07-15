@@ -1,5 +1,3 @@
-# Skew Lines
-
 Two lines are skew if they are not parallel, and do not intersect. They can only exist in space with more spatial dimensions than two.
 
 ## Proving two lines are skew

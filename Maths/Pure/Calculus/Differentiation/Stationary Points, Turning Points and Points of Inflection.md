@@ -1,4 +1,3 @@
-# Stationary Points, Turning Points and Points of Inflection
 Consider the cubic $y=f(x)$
 
 ![A graph of a cubic](../../Images/points_on_a_curve.drawio.svg)

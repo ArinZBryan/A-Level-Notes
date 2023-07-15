@@ -1,5 +1,3 @@
-# Hypothesis testing
-
 ## Definitions
 ### Hypothesis
 A **hypothesis** is a statement made about the value of a population parameter that we wish to test by collecting evidence in the form of a sample.

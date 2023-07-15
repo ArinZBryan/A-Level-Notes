@@ -1,4 +1,3 @@
-# Integration
 Integration is the reverse process of differentiation.
 
 Consider the area of the region **R** bounded by the curve $y=f(x)$, the x-axis and the lines $x=a$ and $x=b$ as shown below:
