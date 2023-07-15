@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "📈",
+      "🗄",
+      "🔐",
+      "🗃",
+      "💾"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "Computer Science": {
+    "iconName": null,
+    "inheritanceIcon": "🖥"
+  },
+  "Computer Science/Algorithms": "🔣",
+  "Computer Science/Images": "📁",
+  "Computer Science/Data Representation.md": "🖥",
+  "Computer Science/Databases.md": "💾",
+  "Computer Science/Datastructures.md": "🗃",
+  "Computer Science/Encryption.md": "🔐",
+  "Computer Science/File Systems.md": "🗄",
+  "Computer Science/Graphs and Trees.md": "📈"
+}

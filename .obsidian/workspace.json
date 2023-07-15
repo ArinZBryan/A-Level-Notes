@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "b1e50689a451c339",
+    "type": "split",
+    "children": [
+      {
+        "id": "14a76cf572da935d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "325e0003d006c929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Statistics/Hypothesis Testing/Hypothesis Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc9bf623e411bfab",
+    "type": "split",
+    "children": [
+      {
+        "id": "008d412c383d0f1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbad4bdef9d6f8d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c32fa9bb1df3805",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "90d3378b0ae1d545",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "d37e7daa1b0879f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "69209cc3cf1be9b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "187f3964d1537e41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Maths/Statistics/Hypothesis Testing/Hypothesis Testing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5aa8c3d156026562",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Maths/Statistics/Hypothesis Testing/Hypothesis Testing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5289b2e16b39698",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9dbac6134168e725",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Maths/Statistics/Hypothesis Testing/Hypothesis Testing.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "325e0003d006c929",
+  "lastOpenFiles": [
+    "Maths/Images/area_between_curves_fx.drawio.svg",
+    "Robotics/datasheets/uln2004a.pdf",
+    "Robotics/datasheets/stepper-motor-specs.pdf",
+    "Robotics/datasheets/Finder 40-Series Relays.pdf",
+    "Robotics/benefactors.md",
+    "Robotics/block-diagram.md",
+    "Robotics/notes.md",
+    "Robotics/parts.md",
+    "Robotics/README.md",
+    "Physics/Waves.md",
+    "Robotics/wsTest.py",
+    "Robotics/SCH_RGS-Turret_2023-06-20.json",
+    "Robotics/datasheets",
+    "Physics/SUVAT.md",
+    "Physics/Stress, Strain, Youngs Modulus and Hooke's Law.md",
+    "Physics/Standing Waves.md",
+    "Physics/Quantum Physics.md",
+    "Physics/Momentum And Impulse.md",
+    "Physics/Moments.md",
+    "Physics/Harmonic Motion.md",
+    "Physics/Electricity.md",
+    "Physics/Diffraction.md",
+    "Physics/Density, Viscosity and Stokes Law.md",
+    "Physics/Collisions.md",
+    "Physics/Circular Motion.md",
+    "Maths/Statistics/Probablility/Probability.md",
+    "Physics/Images/totalInternalReflection.png",
+    "Physics/Images/StressStrainGraph.jpg",
+    "Physics/Images/SHM-graphs.drawio.svg",
+    "Physics/Images/reflection.drawio.svg",
+    "Physics/Images/PotentialDivider.png",
+    "Physics/Images/polarisation.drawio.svg",
+    "Physics/Images/PathDifference.drawio.svg",
+    "Physics/Images/OhmicConductorGraph.png",
+    "Physics/Images/MomentsDiagram.png",
+    "Physics/Images/InternalResistanceCircuitDiagram.png",
+    "Physics/Images",
+    "Physics/Statistics/Statistical Distributions/The Normal Distribution.md",
+    "Physics/Statistics/Statistical Distributions/The Binomial Distribution.md",
+    "Physics/Statistics/Statistical Distributions",
+    "Physics/Statistics/Representations of Data/Cumulative Frequency Graphs.md",
+    "Physics/Statistics/Representations of Data/Box Plots and Outliers.md",
+    "Physics/Statistics/Representations of Data",
+    "Physics/Statistics/Large_Dataset/Formats_For_Computers/PY/__pycache__/large_dataset.cpython-310.pyc",
+    "Physics/Statistics/Measures of Location And Spread/Variance and Standard Deviation.md",
+    "Physics/Statistics/Measures of Location And Spread/Variables.md",
+    "Untitled.canvas"
+  ]
+}

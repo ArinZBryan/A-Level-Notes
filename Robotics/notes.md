@@ -1,0 +1,12 @@
+# Notes
+- [x] Ask Nav if resistors in series is good practice
+- [x] Ask Nav to check circuit diagram
+- [x] Ask Nav about controlling 12v circuit with 5v + transistor (Check circuit diagram for potential sol.n)
+- [x] Ask Nav about LM317T regulator design (If can't get 7805s)
+- [ ] Ask Nav for supplies
+	- Motor Driver
+	- Barrel Plug
+	- 7805s
+	- 1k
+	- Switch
+	- Breadboard? (Might be pushing it on this one)
