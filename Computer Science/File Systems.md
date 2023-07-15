@@ -1,7 +1,5 @@
 There are several ways of storing the file systems, some of the most common are NTFS (for windows), FAT (older windows), EXT4 (Most Linux Distros), and APFS (apple). The easiest to understand is FAT, or the File Allocation Table.
 
-dvtbynjmikmjnuhbybgvtfrvgbyhnujmk
-
 ## The FATx format
 The size of a FAT in bits (32 or 16 are common) determines how large any given file, drive, partition may be, as each sector or otherwise is assigned a unique number.
 
