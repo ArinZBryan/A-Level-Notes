@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "14a76cf572da935d",
+        "id": "e0b58cf317a25bda",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Statistics/Measures of Location And Spread/Variance and Standard Deviation.md",
+                "file": "Maths/Pure/Sums and Series/C + iS Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 200
   },
   "right": {
     "id": "d37e7daa1b0879f5",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Statistics/Measures of Location And Spread/Variance and Standard Deviation.md",
+                "file": "Maths/Pure/Sums and Series/C + iS Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Statistics/Measures of Location And Spread/Variance and Standard Deviation.md",
+                "file": "Maths/Pure/Sums and Series/C + iS Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +126,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Statistics/Measures of Location And Spread/Variance and Standard Deviation.md"
+                "file": "Maths/Pure/Sums and Series/C + iS Series.md"
               }
+            }
+          },
+          {
+            "id": "314f0273a077c6d5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,36 +158,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "325e0003d006c929",
+  "active": "90d3378b0ae1d545",
   "lastOpenFiles": [
-    "Maths/Statistics/Measures of Location And Spread/Variables.md",
-    "Maths/Statistics/Measures of Location And Spread/Quartiles, Percentiles and the Median.md",
-    "Maths/Statistics/Measures of Location And Spread/Coding.md",
-    "Maths/Statistics/Hypothesis Testing/Hypothesis Testing.md",
-    "Maths/Statistics/Collecting Data/Types of Data.md",
-    "Maths/Statistics/Collecting Data/Random Sampling.md",
-    "Maths/Statistics/Collecting Data/Populations and Samples.md",
-    "Maths/Statistics/Collecting Data/Non-Random Sampling.md",
-    "Maths/Pure/Vectors/Vector Operations.md",
-    "Maths/Pure/Vectors/Skew Lines.md",
-    "Maths/Pure/Vectors/Perpendicular Vectors.md",
-    "Maths/Pure/Vectors/Distances between points, lines and planes.pdf",
-    "Maths/Pure/Sums and Series/Sums of Polynomial Series.md",
+    "Maths/IntegralMaths",
     "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
-    "Maths/Pure/Sums and Series/Sums of Arithmetic Series.md",
-    "Maths/Pure/Sums and Series/Standard Series Expansions.md",
-    "Maths/Pure/Radians/Small Angle Approximations.md",
-    "Maths/Pure/Radians/Radian Measure.md",
-    "Maths/Pure/Proofs/Proof of Quadratic Formula.md",
-    "Maths/Pure/Methods Of Proof/Proof by Induction - Recurrance relations.md",
+    "Maths/Pure/Sums and Series/C + iS Series.md",
+    "Maths/Statistics/Statistical Distributions/The Normal Distribution.md",
+    "Maths/Statistics/Statistical Distributions/Drawing 2023-07-18 14.33.53.excalidraw.md",
+    "Physics/Harmonic Motion.md",
+    "Physics/Drawing 2023-07-18 09.48.12.excalidraw.md",
+    "Computer Science/Data Representation.md",
+    "Computer Science/Fetch, Decode, Execute, Reset Cycle.md",
+    "Computer Science/Encryption.md",
+    "Computer Science/Datastructures.md",
+    "Summer Things To Do.md",
+    "2023-07-17.md",
+    "Maths/Pure/Sums and Series/Sums of Polynomial Series.md",
+    "Computer Science/Algorithms/Pathfinding.md",
+    "Computer Science/Modes Of Addressing.md",
+    "CS-HW/Untitled.md",
+    "CS-HW",
+    "Computer Science/Operating System Features.md",
+    "Computer Science/Programming Techniques.md",
+    "Computer Science/The Operating System.md",
+    "Computer Science/Machine Architecture.md",
+    "Computer Science/Interrupts.md",
+    "Computer Science/Hashing.md",
+    "Robotics/README.md",
+    "Robotics/parts.md",
+    "Robotics/notes.md",
+    "Maths/Pure/Vectors/Distances between points, lines and planes.pdf",
     "Maths/Pure/Methods Of Proof/Proof by Induction - recurrance relations.pdf",
-    "Maths/Pure/Methods Of Proof/Proof by Exhaustion.md",
-    "Maths/Pure/Methods Of Proof/Proof by Contradiction.md",
-    "Maths/Pure/Matricies/Matrix Operations.md",
-    "Maths/Pure/Matricies/Matricies and Simultaneous Equations.md",
-    "Maths/Pure/Matricies/Determinants and Inverses.md",
-    "Maths/Pure/Matricies/Consistency.md",
-    "Maths/Pure/Linear Transformations/Invariance.md",
     "Maths/Images/area_between_curves_fx.drawio.svg",
     "Robotics/datasheets/uln2004a.pdf",
     "Robotics/datasheets/stepper-motor-specs.pdf",
@@ -196,7 +206,6 @@
     "Physics/Images/OhmicConductorGraph.png",
     "Physics/Images/MomentsDiagram.png",
     "Physics/Images",
-    "Physics/Statistics/Statistical Distributions",
     "Untitled.canvas"
   ]
 }

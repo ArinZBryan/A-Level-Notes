@@ -1,4 +1,3 @@
-# Encryption
 This is the act of scrambling a message using an algorithm, such than any third party to the transaction would be unable to decipher the data without some key, which is required to decode the data.
 
 If we have the key, encryption is a reversible process unlike the process of hashing, which produces a similar output that cannot have the original data retrieved from it.

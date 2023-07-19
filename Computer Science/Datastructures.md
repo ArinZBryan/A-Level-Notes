@@ -1,5 +1,3 @@
-# Datastructures
-
 ## Stacks
 A stack is a manipulation of an already existing data structure (usually an array, but sometimes a list). Stacks
 operate on a first in / last out principle.

@@ -7,5 +7,7 @@
   "obsidian-pandoc",
   "highlightr-plugin",
   "drawio-obsidian",
-  "obsidian-emoji-toolbar"
+  "obsidian-emoji-toolbar",
+  "obsidian-paste-image-rename",
+  "obsidian-kanban"
 ]

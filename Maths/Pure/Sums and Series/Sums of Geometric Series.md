@@ -7,9 +7,9 @@ $S_n - rS_n = a - ar^n$
 $S_n(1-r) = a(1-r^n)$  
 $S_n = \frac{a(1-r^n)}{1-r}$  
 
-This reveals that the summnation of a geometric sequence is as below:
+This reveals that the summation of a geometric sequence is as below:
 
 $\sum^n_{r=1} ar^{n-1} = \frac{a(1-r^n)}{1-r}$
 
-## Inifinite Summations
-If $-1 < r < 1$, then the sequence converges, and thus, can be summed to infinity. Taking the finite summation, and taking the limit as $r \rightarrow \infty$, yeilds this summation. In the limit, $r^n = 0$, so $\sum^\infty_{n=1} ar^{n-1} = \frac{a}{1-r}$
+## Infinite Summations
+If $-1 < r < 1$, then the sequence converges, and thus, can be summed to infinity. Taking the finite summation, and taking the limit as $r \rightarrow \infty$, yields this summation. In the limit, $r^n = 0$, so $\sum^\infty_{n=1} ar^{n-1} = \frac{a}{1-r}$
