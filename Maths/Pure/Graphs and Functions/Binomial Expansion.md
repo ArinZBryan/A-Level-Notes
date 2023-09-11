@@ -24,7 +24,7 @@ $$(1 + kx)^n = 1 + nkx + \frac{n(n+1)}{2!}k^2x^2 + \frac{n(n+1)(n+2)}{3!}k^3x^3 
 It is important to note that this is an infinite series, that often converges quickly. As such, in exams it is unusual to be asked for more than the first few terms.
 
 ## Expanding the use of the binomial theorem for $n\in\mathbb{R}$
-There will be times when it is necassary to expand binomials of the form $(a+kx)^n$. It is in fact possible to transform this into being able to be used with the previous binomial theorem.
+There will be times when it is necessary to expand binomials of the form $(a+kx)^n$. It is in fact possible to transform this into being able to be used with the previous binomial theorem.
 
-$(a+kx)^n = (1 + \frac{k}{a}x) = 1 + n\frac{k}{a}x + \frac{n(n+1)}{2!}\frac{k}{a}^2x^2 + \frac{n(n+1)(n+2)}{3!}\frac{k}{a}^3x^3 + \dots + \frac{n(n+1)\dots(n-r+1)}{r!}\frac{k}{a}^rx^r$
+$(a+kx)^n = (1 + \frac{k}{a}x)^n = 1 + n\frac{k}{a}x + \frac{n(n+1)}{2!}\frac{k}{a}^2x^2 + \frac{n(n+1)(n+2)}{3!}\frac{k}{a}^3x^3 + \dots + \frac{n(n+1)\dots(n-r+1)}{r!}\frac{k}{a}^rx^r$
 

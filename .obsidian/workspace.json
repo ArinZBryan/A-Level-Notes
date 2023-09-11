@@ -4,35 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "e0b58cf317a25bda",
+        "id": "5f9bcc1f5c585720",
         "type": "tabs",
         "children": [
           {
-            "id": "325e0003d006c929",
+            "id": "5d5b5cc572b0b6fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Circular Motion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e8f91b27cadd32a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Harmonic Motion.md",
+                "file": "Physics/Fields/Gravitational Fields.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "b2fc0ad85768b22a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3e925bbdb97f95d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Waves/Waves Properties and Definitions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +74,7 @@
             }
           },
           {
-            "id": "90d3378b0ae1d545",
+            "id": "c03787f4aaf7fd75",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 356.5
   },
   "right": {
     "id": "d37e7daa1b0879f5",
@@ -99,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Harmonic Motion.md",
+                "file": "Physics/Fields/Gravitational Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Harmonic Motion.md",
+                "file": "Physics/Fields/Gravitational Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Harmonic Motion.md"
+                "file": "Physics/Fields/Gravitational Fields.md"
               }
             }
           },
@@ -161,64 +166,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4e8f91b27cadd32a",
+  "active": "c03787f4aaf7fd75",
   "lastOpenFiles": [
-    "Physics/Circular Motion.md",
-    "Physics/Harmonic Motion.md",
-    "Maths/Pure/Sums and Series/C + iS Series.md",
-    "Maths/IntegralMaths",
-    "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
-    "Maths/Statistics/Statistical Distributions/The Normal Distribution.md",
-    "Maths/Statistics/Statistical Distributions/Drawing 2023-07-18 14.33.53.excalidraw.md",
-    "Physics/Drawing 2023-07-18 09.48.12.excalidraw.md",
-    "Computer Science/Data Representation.md",
-    "Computer Science/Fetch, Decode, Execute, Reset Cycle.md",
-    "Computer Science/Encryption.md",
-    "Computer Science/Datastructures.md",
-    "Summer Things To Do.md",
-    "2023-07-17.md",
-    "Maths/Pure/Sums and Series/Sums of Polynomial Series.md",
-    "Computer Science/Algorithms/Pathfinding.md",
-    "Computer Science/Modes Of Addressing.md",
-    "CS-HW/Untitled.md",
-    "CS-HW",
-    "Computer Science/Operating System Features.md",
-    "Computer Science/Programming Techniques.md",
-    "Computer Science/The Operating System.md",
-    "Computer Science/Machine Architecture.md",
-    "Computer Science/Interrupts.md",
-    "Computer Science/Hashing.md",
-    "Robotics/README.md",
-    "Robotics/parts.md",
-    "Robotics/notes.md",
+    "Physics/Fields",
+    "Physics/Materials/Density, Viscosity and Stokes Law.md",
+    "Physics/Materials/Stress, Strain, Youngs Modulus and Hooke's Law.md",
+    "Physics/Waves/Diffraction.md",
+    "Physics/Materials",
+    "Physics/Waves/Polarisation.md",
+    "Physics/Waves/Waves Properties and Definitions.md",
+    "Physics/Waves/Lenses.md",
+    "Physics/Waves/Reflection, Refraction and TIR.md",
+    "Physics/Waves/Superposition, Path Difference and Phase Difference.md",
+    "Physics/Waves/Standing Waves.md",
+    "Physics/Waves",
+    "Physics/Quantum/Quantum Physics.md",
+    "Physics/Quantum/Electron Energy Levels and Spectra.md",
+    "Physics/Quantum/The Photoelectric Effect.md",
+    "Physics/Electricity/Electricity.md",
+    "Physics/Quantum",
+    "Physics/Mechanics/SUVAT.md",
+    "Physics/Mechanics/Momentum And Impulse.md",
+    "Physics/Mechanics/Moments.md",
+    "Physics/Mechanics/Harmonic Motion.md",
+    "Physics/Mechanics/Collisions.md",
+    "Physics/Mechanics/Circular Motion.md",
+    "Physics/Mechanics",
+    "Physics/Electricity/Internal Resistance and EMF.md",
+    "Physics/Electricity/Components and IV Characteristics.md",
+    "Physics/Electricity/Series and Parallel.md",
+    "Physics/Electricity/Electricity-DESKTOP-HCQ9MVL.md",
+    "Physics/Electricity/Capacitors.md",
+    "Images/capacitorEnergy.drawio.svg.md",
+    "Images",
+    "Physics/Electricity",
+    "Physics/Images/CapacitorChargeDischarge.svg",
+    "Pasted image 20230911125317.png",
+    "Pasted image 20230911125346.png",
+    "Pasted image 20230911125330.png",
+    "Computer Science/Computer Science book.pdf",
+    "Physics/Images/gravitationalFields.svg",
+    "Physics/Images/centripetal_acceleration_derivation_light.svg",
+    "Physics/Images/centripetal_acceleration_derivation_dark.svg",
+    "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
+    "Maths/Pure/Vectors/Lines in 3D.pdf",
     "Maths/Pure/Vectors/Distances between points, lines and planes.pdf",
-    "Maths/Pure/Methods Of Proof/Proof by Induction - recurrance relations.pdf",
     "Maths/Images/area_between_curves_fx.drawio.svg",
-    "Robotics/datasheets/uln2004a.pdf",
-    "Robotics/datasheets/stepper-motor-specs.pdf",
-    "Robotics/datasheets/Finder 40-Series Relays.pdf",
-    "Robotics/wsTest.py",
-    "Robotics/SCH_RGS-Turret_2023-06-20.json",
-    "Robotics/datasheets",
     "Physics/Images/totalInternalReflection.png",
     "Physics/Images/StressStrainGraph.jpg",
-    "Physics/Images/SHM-graphs.drawio.svg",
-    "Physics/Images/reflection.drawio.svg",
-    "Physics/Images/PotentialDivider.png",
-    "Physics/Images/polarisation.drawio.svg",
-    "Physics/Images/PathDifference.drawio.svg",
-    "Physics/Images/OhmicConductorGraph.png",
-    "Physics/Images/MomentsDiagram.png",
     "Untitled.canvas"
   ]
 }

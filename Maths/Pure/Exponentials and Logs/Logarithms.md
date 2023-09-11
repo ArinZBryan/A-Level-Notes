@@ -23,6 +23,6 @@ In some older questions, the $\log_{10}(x)$ may be expressed as lug(x)
 - $\log_p(x^y) = y\log_p(x)$
 
 - $\log_p(x) =\frac{\log_q(x)}{\log_q(p)}$  
-    (This one is knonw as the base change rule. It rarely comes up in A-level)
+    (This one is known as the base change rule. It rarely comes up in A-level)
 - $\log_p(p) = 1$
 - $\log_p(1) = 0$

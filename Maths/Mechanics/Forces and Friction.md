@@ -14,3 +14,4 @@ As $T$ increases, to pull the particle along, $F_R$ will increase to oppose this
 In summary, the above equation ($F_{Rmax} = \mu R$) only applies when the object is accelerating, or is in limiting equilibrium.
 
 ### Inclined Planes
+

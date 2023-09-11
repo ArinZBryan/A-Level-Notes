@@ -28,8 +28,9 @@ $\int{\sin^{2n}(x)}dx = \int{(1-\cos^2(x))^n}dx$
 
 ## Integration Methods
 ### Integration By Parts
-$\int{u \frac{dv}{dx}} = uv - \int{\frac{du}{dx} v}$
+$\int{u\;dv} = uv - \int{du\;v}$
 > When using integration by parts, it is advisable to choose $u$ to be something that gets easier when the derivative is taken, and $v$ to be something that gets easier when the integral is taken.
+> It is also important to remember that if only one part is immediately obvious, then it is possible to use $dv$ as $dv$ (see [dedicated page](./Integration%20by%20Parts.md) for example)
 
 ### Integration by Substitution
 Integration by substitution is when the integral is changed to be in terms of a different variable, and then substituted back in. This whole process is given in more detail in the document ["Integration by Substitution"](./Integration%20by%20Substitution.md) This follows the process roughly outlined below:
