@@ -20,4 +20,5 @@ It is important to note that when connecting identical cells in parallel, that t
 ### Capacitance
 In a series circuit, capacitance is the reciprocal of the sums of reciprocals of capacitances:
 $\frac 1C = \frac {1}{C_1} + \frac {1}{C_2} + \frac {1}{C_3} + \dots + \frac {1}{C_n}$ 
+
 In a parallel circuit, capacitances add across all branches.

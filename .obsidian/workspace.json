@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5f9bcc1f5c585720",
+        "id": "5e9319dc1c0ac1fd",
         "type": "tabs",
         "children": [
           {
-            "id": "5d5b5cc572b0b6fb",
+            "id": "2371ccf67e2eb6fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Fields/Gravitational Fields.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b2fc0ad85768b22a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d3e925bbdb97f95d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Waves/Waves Properties and Definitions.md",
+                "file": "Maths/Pure/Trigonometry/Trig Identities.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 293.5
   },
   "right": {
     "id": "d37e7daa1b0879f5",
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Fields/Gravitational Fields.md",
+                "file": "Maths/Pure/Trigonometry/Trig Identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Fields/Gravitational Fields.md",
+                "file": "Maths/Pure/Trigonometry/Trig Identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Fields/Gravitational Fields.md"
+                "file": "Maths/Pure/Trigonometry/Trig Identities.md"
               }
             }
           },
@@ -154,6 +136,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "acf7fd2db1fbfecc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -176,15 +168,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c03787f4aaf7fd75",
+  "active": "2371ccf67e2eb6fe",
   "lastOpenFiles": [
-    "Physics/Fields",
+    "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
+    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
+    "Physics/Mechanics/Collisions.md",
+    "Physics/Mechanics/Circular Motion.md",
     "Physics/Materials/Density, Viscosity and Stokes Law.md",
     "Physics/Materials/Stress, Strain, Youngs Modulus and Hooke's Law.md",
+    "Physics/Mechanics/Harmonic Motion.md",
+    "Maths/Statistics/Probablility/Probabilistic Operators.md",
+    "Maths/Statistics/Probablility/Probability.md",
+    "Maths/Statistics/Probablility/Represeting Probability.md",
+    "Physics/Electricity/Capacitors.md",
+    "Physics/Electricity/Series and Parallel.md",
+    "Physics/Electricity/Electricity.md",
+    "Physics/Electricity/Components and IV Characteristics.md",
+    "Physics/Waves/Waves Properties and Definitions.md",
+    "Physics/Fields/Gravitational Fields.md",
+    "Physics/Fields",
     "Physics/Waves/Diffraction.md",
     "Physics/Materials",
     "Physics/Waves/Polarisation.md",
-    "Physics/Waves/Waves Properties and Definitions.md",
     "Physics/Waves/Lenses.md",
     "Physics/Waves/Reflection, Refraction and TIR.md",
     "Physics/Waves/Superposition, Path Difference and Phase Difference.md",
@@ -193,21 +199,8 @@
     "Physics/Quantum/Quantum Physics.md",
     "Physics/Quantum/Electron Energy Levels and Spectra.md",
     "Physics/Quantum/The Photoelectric Effect.md",
-    "Physics/Electricity/Electricity.md",
     "Physics/Quantum",
-    "Physics/Mechanics/SUVAT.md",
-    "Physics/Mechanics/Momentum And Impulse.md",
-    "Physics/Mechanics/Moments.md",
-    "Physics/Mechanics/Harmonic Motion.md",
-    "Physics/Mechanics/Collisions.md",
-    "Physics/Mechanics/Circular Motion.md",
     "Physics/Mechanics",
-    "Physics/Electricity/Internal Resistance and EMF.md",
-    "Physics/Electricity/Components and IV Characteristics.md",
-    "Physics/Electricity/Series and Parallel.md",
-    "Physics/Electricity/Electricity-DESKTOP-HCQ9MVL.md",
-    "Physics/Electricity/Capacitors.md",
-    "Images/capacitorEnergy.drawio.svg.md",
     "Images",
     "Physics/Electricity",
     "Physics/Images/CapacitorChargeDischarge.svg",
@@ -220,7 +213,6 @@
     "Physics/Images/centripetal_acceleration_derivation_dark.svg",
     "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
     "Maths/Pure/Vectors/Lines in 3D.pdf",
-    "Maths/Pure/Vectors/Distances between points, lines and planes.pdf",
     "Maths/Images/area_between_curves_fx.drawio.svg",
     "Physics/Images/totalInternalReflection.png",
     "Physics/Images/StressStrainGraph.jpg",

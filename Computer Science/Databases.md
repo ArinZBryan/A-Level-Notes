@@ -1,5 +1,3 @@
-# Databases
-
 ## Definitions
 
 * Database 
@@ -15,7 +13,7 @@
     - A collection of related attributes pertaining to a subject
 
 * Primary Key
-    - A unique identifier for each record in a Database entity
+	    - A unique identifier for each record in a Database entity
 
 * Flat file database 
     - A database consisting of just one entity with a large number of attributes.
@@ -37,6 +35,9 @@
 	    > (No repeating attributes, Data is consistent, Attributes held within the entity are dependent on the primary key)
 	- There are 3 stages to database normalization called 'normal form'
 
+- Referential Integrity
+	- A programmable set of relationships that maintain the integrity and consistency of data items across the database.
+	- This ensures that when records are created, updated or removed, related records are dealt with properly. This may include deleting orphaned records.
 
 ## Normalization
 
