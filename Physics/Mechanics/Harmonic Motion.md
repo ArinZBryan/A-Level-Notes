@@ -1,6 +1,6 @@
-
 ## Simple Harmonic Motion
 SHM (Simple Harmonic Motion) is a regular oscillation where the acceleration of an object is proportional to the displacement from the equilibrium, and directed towards the equilibrium.
+In simpler terms, there must always be a restoring force that always acts towards the equilibrium point, and is of magnitude proportional to the displacement from that point.
 
 ### Equations
 
@@ -13,6 +13,8 @@ SHM (Simple Harmonic Motion) is a regular oscillation where the acceleration of 
 | **For a pendulum:** <br> $T = 2\pi\sqrt{\frac{l}{g}}$ <br> **For a spring** <br> $T = 2\pi\sqrt{\frac{k}{m}}$  | $T$ = Time Period <br> $l$ = Length of pendulum <br> $g$ = Acceleration due to gravity <br> $k$ = Spring constant <br> $m$ = Mass of oscillating body         |
 | $\omega = 2\pi f$ <br> $\omega = \sqrt{\frac{k}{m}}$                                                           | $\omega$ = Angular velocity <br> $\omega$ = Angular Frequency <br> $f$ = Frequency<br> $k$ = Spring Constant <br> $m$ = Mass <br>                          |
 ![SHM Diagram](SHM-graphs.drawio.svg)
+## Pendulums
+> *Side Note*: Despite what the textbook says, pendulums **are not** actually an example of SHM. However, at small angles, the *small angle theorem* can be used to approximate the motion of the pendulum to SHM.
 
 
 ## Damped Harmonic Motion

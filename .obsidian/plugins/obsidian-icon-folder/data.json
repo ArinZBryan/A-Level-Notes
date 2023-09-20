@@ -31,11 +31,5 @@
       "left": 0
     },
     "iconInTabsEnabled": true
-  },
-  "Computer Science/Images/Data_Representation": "SiGraphql",
-  "Computer Science/Images/FDER_cycle": "LiCpu",
-  "Computer Science/Images/File_Systems": "LiFileCog",
-  "Computer Science/Images/Graphs": "SiGraphql",
-  "Computer Science/Images/Pathfinding": "TiMathSymbols",
-  "Computer Science/Images/Speeds_of_algorithms": "SiSpeedtest"
+  }
 }

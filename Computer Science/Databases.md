@@ -36,6 +36,7 @@
 	- There are 3 stages to database normalization called 'normal form'
 
 - Referential Integrity
+	- A set of rules that dictate that there may be no orphaned records, or foreign keys that refer to deleted data (`nullPtr`)
 	- A programmable set of relationships that maintain the integrity and consistency of data items across the database.
 	- This ensures that when records are created, updated or removed, related records are dealt with properly. This may include deleting orphaned records.
 
@@ -101,7 +102,7 @@ Relational databases in large organizations are accessed by many users. Therefor
 		- A pointer to the original is passed. Changes may be made to the original.
 
 		- ACID (All database structures and records must follow these principles - they help maintain the integrity of database structures)
-		    - ***A***tomicity (A change to a record in the database is performed entirely, or not at all.)
+			- ***A***tomicity (A change to a record in the database is performed entirely, or not at all.)
 			- ***C***onsistency (A change to the database must maintain the overall structure of the database)
 			- ***I***solation (Records that are currently being accessed are locked during the period of transaction (basic async. / race condition stuff - called a MUTEX / lock) - the lock is removed after the transaction has taken place)
 			- ***D***urability (Once a change has been made, it cannot be lost due to system failure. Transactions are updated in real-time and must be written to permanent secondary storage.)
