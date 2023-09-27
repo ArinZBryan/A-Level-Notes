@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6aa2054cf567f592",
+        "id": "77fcb8a11abb7c9e",
         "type": "tabs",
         "children": [
           {
-            "id": "8be70dca97a51d9d",
+            "id": "21926f4c21b8f4dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Statistics/Statistical Distributions/The Normal Distribution.md",
+                "file": "Computer Science/Machine Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a50865c56486062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Multitasking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +69,7 @@
             }
           },
           {
-            "id": "26c1d6c7ef349d64",
+            "id": "0175da68a0c6cf58",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 313.5
   },
   "right": {
     "id": "d37e7daa1b0879f5",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Statistics/Statistical Distributions/The Normal Distribution.md",
+                "file": "Computer Science/Multitasking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Statistics/Statistical Distributions/The Normal Distribution.md",
+                "file": "Computer Science/Multitasking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Statistics/Statistical Distributions/The Normal Distribution.md"
+                "file": "Computer Science/Multitasking.md"
               }
             }
           },
@@ -168,38 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8be70dca97a51d9d",
+  "active": "1a50865c56486062",
   "lastOpenFiles": [
-    "Maths/Statistics/Statistical Distributions/Drawing 2023-07-18 14.33.53.excalidraw.md",
-    "Maths/Pure/Sums and Series/C + iS Series.md",
-    "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
-    "Maths/Pure/Sums and Series/Sums of Polynomial Series.md",
-    "Maths/Pure/Sums and Series/Standard Series Expansions.md",
-    "Maths/Pure/Complex Numbers/Modulus-Argument Form.pdf",
-    "Maths/Pure/Lines and Curves/Roots of Curves/Roots of Cubics.pdf",
-    "Computer Science/Boolean Algebra.md",
-    "Physics/Fields/Electric Fields.md",
-    "Physics/Images/ElectricFields.svg",
-    "Physics/Images/ElectricFieldDotPlate.svg",
-    "Physics/Fields/Gravitational Fields.md",
-    "Physics/Images/CoulombsLawDiagram.png",
-    "Physics/Images/CoulombsLawDiagram.png.crdownload",
-    "Physics/Electricity/Capacitors.md",
-    "Physics/Electricity/Components and IV Characteristics.md",
-    "Physics/Electricity/Electricity.md",
-    "Physics/Electricity/Series and Parallel.md",
-    "Physics/Electricity/Internal Resistance and EMF.md",
-    "Physics/Images/ElectricFieldPlates.svg",
-    "Physics/Fields/ElectricFieldPlates - Copy.svg",
-    "Physics/Mechanics/Harmonic Motion.md",
-    "Physics/Mechanics/Circular Motion.md",
-    "Computer Science/Multitasking.md",
     "Computer Science/The Operating System.md",
     "Computer Science/Operating System Features.md",
     "Computer Science/Machine Architecture.md",
     "Computer Science/Interrupts.md",
     "Computer Science/Fetch, Decode, Execute, Reset Cycle.md",
     "Computer Science/CPU Architecture.md",
+    "Physics/Mechanics/Harmonic Motion.md",
+    "Physics/Fields/Gravitational Fields.md",
+    "Physics/Mechanics/Circular Motion.md",
     "Computer Science/Databases.md",
     "Computer Science/Images/Boolean_Algebra/Karnaugh-AxorB.png",
     "Computer Science/Images/Boolean_Algebra/Karnaugh-AorB.png",
@@ -211,11 +203,32 @@
     "Images",
     "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
     "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
+    "Computer Science/Boolean Algebra.md",
+    "Computer Science/Programming Techniques.md",
+    "Computer Science/The Compilation Toolchain.md",
+    "Computer Science/Ethical and Moral Issues.md",
+    "Computer Science/Legislation.md",
+    "Physics/Electricity/Internal Resistance and EMF.md",
+    "Maths/Pure/Trigonometry/Trig Identities.md",
+    "Maths/Pure/Trigonometry/Trig Rules.md",
+    "Physics/Mechanics/Circular.md",
+    "Circular.md",
+    "Mechanics/Circular.md",
     "Mechanics",
     "Physics/Images/OrbitDiagram.svg",
+    "Drawing 2023-09-13 09.36.56.excalidraw.md",
     "Physics/Materials",
     "Physics/Waves",
     "Physics/Quantum",
+    "Physics/Mechanics",
+    "Physics/Electricity",
+    "Physics/Images/CapacitorChargeDischarge.svg",
+    "Pasted image 20230911125317.png",
+    "Pasted image 20230911125346.png",
+    "Pasted image 20230911125330.png",
+    "Computer Science/Computer Science book.pdf",
+    "Physics/Images/gravitationalFields.svg",
     "Untitled.canvas"
   ]
 }

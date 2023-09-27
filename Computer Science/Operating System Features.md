@@ -31,3 +31,11 @@
 - Takes an item of data (usually a network packet or file) and scramble it into a form that is unrecognizable to any third parties to the transaction.
 - To 'unscramble' or encrypt the file, the recipient must have a 'key' 
 - An algorithm can be applied to change the data item into a scrambled (encrypted) form.
+
+### User Interfaces
+##### Graphical User Interfaces (GUI)
+This is the most common type of user interface in the modern day. In a GUI, users must interact via touch or mouse input predominantly. As such, it can be very flexible, and easy to learn. However, due to limited screen real-estate, only so much information can be surfaced to the user at once, limiting the speed of interaction with a graphical user interface.
+##### Text User Interface (TUI)
+A text user interface is similar in concept to a GUI, involving surfacing information to the user via the use of some sort of graphic. However, in the case of a TUI, this is done via using large walls of text, usually in the terminal. This also means that most movement and selection must be done via the keyboard rather than the mouse. One example of this is VIM, and its derivatives which run in the terminal.
+##### Command Line Interface (CLI)
+A command line interface is a method of interacting with a program via 'arguments' and 'flags'. This type of interface is highly efficient, as very few movements need to be made by the user, and complex actions can be completed by typing names. Thus, this is the preferred method of the *poweruser* and also an easy way for programs to interact with each other.

@@ -1,7 +1,7 @@
 ### Internal Resistance
 Batteries, and all power supplies have an **internal resistance**, caused by electrons colliding with the atoms in the power supply. This causes a small loss of energy before the electricity even exits the battery. This internal resistance is commonly shown as a resistor next to the batteries, encased in a box to indicate it is internal to the component.
 
-![Circuit Diagram of Internal Resistance](../Images/InternalResistanceCircuitDiagram.png)
+![Circuit Diagram of Internal Resistance](InternalResistanceCircuitDiagram.png)
 
 ### Electromotive Force
 **Electromotive Force** (emf / $\epsilon$) is the energy transferred by a cell, per unit of charge that passes through it ($\epsilon = \frac{E}{Q}$). **Electromotive Force** is thus, measured in Volts, and so, **Ohm's Law** can be applied to it. This can be measured by measuring the voltage across the power supply when there is no current being drawn. This requires that the battery is in an open circuit, or is disconnected from the circuit.

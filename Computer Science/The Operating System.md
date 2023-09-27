@@ -18,6 +18,8 @@ The operating system has the requirement of being able to:
 - Peripheral API management ([device drivers](#device-drivers)). This may include networking, and the song and dance required for that.
 - User access management
 - Split CPU time between programs (if [multitasking](./Multitasking.md))
+- Managing ISRs (Interrupt Service Routines)
+- Error Handling
 
 ### Device Drivers
 A device driver is a piece of software that is used to translate signals between two pieces of hardware or software. If it is translating for a piece of software, then it may be called an API or [library](#system-libraries)
@@ -60,5 +62,6 @@ In some circumstances, it may be beneficial to have multiple bootable drives or 
     This type of operating system is generally purpose built to perform one or several fixed task. It may not have 'drivers' or other such concepts, as due to its purpose built nature, it will only ever run on one type of hardware.  
     In some cases these operating systems can be considered to be applications in of themselves. Despite this they often may contain a minimal or no user interface.  
     As with all embedded devices, the requirements to run the operating system are generally quite low, similarly, there is often no need to store data permanently.
-
+- BIOS  
+	This is not *really* a type of operating system. It would be more accurate to lump it in with embedded operating systems or even with real-time operating systems. However, it is largely distinct from the other operating systems that one may find running. It is a very simple operating system, usually stored on the motherboard, in some section of ROM/RAM which is booted into before booting the main operating system.
  

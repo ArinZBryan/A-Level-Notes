@@ -12,14 +12,14 @@ The factors affecting capacitance of a capacitor are as follows:
 ### Energy stored in a capacitor
 The energy stored in the capacitor is equal to the area under the graph:
 
-![Capacitor Energy](../Images/capacitorEnergy.drawio.svg)
+![Capacitor Energy](capacitorEnergy.drawio.svg)
 
 Thus, $E = \frac{1}{2}QV$ or $E = \frac{1}{2}CV^2$ or $E = \frac{1}{2}\frac{Q^2}{C}$
 
 ### Discharging a capacitor
 When charging and discharging a capacitor, the voltage and current across the capacitor follow exponential curves
 
-![Charge On A Capacitor](../Images/CapacitorChargeDischarge.svg)
+![Charge On A Capacitor](CapacitorChargeDischarge.svg)
 
 The equations used here are as follows:
 $Q = Q_0\space e^{\frac{-t}{CR}}$

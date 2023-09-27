@@ -5,12 +5,12 @@ Below are some I/V graphs of common conductors that are needed at A-Level
 ### Ohmic Conductor
 This type of component follows **Ohm's Law**, and so it's graph is a straight line through the origin.
 
-![Graph of Ohmic Conductor](../Images/OhmicConductorGraph.png)
+![Graph of Ohmic Conductor](OhmicConductorGraph.png)
 
 ### Diode (Semiconductor)
 As a diode only allows current to flow in one direction, it makes sense that little to no current passes until the required threshold voltage is met.
 
-![Graph of Diode](../Images/DiodeSemiconductorGraph.png)
+![Graph of Diode](DiodeSemiconductorGraph.png)
 
 ### Filament Lamp
 Surprisingly, until a threshold current, this type of conductor obeys **Ohm's Law**, however, as the current increases, and the metal filament heats up, the resistance increases, and thus causes a break from **Ohm's Law**

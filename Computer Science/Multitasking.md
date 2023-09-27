@@ -6,11 +6,11 @@ The scheduler may use one of five algorithms that we need to know.
 
 * [Queue](Datastructures.md/#queues) (aka first come first serve)- The order in which the tasks arrive, regardless of how long the tasks may take. Tasks which are time intensive may monopolize processor time.
 * Shortest Job First - The scheduler will always prioritize jobs that are known to take the least time that is available. Jobs will then be executed in this order
-* Round Robin - Each task is given a set amount of cpu time. Once this has elapsed, the job may be paused or completed, and the next job begun.
+* Round Robin - Each task is given a set amount of CPU time. Once this has elapsed, the job may be paused or completed, and the next job begun.
 * Shortest Time Remaining - Like Shortest job first, except it takes into account how long it has left to be completely done
 * Multi-level Feedback [queues](Datastructures.md/#queues) - There are a number of different queues. Processes may move up and down queues in order of priority due to different factors.
 
-When the CPU recives an [interrupt](./Interrupts.md/#interrupts), the scheduler is usually paused, and the interrupt is handled before it can resume.
+When the CPU receives an [interrupt](./Interrupts.md/#interrupts), the scheduler is usually paused, and the interrupt is handled before it can resume.
 
 In practice, this is largely theoretical, as the actual processor time split is heavily influenced by what programs the user has open. As such, these more idealistic algorithms are largely reserved for background tasks.
 
@@ -23,7 +23,7 @@ A thread is always the child of a process. It can usually communicate only with 
 ## Handles
 Much like how a thread is the child of a process, a handle is the child of a thread. Similarly, one thread may have many handles. However, these will only ever communicate with their parent thread.  
 
-A 'Handle' can also refer to file handles, which are built using simmilar technology. They constist largely of a single pointer, and a promise to the program that the resources it is accessing is only being accessed by itself. This use of the work is not found in the A-Level specification.
+A 'Handle' can also refer to file handles, which are built using similar technology. They consist largely of a single pointer, and a promise to the program that the resources it is accessing is only being accessed by itself. This use of the work is not found in the A-Level specification.
 
 ## Concurrency
 ***See [Pipelining](./FDER_Cycle.md/#pipelines)***

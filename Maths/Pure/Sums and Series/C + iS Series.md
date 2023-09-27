@@ -7,7 +7,7 @@ Assume the series given is $C$, a series that involves $\cos(n\theta)$.
 3. Group together into modulus argument form
 4. Rewrite using Euler's Theorem ($n(\cos\theta + i\sin\theta) = ne^{i\theta}$)
 	- This usually creates a geometric sequence, where $a = e^{i\theta}$, and $r = ne^{i\theta}$
-5. $C + iS = \frac{e^{i\theta}(1-n^ne^{in\theta})}{1-ne^{i\theta}}$ 
+5. $C + iS = \frac{e^{i\theta}(1-n^ne^{in\theta})}{1-ne^{i\theta}}$ or $C + iS = \frac{e^{i\theta}}{1-ne^{i\theta}}$ if $C$ and $S$ converge and are summing to infinity rather than to a number of terms. 
 6. Realise the denominator
 	- ##### Method 1 - Differing Coefficients
 		 This method should be used when $n \ne 1$, and thus the coefficients are different   		 
