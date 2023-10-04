@@ -12,22 +12,17 @@ The population is divided into groups according to a characteristic. A quota of 
 - No sampling frame required.
 - Quick, easy and inexpensive.
 - Allows for easy comparison between different groups in population.
-
 ### Disadvantages
 - Non-random sampling can introduce bias.
 - Population must be divided into groups, which can be costly or inaccurate.
 - Increasing scope of study increases the number of groups, which adds time / expense.
 - Non-responses are not recorded.
-<hr/>
-
 ## Opportunity / Convenience Sampling
 ### What is it?
 Sample taken from people who are available at the time of the study, who meet a give criteria.
-
 ### Advantages
 - Easy to carry out
 - Inexpensive
-
 ### Disadvantages
 - Unlikely to provide a representative sample
 - Highly dependent on the individuals researcher

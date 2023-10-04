@@ -13,7 +13,7 @@ In a hypothesis test, evidence from the sample is called a **test statistic**
 
 ### Level of significance
 The **level of significance** ($\alpha$) is the maximum probability where we would reject the null hypothesis.
-> This is usually 5% or 1%
+>This is usually 5% or 1%
 
 ### Tailed Tests
 The below example is an example of a **one-tailed test**, as a specific bias is being tested for. A **two-tailed test** is one where any bias is being tested for. Eg. $H_0 : p = 0.5$, $H_1 : p \ne 0.5$ . One thing to note: when dealing with levels of significance in two-tailed tests, the level of significance must be split between the tails.

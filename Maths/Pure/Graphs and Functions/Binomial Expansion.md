@@ -1,6 +1,6 @@
 A binomial is a polynomial with only two terms, and is then of the form $(a + b)$
 
-## Pascal's Traingle
+## Pascal's Triangles
 When exponentiating a binomial, the power that the binomial is raised to is the level of the pascal's triangle that corresponds to the coefficients of the terms.
 
 ![Pascal's Triangle](./../../Images/PascalsTriangle.png)

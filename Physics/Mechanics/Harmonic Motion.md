@@ -18,3 +18,8 @@ In simpler terms, there must always be a restoring force that always acts toward
 
 
 ## Damped Harmonic Motion
+There are several types of damped harmonic motion:
+- Heavy Damping / Overdamped
+- Light Damping / Underdamped
+- Critically Damped
+![[DampedHarmonicMotion.svg]]

@@ -20,4 +20,4 @@ $\sigma_x = 10\sqrt{2}$
 | $y = 2x - 5$ | $\bar{y} = 2\bar{x} - 5$, ie. effect on values is same as on mean | $-5$ has no effect, but standard deviation will get 2x larger | Median will by multiplied by 2, then have 5 subtracted from it |
 
 ### Coding with more complex operators
-It 
+In some cases, it may be that data is coded using functions such as $\ln()$ or $\log()$. Luckily, it is not necassary to know how this coding affects the mean ($\overline{x}$), median or standard deviation ($\sigma$). Generally, when coding is performed with logarithms, it is for the purpose of using a linear regression model on data with an exponential. This may reveal that an exponential model is more appropriate for the given data if the [PMCC](./PMCC.md) of the coded data is higher.

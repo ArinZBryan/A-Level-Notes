@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "6aa2054cf567f592",
+        "id": "bde9725f5a7ec4f2",
         "type": "tabs",
         "children": [
           {
-            "id": "8be70dca97a51d9d",
+            "id": "d6739749138c3301",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Physics/FormulaSheet.pdf"
+              }
+            }
+          },
+          {
+            "id": "f8d7bc0b2ae04596",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Physics/FormulaSheet.pdf"
+              }
+            }
+          },
+          {
+            "id": "e86fc7304e249514",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Statistics/Statistical Distributions/The Normal Distribution.md",
+                "file": "Physics/Mechanics/Circular Motion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 200
   },
   "right": {
     "id": "d37e7daa1b0879f5",
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Statistics/Statistical Distributions/The Normal Distribution.md",
+                "file": "Physics/Mechanics/Circular Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Statistics/Statistical Distributions/The Normal Distribution.md",
+                "file": "Physics/Mechanics/Circular Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Statistics/Statistical Distributions/The Normal Distribution.md"
+                "file": "Physics/Mechanics/Circular Motion.md"
               }
             }
           },
@@ -168,54 +189,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8be70dca97a51d9d",
+  "active": "e86fc7304e249514",
   "lastOpenFiles": [
-    "Maths/Statistics/Statistical Distributions/Drawing 2023-07-18 14.33.53.excalidraw.md",
-    "Maths/Pure/Sums and Series/C + iS Series.md",
-    "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
-    "Maths/Pure/Sums and Series/Sums of Polynomial Series.md",
-    "Maths/Pure/Sums and Series/Standard Series Expansions.md",
-    "Maths/Pure/Complex Numbers/Modulus-Argument Form.pdf",
-    "Maths/Pure/Lines and Curves/Roots of Curves/Roots of Cubics.pdf",
-    "Computer Science/Boolean Algebra.md",
-    "Physics/Fields/Electric Fields.md",
-    "Physics/Images/ElectricFields.svg",
-    "Physics/Images/ElectricFieldDotPlate.svg",
-    "Physics/Fields/Gravitational Fields.md",
-    "Physics/Images/CoulombsLawDiagram.png",
-    "Physics/Images/CoulombsLawDiagram.png.crdownload",
-    "Physics/Electricity/Capacitors.md",
-    "Physics/Electricity/Components and IV Characteristics.md",
-    "Physics/Electricity/Electricity.md",
-    "Physics/Electricity/Series and Parallel.md",
-    "Physics/Electricity/Internal Resistance and EMF.md",
-    "Physics/Images/ElectricFieldPlates.svg",
-    "Physics/Fields/ElectricFieldPlates - Copy.svg",
+    "Physics/FormulaSheet.pdf",
     "Physics/Mechanics/Harmonic Motion.md",
     "Physics/Mechanics/Circular Motion.md",
-    "Computer Science/Multitasking.md",
-    "Computer Science/The Operating System.md",
-    "Computer Science/Operating System Features.md",
-    "Computer Science/Machine Architecture.md",
-    "Computer Science/Interrupts.md",
-    "Computer Science/Fetch, Decode, Execute, Reset Cycle.md",
-    "Computer Science/CPU Architecture.md",
-    "Computer Science/Databases.md",
-    "Computer Science/Images/Boolean_Algebra/Karnaugh-AxorB.png",
-    "Computer Science/Images/Boolean_Algebra/Karnaugh-AorB.png",
-    "Computer Science/Images/Boolean_Algebra/Karnaugh-AandB.png",
-    "Computer Science/Images/Boolean_Algebra/Karnaugh-4Inputs.png",
-    "Computer Science/Images/Boolean_Algebra",
-    "Physics/Fields",
-    "Images/capacitorEnergy.drawio.svg.md",
-    "Images",
-    "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
+    "Maths/Statistics/Hypothesis Testing/Hypothesis Testing.md",
+    "Maths/Pure/Complex Numbers/Complex Numbers - Higher Order Polynomials.pdf",
+    "Physics/Fields/Gravitational Fields.md",
+    "Physics/Fields/Electric Fields.md",
+    "Physics/Fields/Equipotential Lines.md",
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
     "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
-    "Mechanics",
-    "Physics/Images/OrbitDiagram.svg",
-    "Physics/Materials",
-    "Physics/Waves",
-    "Physics/Quantum",
+    "Maths/Pure/Calculus/Integration/Parametric Integration.md",
+    "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
+    "Maths/Pure/Calculus/Integration/Integration.md",
+    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
+    "Maths/Pure/Calculus/Integration/Integration by Substitution.md",
+    "Maths/Pure/Calculus/Integration/The Trapezium Rule.md",
+    "Computer Science/The Operating System.md",
+    "Computer Science/Software Development.md",
+    "Maths/FormulaSheet.pdf",
+    "Maths/Pure/Graphs and Functions/Binomial Expansion.md",
+    "Physics/Images/FieldLines.svg",
+    "Physics/Electricity/Electricity.md",
+    "Maths/Pure/Trigonometry/Hyperbolic Trigonometric Functions.md",
+    "Maths/Statistics/Measures of Location And Spread/PMCC.md",
+    "Maths/Statistics/Statistical Distributions/The Normal Distribution.md",
+    "Maths/Pure/Graphs and Functions/Functions and Mappings.md",
+    "Maths/Pure/Graphs and Functions/Function Transformations.md",
+    "Maths/Images/cosh.svg",
+    "Maths/Images/Unconfirmed 834727.crdownload",
+    "Maths/Images/tanh.svg",
+    "Maths/Images/Unconfirmed 27191.crdownload",
+    "Maths/Images/Unconfirmed 985407.crdownload",
+    "Maths/Images/sinh.svg",
+    "Maths/Images/Unconfirmed 780505.crdownload",
+    "Maths/Statistics/Measures of Location And Spread/Coding.md",
+    "Maths/Statistics/Collecting Data/Types of Data.md",
+    "Pasted image 20230927231319.png",
+    "Physics/Electricity/DampedHarmonicMotion.svg",
+    "Physics/Images/DampedHarmonicMotion.svg",
+    "Maths/Pure/Complex Numbers/Modulus-Argument Form.pdf",
+    "Maths/Pure/Lines and Curves/Roots of Curves/Roots of Cubics.pdf",
+    "Physics/Images/ElectricFields.svg",
+    "Physics/Images/ElectricFieldDotPlate.svg",
+    "Physics/Images/CoulombsLawDiagram.png",
+    "Physics/Images/CoulombsLawDiagram.png.crdownload",
     "Untitled.canvas"
   ]
 }

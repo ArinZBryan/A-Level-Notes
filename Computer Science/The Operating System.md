@@ -20,34 +20,28 @@ The operating system has the requirement of being able to:
 - Split CPU time between programs (if [multitasking](./Multitasking.md))
 - Managing ISRs (Interrupt Service Routines)
 - Error Handling
-
 ### Device Drivers
 A device driver is a piece of software that is used to translate signals between two pieces of hardware or software. If it is translating for a piece of software, then it may be called an API or [library](#system-libraries)
-
 ### Schedulers (aka Job Scheduler)
 ***See [Multitasking](Multitasking.md)***   
 The operating system uses scheduling algorithms which allocate processing time to each task / process / thread that is currently needing to be service.
 The scheduler may use one of five algorithms that we need to know  
 * Queue (aka first come first serve)- The order in which the tasks arrive, regardless of how long the tasks may take. Tasks which are time intensive may monopolize processor time.
 * Shortest Job First - The scheduler will always prioritize jobs that are known to take the least time that is available. Jobs will then be executed in this order
-* Round Robin - Each task is given a set amount of cpu time. Once this has elapsed, the job may be paused or completed, and the next job begun.
+* Round Robin - Each task is given a set amount of CPU time. Once this has elapsed, the job may be paused or completed, and the next job begun.
 * Shortest Time Remaining - Like Shortest job first, except it takes into account how long it has left to be completely done
 * Multi-level Feedback queues - There are a number of different queues. Processes may move up and down queues in order of priority due to different factors.
-
 ### The Kernel
 The lowest level of the operating system and the most vital. (Kernel can also refer to the lowest level of user access.)  
 * It responds to [syscalls / kernel calls](#system-libraries), hardware interrupts, software interrupts, exceptions, controls and interacts with hardware using [drivers](#device-drivers), manipulates processor states and maps virtual addresses to programs.  
 * Generally, this process is kept isolated, so that no untrusted code is run.
-
 ### System Libraries
 These 'hook' into the kernel, and allow for certain very basic features to be accessed.
 This term can also be applied to [device drivers](#device-drivers)
 * An example may include access to the system clock, or the ability to allocate and copy memory
 * In windows, these may take the form of *.dll files, though such dlls can be also applications
-
 ### Dual Booting
-In some circumstances, it may be beneficial to have multiple bootable drives or partitions. These may contain the same or different operating system. Though similar to using a VM from a user facing perspective, it is entirely driven by hardware, and no virtualisation or emulation occurs. An example of this is the dual booting of Windows and some flavor of linux.
-
+In some circumstances, it may be beneficial to have multiple bootable drives or partitions. These may contain the same or different operating system. Though similar to using a VM from a user facing perspective, it is entirely driven by hardware, and no virtualisation or emulation occurs. An example of this is the dual booting of Windows and some flavour of Linux.
 ### Different types of operating system
 
 - **Real-Time**  

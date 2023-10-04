@@ -5,7 +5,13 @@ The charge on an object is what causes an object to experience an electric field
 $F = EQ$
 Therefore: $E = \frac FQ$
 so, $E$ is in the units Newtons/Coulomb. Note that this is also equal to Volts/Meter. Thus, you will see both come up.
-
+##### Finding E
+For a uniform field (between plates), then there is a way of finding $E$. This is done using the equation: $E = \frac VD$. 
+To derive this equation: 
+$F = EQ$
+$W = FD = QV$
+$QV = EQD$
+$\frac VD = E$
 ### The shape of fields
 ![[/Physics/Images/ElectricFieldPlates.svg]] ![Electric Field](/Physics/Images/ElectricFieldDotPlate.svg)
 ### Coulomb's Law

@@ -1,11 +1,11 @@
 Ordinarily we would want each thing in our sampling frame to have an **equal chance of being chosen**, in order to **avoid bias**.  
-This is known as <u>*random sampling*</u>. There are a few ways to do this...
+This is known as <u><i>random sampling</i></u>. There are a few ways to do this...
 
 ## Simple Random Sampling
 ### What is it?
 Every sample has an equal chance of being selected.
 ### Method:
-In sampling frame <u> each item has an identifying number.</u> Use a <u>random number generator</u>, or '*lottery sampling*' (eg. picking names from a hat)
+In sampling frame <u>each item has an identifying number.</u> Use a <u>random number generator</u>, or '*lottery sampling*' (eg. picking names from a hat)
 ### Advantages
 - Bias free
 - Easy and cheap to implement

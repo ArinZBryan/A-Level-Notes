@@ -1,7 +1,7 @@
 ## Integration
 $\int{x^n}dx = \frac{x^{n+1}}{n+1} + c$ 
 $\int{e^{kx}}dx = \frac{1}{k}e^{kx} + c$  
-$\int{\frac 1x}dx = \ln(x) + c$
+$\int{\frac {1}{ax+b}}dx = \frac 1a\ln(ax+b) + c$
 $\int \ln(x)dx = x\ln(x) - x + c$
 $\int{a^x}dx = \frac{a^x}{\ln{a}} + c$  
 $\int{\sin kx}dx = -\frac{1}{k}\cos xk + c$  
