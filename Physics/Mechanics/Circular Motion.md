@@ -26,7 +26,7 @@ $\omega = 2\pi f$
 
 For A whole circle, $v = \frac{2\pi r}{T}$, however, $T = \frac{2\pi}{\omega}$, so $v = \frac{r}{\omega}$
 
-> $a$ ($\text{rad}\space\text{s}^{-2}$)= centripetal acceleration  
+> $a$ ($\text{rad}\space\text{s}^{-2}$) = centripetal acceleration  
 > $E_k$ ($\text{J}$) = kinetic energy  
 > $f$ ($\text{H}_\text{z}$) = frequency  
 > $\sum F$ ($\text{N}$) = resultant force

@@ -21,9 +21,11 @@
             "id": "f8d7bc0b2ae04596",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Physics/FormulaSheet.pdf"
+                "file": "Physics/Fields/Electric Fields.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -40,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Mechanics/Circular Motion.md",
+                "file": "Physics/Fields/Electric Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Mechanics/Circular Motion.md",
+                "file": "Physics/Fields/Electric Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Mechanics/Circular Motion.md"
+                "file": "Physics/Fields/Electric Fields.md"
               }
             }
           },
@@ -189,16 +191,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e86fc7304e249514",
+  "active": "f8d7bc0b2ae04596",
   "lastOpenFiles": [
-    "Physics/FormulaSheet.pdf",
+    "Physics/Fields/Equipotential Lines.md",
+    "Physics/Fields/Electric Fields.md",
     "Physics/Mechanics/Harmonic Motion.md",
+    "Physics/FormulaSheet.pdf",
     "Physics/Mechanics/Circular Motion.md",
     "Maths/Statistics/Hypothesis Testing/Hypothesis Testing.md",
     "Maths/Pure/Complex Numbers/Complex Numbers - Higher Order Polynomials.pdf",
     "Physics/Fields/Gravitational Fields.md",
-    "Physics/Fields/Electric Fields.md",
-    "Physics/Fields/Equipotential Lines.md",
     "Maths/Pure/Calculus/Common forms for Calculus.md",
     "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
     "Maths/Pure/Calculus/Integration/Parametric Integration.md",

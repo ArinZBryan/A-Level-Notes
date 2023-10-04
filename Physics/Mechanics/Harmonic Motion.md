@@ -23,3 +23,4 @@ There are several types of damped harmonic motion:
 - Light Damping / Underdamped
 - Critically Damped
 ![[DampedHarmonicMotion.svg]]
+As the degree of damping increases, the resonant frequency decreases, the maximum amplitude decreases and the peak of the maximum amplitude becomes wider.
