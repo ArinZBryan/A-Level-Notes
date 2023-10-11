@@ -9,11 +9,11 @@ There are three major fields that we look at in A Level physics
 Thus, a gravitational field is a field in which objects are influenced by the gravitational force, or rather the mass of other objects.
 ##### The strength of a gravitational field
 There are multiple ways to express $g$, the strength of a gravitational field. There are two major ways: 
-- Meters Per Second ($m\space s^{-2}$)
+- Meters Per Second squared ($m\space s^{-2}$)
 - Newtons Per Kilogram ($N\space kg^{-1}$)
 On Earth, the value in both units of measure is 9.81.
 To calculate $g$, we can use the following equations: 
-$g = \frac{V_{grav}}{m} = \frac{GM}{r^2}$
+$g = \frac{-V_{grav}}{r} = \frac{GM}{r^2}$
 
 It is important to note that to get out of the area of influence of the gravitational field of an object, you must be infinitely far away from said object. Thus, it can be said that $g$ and $V_{grav}$ can only be zero in the limit, as distance approaches infinity. 
 ### The Force of a gravitational field
@@ -26,7 +26,7 @@ However, now we have been able to find the proportionality constant. Thus, the e
 Gravitational potential, notated as $V_{grav}$ is equal to the gravitational potential energy per unit mass.
 
 $V_{grav} = \frac EM = \frac{-GM}{r}$
-$\text{GPE} = \frac {Em}{M} = \frac{-GMm}{r}$
+$\text{GPE} = \frac {Em}{M} = \frac{-GMm}{r} = mV_{grav}$
 ### Orbiting Bodies
 
 ![./Images/OrbitDiagram.svg](OrbitDiagram.svg)
@@ -52,5 +52,6 @@ Escape velocity is the speed you need to be travelling to exit the gravitational
 To calculate the escape velocity from a distance $r$ from a mass $M$, follow the following steps:
 1. $\frac12 mV^2 = \frac{GMm}{r}$
 2. $\frac 12 V^2 = \frac {GM}{r}$
-3. Solve for $V$
+3. $V^2 = \frac {2GM}{r}$
+4.  $V = \sqrt{\frac {2GM}{r}}$
 > Note: Escape velocity squared is equal to twice the orbit velocity squared.

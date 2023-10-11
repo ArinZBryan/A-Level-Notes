@@ -27,4 +27,7 @@ Unlike the regular trig functions, which have a rather informal definition, thes
 Note that though $\sinh x$ looks like a cubic graph, it is not one, as the curves go up exponentially. Similarly, though $\cosh x$ looks like a quadratic, it is in fact not a quadratic. Also: $\tanh x$ also has pretty obvious asymptotes 
 
 ### Inverse Functions
-These functions are provided on the formula sheet, and can be generally used, as they are much simpler than the alternative, however, be aware that as these are **FUNCTIONS**, they will only produce one answer. While this is sufficient for $\sinh$ and $\tanh$, as $\cosh$ is a one-to-many function, its inverse would not be a function. Thus, remember that the function supplied can 
+These functions are provided on the formula sheet, and can be generally used, as they are much simpler than the alternative, however, be aware that as these are **FUNCTIONS**, they will only produce one answer. While this is sufficient for $\sinh$ and $\tanh$, as $\cosh$ is a one-to-many function, its inverse would not be a function. Thus, remember that the function supplied can be multiplied by +1 or -1 to get solutions.
+
+### Osborne's Rule
+As a general rule, excluding calculus, the identities for regular trig functions hold, except for one detail. Every instance of $\sin x$ must be replaced with $-\sinh x$.

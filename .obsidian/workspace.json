@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bde9725f5a7ec4f2",
+        "id": "dd01b0ce5ae2368a",
         "type": "tabs",
         "children": [
           {
-            "id": "d6739749138c3301",
+            "id": "4e63ce33e5c9f0a6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Physics/FormulaSheet.pdf"
-              }
-            }
-          },
-          {
-            "id": "f8d7bc0b2ae04596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Fields/Electric Fields.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e86fc7304e249514",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Mechanics/Circular Motion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "particular integ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Fields/Electric Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Fields/Electric Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physics/Fields/Electric Fields.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,53 +160,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8d7bc0b2ae04596",
+  "active": "26c1d6c7ef349d64",
   "lastOpenFiles": [
-    "Physics/Fields/Equipotential Lines.md",
-    "Physics/Fields/Electric Fields.md",
-    "Physics/Mechanics/Harmonic Motion.md",
-    "Physics/FormulaSheet.pdf",
-    "Physics/Mechanics/Circular Motion.md",
-    "Maths/Statistics/Hypothesis Testing/Hypothesis Testing.md",
-    "Maths/Pure/Complex Numbers/Complex Numbers - Higher Order Polynomials.pdf",
-    "Physics/Fields/Gravitational Fields.md",
-    "Maths/Pure/Calculus/Common forms for Calculus.md",
-    "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
-    "Maths/Pure/Calculus/Integration/Parametric Integration.md",
-    "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
-    "Maths/Pure/Calculus/Integration/Integration.md",
-    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
-    "Maths/Pure/Calculus/Integration/Integration by Substitution.md",
-    "Maths/Pure/Calculus/Integration/The Trapezium Rule.md",
-    "Computer Science/The Operating System.md",
-    "Computer Science/Software Development.md",
     "Maths/FormulaSheet.pdf",
-    "Maths/Pure/Graphs and Functions/Binomial Expansion.md",
-    "Physics/Images/FieldLines.svg",
-    "Physics/Electricity/Electricity.md",
-    "Maths/Pure/Trigonometry/Hyperbolic Trigonometric Functions.md",
-    "Maths/Statistics/Measures of Location And Spread/PMCC.md",
-    "Maths/Statistics/Statistical Distributions/The Normal Distribution.md",
-    "Maths/Pure/Graphs and Functions/Functions and Mappings.md",
-    "Maths/Pure/Graphs and Functions/Function Transformations.md",
-    "Maths/Images/cosh.svg",
-    "Maths/Images/Unconfirmed 834727.crdownload",
-    "Maths/Images/tanh.svg",
-    "Maths/Images/Unconfirmed 27191.crdownload",
-    "Maths/Images/Unconfirmed 985407.crdownload",
-    "Maths/Images/sinh.svg",
-    "Maths/Images/Unconfirmed 780505.crdownload",
-    "Maths/Statistics/Measures of Location And Spread/Coding.md",
-    "Maths/Statistics/Collecting Data/Types of Data.md",
-    "Pasted image 20230927231319.png",
-    "Physics/Electricity/DampedHarmonicMotion.svg",
-    "Physics/Images/DampedHarmonicMotion.svg",
+    "Physics/FormulaSheet.pdf",
+    "Computer Science/Boolean Logic.md",
+    "Computer Science/Images/Boolean_Logic/D-Type_Flip_Flop.png",
+    "Computer Science/Images/Boolean_Logic/D-Type_Flip_Flop.png~",
+    "Computer Science/Images/Boolean_Logic/D-Type_Flip_Flop.png-autosave.kra",
+    "Computer Science/Images/Boolean_Logic/HalfAdder.png",
+    "Computer Science/Images/Boolean_Logic/HalfAdder.png~",
+    "Computer Science/Images/Boolean_Logic",
+    "Physics/Electricity/Internal Resistance and EMF.md",
+    "Physics/Quantum/Quantum Physics.md",
+    "Physics/Quantum/The Photoelectric Effect.md",
+    "Physics/Quantum/Electron Energy Levels and Spectra.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Non-Homogenous 2nd Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Homogeneous Second Order Differential Equations.md",
+    "Maths/Pure/Complex Numbers/The Argand Diagram.pdf",
+    "Maths/Pure/Complex Numbers/Regions on the Complex Plane.pdf",
     "Maths/Pure/Complex Numbers/Modulus-Argument Form.pdf",
-    "Maths/Pure/Lines and Curves/Roots of Curves/Roots of Cubics.pdf",
-    "Physics/Images/ElectricFields.svg",
-    "Physics/Images/ElectricFieldDotPlate.svg",
-    "Physics/Images/CoulombsLawDiagram.png",
-    "Physics/Images/CoulombsLawDiagram.png.crdownload",
+    "Maths/Pure/Complex Numbers/Loci on the Complex Plane.pdf",
+    "Maths/Pure/Complex Numbers/Complex Numbers - The Basics.pdf",
+    "Computer Science/Boolean Algebra.md",
+    "Physics/Fields/Magnetic Fields.md",
+    "Physics/Mechanics/Circular Motion.md",
+    "Physics/Fields/Electric Fields.md",
+    "Physics/Fields/Gravitational Fields.md",
+    "Physics/Fields/Equipotential Lines.md",
+    "Maths/Pure/Sums and Series/C + iS Series.md",
+    "Maths/Pure/Graphs and Functions/Binomial Expansion.md",
+    "Maths/Pure/Trigonometry/Trig Identities.md",
+    "download.svg",
+    "Maths/Pure/Trigonometry/Hyperbolic Trigonometric Functions.md",
+    "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
+    "Maths/Pure/Sums and Series/Sums of Arithmetic Series.md",
+    "Maths/Pure/Sums and Series/Standard Series Expansions.md",
+    "Maths/Pure/Methods Of Proof/Proof by Induction - Recurrance relations.md",
+    "Maths/Pure/Linear Transformations/2D Transformations.md",
+    "Maths/Pure/Graphs and Functions/Newtonian Iteration.md",
+    "Maths/Pure/Graphs and Functions/Functions and Mappings.md",
+    "Physics/Images/FlemingsLeftHandRule.png",
+    "Physics/Images/Fleming’s-Left-Hand-Rule.png",
+    "Physics/Images/ElectricPotetntial.png",
+    "Physics/Images/FieldLines.svg",
+    "Maths/Images/cosh.svg",
+    "Maths/Images/tanh.svg",
+    "Maths/Images/sinh.svg",
     "Untitled.canvas"
   ]
 }

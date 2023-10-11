@@ -28,7 +28,7 @@ Software development is the process of creating, designing, deploying and suppor
 - This design may include both a high-level design, where an overarching plan is described, as well as a low-level design, which includes how every feature should work.
 #### Implementation
 - In this stage, code may be developed in several iterations, where each iteration includes the following
-	-  Programming
+	- Programming
 	- Testing
 	- Documentation
 #### Evaluation
@@ -51,6 +51,8 @@ There are several methods of testing
 	- Black box testing works by giving a set of input parameters and testing the function against test cases. As these test cases may not always cover all possibilities, this method is non-exhaustive, but much easier.
 - Unit / Integration
 	- One module of a system is tested, to ensure it works with either black or white box testing. Once this is done, and all tests are passing, the units are placed together, and tested as a system.
+- Acceptance
+	- Testing of boundary conditions. This may be bundled with unit tests or black/white box tests.
 - System
 	- This includes multiple stages of software testing
 		- Alpha - Testing performed before releasing to the public or customers.

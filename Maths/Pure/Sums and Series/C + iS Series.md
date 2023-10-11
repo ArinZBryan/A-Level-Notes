@@ -10,7 +10,7 @@ Assume the series given is $C$, a series that involves $\cos(n\theta)$.
 5. $C + iS = \frac{e^{i\theta}(1-n^ne^{in\theta})}{1-ne^{i\theta}}$ or $C + iS = \frac{e^{i\theta}}{1-ne^{i\theta}}$ if $C$ and $S$ converge and are summing to infinity rather than to a number of terms. 
 6. Realise the denominator
 	- ##### Method 1 - Differing Coefficients
-		 This method should be used when $n \ne 1$, and thus the coefficients are different   		 
+		 This method should be used when $n \ne 1$, and thus the coefficients are different 
 		1. Multiply by $\frac{1-ne^{-i\theta}}{1-ne^{-i\theta}}$ 
 		2. Simplify
 			Two things to note: $e^{i\theta} + e^{-i\theta} = 2\cos\theta$, $e^{i\theta} - e^{-i\theta} = 2i\sin\theta$  		
