@@ -12,8 +12,22 @@ It is plain to see that the carry column can be produced by $A \wedge B$. It is 
 
 ![[HalfAdder.png]]
 ### Full Adders
-A half adder can only add two single bit numbers together, to add slightly bigger n
+A half adder can only add two single bit numbers together, to add slightly bigger numbers, it is needed to make a circuit that can be chained one after another. Thus, it is possible to join two half-adders to make a 'full adder'. The truth table of this circuit is shown below:
 
+| A   | B   | Cin | Cout | S   |
+| --- | --- | --- | ---- | --- |
+| 0   | 0   | 0   | 0    | 0   |
+| 0   | 0   | 1   | 0    | 1   |
+| 0   | 1   | 0   | 0    | 1   |
+| 0   | 1   | 1   | 1    | 0   |
+| 1   | 0   | 0   | 0    | 1   |
+| 1   | 0   | 1   | 1    | 0   |
+| 1   | 1   | 0   | 1    | 0   |
+| 1   | 1   | 1   | 1    | 1   | 
+
+You can build the circuit using two half-adders: use the first half adder to add $A+B$, then use the second to add the result of $A+B$ with $C_{in}$, giving the final sum. Finally, OR'ing the carry outs from the two adders gives $C_{out}$.
+
+![[Full_Adder.png]]
 ### D-Type Flip-Flops
 A D-Type flip flop is a circuit as shown below:
 ![[D-Type_Flip_Flop.png]]

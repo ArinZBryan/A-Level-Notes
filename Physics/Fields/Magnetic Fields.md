@@ -18,8 +18,8 @@ In plain English, this translates to the following:
 ### Flux
 B = F/IL
 = Newton / Amp Metre
-= Kms^-2 A^-1 m^1
-= Ks^-2A^-1
-= Ks^-2(CS^-1)
-= KCs^-1
+= Kgms^-2 A^-1 m^1
+= Kgs^-2A^-1
+= Kgs^-2(CS^-1)
+= KgCs^-1
 

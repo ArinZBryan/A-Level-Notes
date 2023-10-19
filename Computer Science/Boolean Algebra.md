@@ -28,3 +28,34 @@ $.$ : NAND
 There is an order of precedence to be careful of:
 NAND $\rightarrow$ NOT $\rightarrow$ XOR $\rightarrow$ AND $\rightarrow$ OR
 
+### Rules of Boolean Algebra
+##### Annulment
+$A\wedge 0 = 0$
+$A\vee 1 = 1$
+##### Identity
+$A\wedge 1= A$
+$A\vee 0 = A$
+##### Idempotent
+$A\vee A = A$
+$A\wedge A = A$
+##### Complement
+$A\vee¬A = 1$
+$A\wedge¬A=0$
+##### Double Negation
+$¬(¬A) = A$
+##### De Morgan's
+$¬(A\wedge B) = ¬A \vee ¬B$
+$¬(A\vee B) = ¬A \wedge ¬B$
+##### Associative
+$(A\vee B)\vee C = A\vee(B\vee C)$
+$(A\wedge B)\wedge C = A\wedge(B \wedge C)$
+##### Commutative
+$A\vee B = B\vee A$
+$A\wedge B = B\wedge A$
+##### Distributive
+$A\wedge (B\vee C) = (A \wedge B) \vee (A\wedge C)$
+$A\vee (B\wedge C) = (A \vee B) \wedge (A\vee C)$
+##### Absorbative
+$A \vee (A \wedge B) = A$
+$A\wedge(A\vee B) = A$
+
