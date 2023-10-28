@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Pure/Calculus/Integration/Integration by Parts.md",
+                "file": "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Pure/Calculus/Integration/Integration by Parts.md",
+                "file": "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Pure/Calculus/Integration/Integration by Parts.md",
+                "file": "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Pure/Calculus/Integration/Integration by Parts.md"
+                "file": "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md"
               }
             }
           },
@@ -170,11 +170,12 @@
   },
   "active": "70168aa890d23a71",
   "lastOpenFiles": [
+    "Maths/Pure/Calculus/Integration/Integration.md",
+    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
     "Maths/Pure/Calculus/Integration/Integration by Substitution.md",
     "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
     "Maths/Pure/Calculus/Integration/Parametric Integration.md",
     "Maths/Pure/Calculus/Integration/The Trapezium Rule.md",
-    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
     "Maths/Pure/Calculus/Differential Equations/Solving Coupled First Order Differential Equations.md",
     "Physics/Thermodynamics/Kinetic Theory.md",
     "Physics/Thermodynamics/Thermal Gas Laws.md",
@@ -210,7 +211,6 @@
     "Maths/FormulaSheet.pdf",
     "Physics/Electricity/Internal Resistance and EMF.md",
     "Physics/Quantum/Quantum Physics.md",
-    "Physics/Quantum/The Photoelectric Effect.md",
     "download.svg",
     "Physics/Images/FlemingsLeftHandRule.png",
     "Physics/Images/Fleming’s-Left-Hand-Rule.png",
