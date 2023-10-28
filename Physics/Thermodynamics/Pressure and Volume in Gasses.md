@@ -14,8 +14,7 @@ This is because the gas's molecules/atoms are occupying a significant proportion
 ### Avogadro's Law
 Avogadro's law states that equal volumes of different gases at the same pressure and temperature will contain equal numbers of particles.
 ### Molar Volume of Gases
-If the temperature and pressure (273K and 100kPa), 1 mole of any gas occupies a volume of $2.27\times 10^{-2}$m^3. This is the molar volume.
-
+If the temperature and pressure (273K and 101kPa), 1 mole of any gas occupies a volume of $2.27\times 10^{-2}$m^3. This is the molar volume.
 ### Ideal Gas Equation
 In [Thermal Gas Laws](./Thermal%20Gas%20Laws.md), we derived the *ideal gas equation*. We can now combine this with Avogadro's law: $V \propto n$, so the equation can be written as:
 $$pV = nRT$$
@@ -24,3 +23,9 @@ $$pV = nRT$$
 - $n$ = number of moles of the gas
 - $R$ = Molar gas constant (8.31 Jmol^-1 K^-1)
 - $T$ = absolute temperature of the gas
+There is however, a second form of the ideal gas equation that looks very similar:
+$$pV = NkT$$
+The differences here is that $N$ is not the number of moles of gas, but rather the number of molecules, and that $k$ is the *Boltzmann Constant* (provided on formula sheet).
+
+### Atmospheric pressure
+The value for atmospheric pressure at ~sea level is $1.01\times 10^5$ Pa (101KPa). This value is not found in the formula booklet, and as such, is generally supplied by the question. However, this is not always the case, and so it is a good idea to memorise this value.

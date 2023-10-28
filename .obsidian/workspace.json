@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c455752624ebdab1",
+        "id": "2cab73badddf7a57",
         "type": "tabs",
         "children": [
           {
-            "id": "83aa970fe3e0a93d",
+            "id": "70168aa890d23a71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Fields/Particle Accelerators.md",
+                "file": "Maths/Pure/Calculus/Integration/Integration by Parts.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 352.5
   },
   "right": {
     "id": "d37e7daa1b0879f5",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Fields/Particle Accelerators.md",
+                "file": "Maths/Pure/Calculus/Integration/Integration by Parts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Fields/Particle Accelerators.md",
+                "file": "Maths/Pure/Calculus/Integration/Integration by Parts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Fields/Particle Accelerators.md"
+                "file": "Maths/Pure/Calculus/Integration/Integration by Parts.md"
               }
             }
           },
@@ -168,12 +168,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "83aa970fe3e0a93d",
+  "active": "70168aa890d23a71",
   "lastOpenFiles": [
-    "Physics/Fields/Magnetic Fields.md",
+    "Maths/Pure/Calculus/Integration/Integration by Substitution.md",
+    "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
+    "Maths/Pure/Calculus/Integration/Parametric Integration.md",
+    "Maths/Pure/Calculus/Integration/The Trapezium Rule.md",
+    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Coupled First Order Differential Equations.md",
+    "Physics/Thermodynamics/Kinetic Theory.md",
+    "Physics/Thermodynamics/Thermal Gas Laws.md",
+    "Physics/Images/Box.svg",
+    "Physics/Thermodynamics/Pressure and Volume in Gasses.md",
+    "Physics/FormulaSheet.pdf",
+    "Maths/Pure/Graphs and Functions/Binomial Expansion.md",
     "Physics/Electricity/Inductance.md",
     "Physics/Fields/Particle Accelerators.md",
-    "Physics/FormulaSheet.pdf",
+    "Physics/Fields/Magnetic Fields.md",
     "Physics/Fields/Untitled Diagram.svg",
     "Physics/Fields/Equipotential Lines.md",
     "Physics/Fields/Gravitational Fields.md",
@@ -185,8 +196,6 @@
     "Computer Science/Images/Boolean_Logic/HalfAdder.png",
     "Computer Science/Images/Boolean_Logic/Full_Adder.png~",
     "Maths/Pure/Complex Numbers/Roots of Unity.md",
-    "Physics/Thermodynamics/Pressure and Volume in Gasses.md",
-    "Physics/Thermodynamics/Thermal Gas Laws.md",
     "Maths/Pure/Complex Numbers/Complex Identities.md",
     "Maths/Pure/Complex Numbers/Modulus-Argument Form.pdf",
     "Maths/Pure/Complex Numbers/The Argand Diagram.pdf",
@@ -202,20 +211,11 @@
     "Physics/Electricity/Internal Resistance and EMF.md",
     "Physics/Quantum/Quantum Physics.md",
     "Physics/Quantum/The Photoelectric Effect.md",
-    "Physics/Quantum/Electron Energy Levels and Spectra.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving Non-Homogenous 2nd Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving Homogeneous Second Order Differential Equations.md",
-    "Physics/Mechanics/Circular Motion.md",
-    "Maths/Pure/Graphs and Functions/Binomial Expansion.md",
-    "Maths/Pure/Trigonometry/Trig Identities.md",
     "download.svg",
-    "Maths/Pure/Trigonometry/Hyperbolic Trigonometric Functions.md",
     "Physics/Images/FlemingsLeftHandRule.png",
     "Physics/Images/Fleming’s-Left-Hand-Rule.png",
     "Physics/Images/ElectricPotetntial.png",
     "Physics/Images/FieldLines.svg",
-    "Maths/Images/cosh.svg",
     "Untitled.canvas"
   ]
 }

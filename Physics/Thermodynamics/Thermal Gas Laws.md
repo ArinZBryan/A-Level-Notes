@@ -17,3 +17,5 @@ For a constant mass of gas at a fixed pressure, the volume occupied by the gas i
 By combining Boyle's law, the pressure law and Charles' law: we get the equation:
 $$\frac{Pressure\space\times\space Volume}{Temperature} = Constant$$
 $$\therefore \frac{P_1V_1}{T_1} = \frac{P_2V_2}{T_2}$$
+### Kelvin
+All temperatures here should be given and used in Kelvin. The conversion factor between this and degrees Celsius is not given in the formula book so it **must** be remembered. The conversion factor is as follows: $K = 273.15 + ^\circ C$.
