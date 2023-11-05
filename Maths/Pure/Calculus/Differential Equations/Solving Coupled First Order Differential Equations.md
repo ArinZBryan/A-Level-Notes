@@ -13,4 +13,5 @@ These equations can be transformed into a second order differential equation in 
 	Expand
 5. $g(y) = \frac{dx}{dt} - f(x)$
 	Rearrange the first original equation
-6. $\frac{d^2x}{dt^2} = f'(x)\frac{dx}{dt} + g'(y)h(x) +g'(y)i(y)$
+6. Substitute this in
+7. Solve as a second order differential

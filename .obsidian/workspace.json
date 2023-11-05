@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2cab73badddf7a57",
+        "id": "452f1e3350aee3d6",
         "type": "tabs",
         "children": [
           {
-            "id": "70168aa890d23a71",
+            "id": "c4bc0df5a3616c92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
+                "file": "Physics/Electricity/Induction.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "26c1d6c7ef349d64",
+            "id": "01ace6e0c72dcc06",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 217.5
   },
   "right": {
     "id": "d37e7daa1b0879f5",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
+                "file": "Physics/Electricity/Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
+                "file": "Physics/Electricity/Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md"
+                "file": "Physics/Electricity/Induction.md"
               }
             }
           },
@@ -168,54 +168,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70168aa890d23a71",
+  "active": "01ace6e0c72dcc06",
   "lastOpenFiles": [
-    "Maths/Pure/Calculus/Integration/Integration.md",
-    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
-    "Maths/Pure/Calculus/Integration/Integration by Substitution.md",
-    "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
-    "Maths/Pure/Calculus/Integration/Parametric Integration.md",
-    "Maths/Pure/Calculus/Integration/The Trapezium Rule.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving Coupled First Order Differential Equations.md",
-    "Physics/Thermodynamics/Kinetic Theory.md",
-    "Physics/Thermodynamics/Thermal Gas Laws.md",
-    "Physics/Images/Box.svg",
-    "Physics/Thermodynamics/Pressure and Volume in Gasses.md",
-    "Physics/FormulaSheet.pdf",
-    "Maths/Pure/Graphs and Functions/Binomial Expansion.md",
-    "Physics/Electricity/Inductance.md",
-    "Physics/Fields/Particle Accelerators.md",
+    "Physics/Electricity/Induction.md",
+    "Physics/Electricity/Induction.md",
     "Physics/Fields/Magnetic Fields.md",
-    "Physics/Fields/Untitled Diagram.svg",
-    "Physics/Fields/Equipotential Lines.md",
+    "Physics/Images/Lenzs_Law_2.svg",
+    "Physics/Images/Lenzs_Law_1.svg",
+    "Physics/Fields/Magnetic Fields 1.md",
+    "Physics/Fields/Particle Accelerators.md",
     "Physics/Fields/Gravitational Fields.md",
+    "Physics/Fields/Equipotential Lines.md",
     "Physics/Fields/Electric Fields.md",
-    "Computer Science/Boolean Algebra.md",
-    "Computer Science/Boolean Logic.md",
+    "Physics/Fields/Magnetic Fields/Fleming's Left Hand Rule.md",
+    "Physics/Fields/Magnetic Fields",
+    "Physics/Fields/Magnetic Fields.md.md",
+    "Physics/Electricity/Electricity.md",
+    "Physics/Electricity/Components and IV Characteristics.md",
+    "Physics/Images/FlemingsRightHandRule.png~",
+    "Physics/Images/FlemingsRightHandRule.png",
+    "Physics/Images/FlemingsRightHandRule.png.crdownload",
+    "Maths/Pure/Calculus/Differential Equations/Solving Homogeneous Second Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Non-Homogenous 2nd Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Coupled First Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Simple Harmonic Motion.md",
+    "Physics/Mechanics/Harmonic Motion.md",
+    "Physics/Thermodynamics/Specific Heat Capacity and Specific Latent Heat.md",
+    "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
+    "Physics/Mechanics/Simple Harmonic Motion.md",
+    "Computer Science/Fetch, Decode, Execute, Reset Cycle.md",
+    "Computer Science/Multitasking.md",
+    "Computer Science/Fetch, Decode, Execute, Reset Cycle 1.md",
+    "Fetch, Decode, Execute, Reset Cycle.md",
+    "Physics/Images/Box.svg",
+    "Physics/FormulaSheet.pdf",
+    "Physics/Fields/Untitled Diagram.svg",
     "Computer Science/Images/Boolean_Logic/D-Type_Flip_Flop.png",
     "Computer Science/Images/Boolean_Logic/Full_Adder.png",
     "Computer Science/Images/Boolean_Logic/HalfAdder.png",
     "Computer Science/Images/Boolean_Logic/Full_Adder.png~",
-    "Maths/Pure/Complex Numbers/Roots of Unity.md",
-    "Maths/Pure/Complex Numbers/Complex Identities.md",
     "Maths/Pure/Complex Numbers/Modulus-Argument Form.pdf",
     "Maths/Pure/Complex Numbers/The Argand Diagram.pdf",
     "Maths/Pure/Complex Numbers/Regions on the Complex Plane.pdf",
     "Maths/Pure/Complex Numbers/Loci on the Complex Plane.pdf",
-    "Maths/Pure/Sums and Series/C + iS Series.md",
-    "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
     "Maths/Pure/Complex Numbers/Complex Numbers - quadratic equations.pdf",
-    "Maths/Pure/Complex Numbers/Complex Numbers - Higher Order Polynomials.pdf",
-    "Physics/Untitled.md",
-    "Physics/Thermodynamics",
-    "Maths/FormulaSheet.pdf",
-    "Physics/Electricity/Internal Resistance and EMF.md",
-    "Physics/Quantum/Quantum Physics.md",
     "download.svg",
     "Physics/Images/FlemingsLeftHandRule.png",
-    "Physics/Images/Fleming’s-Left-Hand-Rule.png",
-    "Physics/Images/ElectricPotetntial.png",
-    "Physics/Images/FieldLines.svg",
     "Untitled.canvas"
   ]
 }

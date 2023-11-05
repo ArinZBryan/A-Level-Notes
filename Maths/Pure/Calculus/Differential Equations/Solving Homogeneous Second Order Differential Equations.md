@@ -1,6 +1,6 @@
 If solving a differential equation of the form:
 $$a\frac{d^2y}{dx^2}+b\frac{dy}{dx} + cy = 0$$
-we can turn this into an auxiliary equation (abbreviated as AE) of the form $a\lambda^2+b\lambda^2+c=0$, solving for $\lambda$.
+we can turn this into an auxiliary equation (abbreviated as AE) of the form $a\lambda^2+b\lambda+c=0$, solving for $\lambda$.
 
 The general solution (GS) is then equal to $y = Ae^{\lambda_1x}+Be^{\lambda_2x}$, if $\lambda_1$ and $\lambda_2$ are roots to the above quadratic.
 
