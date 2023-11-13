@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "452f1e3350aee3d6",
+        "id": "0cf94502d93b1acf",
         "type": "tabs",
         "children": [
           {
-            "id": "c4bc0df5a3616c92",
+            "id": "3b9331cc4c14226c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Electricity/Induction.md",
+                "file": "Maths/Pure/Calculus/Common forms for Calculus.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "particular integ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "01ace6e0c72dcc06",
+            "id": "d7ce8351cf236226",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 308.5
   },
   "right": {
     "id": "d37e7daa1b0879f5",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Electricity/Induction.md",
+                "file": "Maths/Pure/Calculus/Common forms for Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Electricity/Induction.md",
+                "file": "Maths/Pure/Calculus/Common forms for Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Electricity/Induction.md"
+                "file": "Maths/Pure/Calculus/Common forms for Calculus.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -168,53 +168,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01ace6e0c72dcc06",
+  "active": "3b9331cc4c14226c",
   "lastOpenFiles": [
-    "Physics/Electricity/Induction.md",
-    "Physics/Electricity/Induction.md",
-    "Physics/Fields/Magnetic Fields.md",
-    "Physics/Images/Lenzs_Law_2.svg",
-    "Physics/Images/Lenzs_Law_1.svg",
-    "Physics/Fields/Magnetic Fields 1.md",
-    "Physics/Fields/Particle Accelerators.md",
-    "Physics/Fields/Gravitational Fields.md",
-    "Physics/Fields/Equipotential Lines.md",
+    "Maths/Pure/Vectors/Vector Operations.md",
+    "Maths/Pure/Matricies/Matrix Operations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
     "Physics/Fields/Electric Fields.md",
-    "Physics/Fields/Magnetic Fields/Fleming's Left Hand Rule.md",
-    "Physics/Fields/Magnetic Fields",
-    "Physics/Fields/Magnetic Fields.md.md",
+    "Physics/Fields/Magnetic Fields.md",
+    "Physics/Electricity/Transformers.md",
+    "Physics/Electricity/Series and Parallel.md",
     "Physics/Electricity/Electricity.md",
-    "Physics/Electricity/Components and IV Characteristics.md",
+    "Physics/Fields/Equipotential Lines.md",
+    "Physics/Fields/Gravitational Fields.md",
+    "Physics/Fields/Particle Accelerators.md",
+    "Physics/FormulaSheet.pdf",
+    "Physics/Materials/Density, Viscosity and Stokes Law.md",
+    "Physics/Materials/Stress, Strain, Youngs Modulus and Hooke's Law.md",
+    "Physics/Mechanics/Collisions.md",
+    "Physics/Quantum/Quantum Physics.md",
+    "Physics/Quantum/The Photoelectric Effect.md",
+    "Physics/Quantum/Electron Energy Levels and Spectra.md",
+    "Physics/Waves/Waves Properties and Definitions.md",
+    "Physics/Waves/Superposition, Path Difference and Phase Difference.md",
+    "Physics/Waves/Standing Waves.md",
+    "Physics/Waves/Reflection, Refraction and TIR.md",
+    "Physics/Waves/Polarisation.md",
+    "Physics/Waves/Lenses.md",
+    "Physics/Waves/Diffraction.md",
+    "Maths/Pure/Trigonometry/Trig Identities.md",
+    "Physics/Electricity/Internal Resistance and EMF.md",
+    "Physics/Images/FaradaysLawDerivation.svg",
+    "Physics/Images/Lenzs_Law_2.svg",
+    "Physics/Images/InducedMagneticField.png",
+    "Physics/Images/InducedMagneticField.png~",
+    "Physics/Images/InducedMagneticField.png.crdownload",
+    "Physics/Images/IronCoreTransformer.png",
+    "Physics/Images/InternalResistanceCircuitDiagram.png",
+    "Physics/Images/IronCoreTransformer.png~",
+    "Physics/Images/IronCoreTransformer.png.crdownload",
+    "Maths/Images/SHM-Spring-Horizontal.svg",
+    "Physics/Images/Lenzs_Law_1.svg",
+    "Physics/Fields/Magnetic Fields",
     "Physics/Images/FlemingsRightHandRule.png~",
     "Physics/Images/FlemingsRightHandRule.png",
     "Physics/Images/FlemingsRightHandRule.png.crdownload",
-    "Maths/Pure/Calculus/Differential Equations/Solving Homogeneous Second Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving Non-Homogenous 2nd Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving Coupled First Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Simple Harmonic Motion.md",
-    "Physics/Mechanics/Harmonic Motion.md",
-    "Physics/Thermodynamics/Specific Heat Capacity and Specific Latent Heat.md",
-    "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
-    "Physics/Mechanics/Simple Harmonic Motion.md",
-    "Computer Science/Fetch, Decode, Execute, Reset Cycle.md",
-    "Computer Science/Multitasking.md",
-    "Computer Science/Fetch, Decode, Execute, Reset Cycle 1.md",
-    "Fetch, Decode, Execute, Reset Cycle.md",
     "Physics/Images/Box.svg",
-    "Physics/FormulaSheet.pdf",
     "Physics/Fields/Untitled Diagram.svg",
-    "Computer Science/Images/Boolean_Logic/D-Type_Flip_Flop.png",
-    "Computer Science/Images/Boolean_Logic/Full_Adder.png",
-    "Computer Science/Images/Boolean_Logic/HalfAdder.png",
     "Computer Science/Images/Boolean_Logic/Full_Adder.png~",
     "Maths/Pure/Complex Numbers/Modulus-Argument Form.pdf",
-    "Maths/Pure/Complex Numbers/The Argand Diagram.pdf",
-    "Maths/Pure/Complex Numbers/Regions on the Complex Plane.pdf",
-    "Maths/Pure/Complex Numbers/Loci on the Complex Plane.pdf",
-    "Maths/Pure/Complex Numbers/Complex Numbers - quadratic equations.pdf",
-    "download.svg",
-    "Physics/Images/FlemingsLeftHandRule.png",
     "Untitled.canvas"
   ]
 }

@@ -1,6 +1,6 @@
 Consider the cubic $y=f(x)$
 
-![A graph of a cubic](../../Images/points_on_a_curve.drawio.svg)
+![A graph of a cubic](Images/points_on_a_curve.drawio.svg)
 
 ### Points of Inflection / Turning Points
 A point of inflection is where the gradient changes from decreasing to increasing of vice versa. Though points of inflection are often on turning points, they are often not, especially on polynomials of an odd degree.

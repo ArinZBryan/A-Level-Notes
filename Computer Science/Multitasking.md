@@ -1,16 +1,16 @@
 ## The Scheduler
-***See '[The Operating System](The_Operating_System.md/#schedulers-aka-job-scheduler)'***  
+***See '[The Operating System](The_Operating_System.md#schedulers-aka-job-scheduler)'***  
 
 The operating system uses scheduling algorithms which allocate processing time to each task / process / thread that is currently needing to be service.
 The scheduler may use one of five algorithms that we need to know.
 
-* [Queue](Datastructures.md/#queues) (aka first come first serve)- The order in which the tasks arrive, regardless of how long the tasks may take. Tasks which are time intensive may monopolize processor time.
+* [Queue](Datastructures.md#queues) (aka first come first serve)- The order in which the tasks arrive, regardless of how long the tasks may take. Tasks which are time intensive may monopolize processor time.
 * Shortest Job First - The scheduler will always prioritize jobs that are known to take the least time that is available. Jobs will then be executed in this order
 * Round Robin - Each task is given a set amount of CPU time. Once this has elapsed, the job may be paused or completed, and the next job begun.
 * Shortest Time Remaining - Like Shortest job first, except it takes into account how long it has left to be completely done
-* Multi-level Feedback [queues](Datastructures.md/#queues) - There are a number of different queues. Processes may move up and down queues in order of priority due to different factors.
+* Multi-level Feedback [queues](Datastructures.md#queues) - There are a number of different queues. Processes may move up and down queues in order of priority due to different factors.
 
-When the CPU receives an [interrupt](./Interrupts.md/#interrupts), the scheduler is usually paused, and the interrupt is handled before it can resume.
+When the CPU receives an [interrupt](./Interrupts.md#interrupts), the scheduler is usually paused, and the interrupt is handled before it can resume.
 
 In practice, this is largely theoretical, as the actual processor time split is heavily influenced by what programs the user has open. As such, these more idealistic algorithms are largely reserved for background tasks.
 

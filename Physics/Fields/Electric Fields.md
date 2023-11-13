@@ -3,8 +3,8 @@ The charge on an object is what causes an object to experience an electric field
 
 ![Electric Field](/Physics/Images/ElectricFields.svg)
 $F = EQ$
-Therefore: $E = \frac FQ$, where $E$ is the electric potential.
-so, $E$ is in the units Newtons/Coulomb. Note that this is also equal to Volts/Meter. Thus, you will see both come up.
+Therefore: $E = \frac FQ$, where $E$ is the electric potential, also referred to as the electric field strength.
+So, $E$ is in the units Newtons/Coulomb. Note that this is also equal to Volts/Meter. Thus, you will see both come up.
 ##### Finding E
 For a uniform field (between plates), then there is a way of finding $E$. This is done using the equation: $E = \frac VD$. 
 To derive this equation: 
@@ -12,6 +12,8 @@ $F = EQ$
 $W = FD = QV$
 $QV = EQD$
 $\frac VD = E$
+
+In a radial field, $E = \frac{1}{4\pi\epsilon_0} \frac {Q}{r^2}$. As can be seen, this is highly similar to the equation for the force exerted by a radial field, minus the other charge in the numerator.
 ### The shape of fields
 ![[/Physics/Images/ElectricFieldPlates.svg]] ![Electric Field](/Physics/Images/ElectricFieldDotPlate.svg)
 In electric fields, there is one part that is quite counter-intuitive:

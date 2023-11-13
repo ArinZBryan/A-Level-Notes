@@ -1,25 +1,22 @@
-A region of space where a charged particle in motion experiences a force which depends on:
-- $F = BIl\sin\theta$, where:
-	- $F$ is the force on the conductor (Newtons)
-	- $B$ is the magnetic flux density (Tesla)
-	- $I$ is the current (Amperes)
-	- $l$ is the length of the conductor in the field (Metres)
-	- $\theta$ is the angle between the conductor and external flux lines. (Degrees / Radians)
-- $F = \frac{BQV}{\sin\theta}$, where:
-	- $F$ is the force on the charge (Newtons)
-	- $B$ is the magnetic flux density (Tesla)
-	- $Q$ is the charge on the object (Coulombs)
-	- $V$ is the velocity of the charge through the field (Metres per Second)
-	-  $\theta$ is the angle between the conductor and external flux lines. (Degrees / Radians)
-In plain English, this translates to the following:
-	A region of space where the force on a charged particle in motion
-### Fleming's Left Hand Rule
-![[FlemingsLeftHandRule.png]]
-### Flux
-B = F/IL
-= Newton / Amp Metre
-= Kgms^-2 A^-1 m^1
-= Kgs^-2A^-1
-= Kgs^-2(CS^-1)
-= KgCs^-1
+When current passes through a wire, a magnetic field is [induced](Physics/Electricity/Induction). This applies to any current carrying conductor. 
+When current is flowing through the conductor, the magnetic field produced has field lines that form concentric rings around the conductor.
+![Induced Magnetic Field](Images/InducedMagneticField.png)
+#### Magnetic Flux Density
+The magnetic flux density ($B$) of a magnetic field is a measure of the strength of a field at a given point, and is measured in *Tesla*. One *Tesla* is defined as a force of a Newton per meter of wire per ampere of current carried in the wire. It is important to note that this force is perpendicular to the magnetic field.
 
+If you place such a current carrying wire in a magnetic field, the wire will feel a force exerted on it. However, if the current being carried is moving parallel to the magnetic field, the force exerted on the conductor is zero. This is because no component of the field is perpendicular to the current.
+
+To find the magnitude of the force ($F$) on a wire of length $l$, carrying a current $I$, in a field of flux density $B$, we use the formula:
+$$F = BIl\sin\theta$$
+Note that theta is the angle between the conductor and the external flux lines.
+#### Fleming's Left Hand Rule
+To find the direction of the force, a simple physical rule exists: using your left hand, when positioned as shown the thumb, first and second finger point in the correct directions
+![[FlemingsLeftHandRule.png]]
+### Moving Charges in a Magnetic Field
+There is a force that acts on charged particles moving through a magnetic field. This is actually the reason that a current-carrying conductor experiences a force when it moves through a magnetic field.
+The magnitude of this force ($F$) exerted on a given particle with charge $Q$, moving with a velocity $v$ at an angle $\theta$ relative to the field can be calculated with the following formula:
+$$F = \frac{BQV}{\sin\theta}$$
+To get the direction of the force, we can still use *Fleming's Left Hand Rule*. Instead of using the second finger as the current (which it technically still is), we say it is the direction of travel for a positively charged particle. If the particle is negatively charged, the direction should be flipped (effectively, this is done by mirroring everything to the right hand).
+
+As the force applied to the particle is always perpendicular to the particle, said particle will move on a circular path, thus following [circular motion](Physics/Mechanics/Circular%20Motion).
+The most common application of this is in a type of [particle accelerator](Physics/Fields/Particle%20Accelerators) called a *cyclotron*.

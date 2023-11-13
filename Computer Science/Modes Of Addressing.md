@@ -1,6 +1,6 @@
 This refers to the way in which the [operating system](The%20Operating%20System.md) directs and retrieves data items held in memory
 
-[Machine code](./FDER_Cycle.md/#decode) instructions consist of two parts, the opcode and operand. The operand may contain either an address in memory from which data should be loaded, or a literal value to be used.
+[Machine code](Fetch,%20Decode,%20Execute,%20Reset%20Cycle.md#Decode) instructions consist of two parts, the opcode and operand. The operand may contain either an address in memory from which data should be loaded, or a literal value to be used.
 
 There are four (five) different modes of addressing:
 
@@ -12,7 +12,7 @@ More specifically, the value used is defined as part of the ASM file.
 This refers to the address reference (memory address) where the item is located. The value is then loaded from this place in memory.
 
 ## 3. Indirect Addressing (Pass by Reference)
-This refers to the use of pointers. The operand contains the address of a variable (This is [direct addressing](#2-direct-addressing)) that contains the memory address of the desired value. This variable is called a pointer, and may have any type associated with it, though they are usually actually just a <code>uint64</code> or <code>uint32</code> depending on whether thy system is 32 or 64bit. [Linked Lists](./Datastructures.md/#linked-lists) and [Graphs](./Datastructures.md) requires such indirect addressing. 
+This refers to the use of pointers. The operand contains the address of a variable (This is [direct addressing](#2-direct-addressing)) that contains the memory address of the desired value. This variable is called a pointer, and may have any type associated with it, though they are usually actually just a <code>uint64</code> or <code>uint32</code> depending on whether thy system is 32 or 64bit. [Linked Lists](./Datastructures.md#linked-lists) and [Graphs](./Datastructures.md) requires such indirect addressing. 
 
 In the exam, when indirect addressing is being used, the memory address of the pointer is prefixed with an '@' symbol (eg. <code>LDA @4F72</code>)
 

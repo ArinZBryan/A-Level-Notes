@@ -9,14 +9,14 @@ A protocol is a set of instructions / rules that are used for the transmission o
 
 For network protocols, they are used in the transmission of packets between machines. The protocols that are currently used were made standard in 1981 by the OSI.
 
-The protocols used by the internet are called the 'TCP/IP stack'. It is made up from the following [layers](./Networking_Process.md/):
-1. [Application](./Networking_Process.md/#application-layer)  
+The protocols used by the internet are called the 'TCP/IP stack'. It is made up from the following [layers](Networking%20-%20How%20Data%20Moves):
+1. [Application](Networking%20-%20How%20Data%20Moves#application-layer)  
     (HTTP, HTTPS, FTP, SMTP, etc.)
-2. [Transport](./Networking_Process.md/#transport-layer)  
+2. [Transport](Networking%20-%20How%20Data%20Moves#transport-layer)  
     (TCP/UDP)
-3. [Network](./Networking_Process.md/#network-layer)  
+3. [Network](Networking%20-%20How%20Data%20Moves#network-layer)  
     (IP)
-4. [Link](./Networking_Process.md/#link-layer)  
+4. [Link](Networking%20-%20How%20Data%20Moves#link-layer)  
     (Ethernet)
 
 ## Uses for protocols
@@ -41,4 +41,4 @@ The protocols used by the internet are called the 'TCP/IP stack'. It is made up 
 UDP is used when real-time, fully duplex (two way) communication is required, and the the speed of the data being sent is critical. Thus, packets are not re-ordered, and are thus processed and in the order they are received.  
 TCP on the other hand, TCP ensures that packets are processed in the correct order, and thus that data is always received as it was sent.
 
-See [Networking Processes](./Networking_Process.md/#udpip) for a more detailed explanation of UDP.
+See [Networking Processes](Networking%20-%20How%20Data%20Moves#UDP/IP) for a more detailed explanation of UDP.

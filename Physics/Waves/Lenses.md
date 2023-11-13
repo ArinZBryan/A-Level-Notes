@@ -5,7 +5,7 @@
 A lens diagram is used to graphically find the image of an object through a lens, given the lens' position, focal points and the object's position relative to the lens. It is important to note that when drawing such lens diagrams, a convex lens is represented as a line with arrowheads at each end, and a concave lens as a straight line with upside-down arrowheads at the tips.
 
 ### Images
-When using a lens, there are two types of image that can be produced: real and virtual. A real image is formed when the light rays reaching your eyes have bounced off the object, and passed through the lens. This type of image is called real because it accuratly relflects the real-world position and scale of the objects depicted within. A virtual image is called what it is because it *does not* accurately represent these things. This results in the image appearing to be on the same side of the lens as the object itself.
+When using a lens, there are two types of image that can be produced: real and virtual. A real image is formed when the light rays reaching your eyes have bounced off the object, and passed through the lens. This type of image is called real because it accurately reflects the real-world position and scale of the objects depicted within. A virtual image is called what it is because it *does not* accurately represent these things. This results in the image appearing to be on the same side of the lens as the object itself.
 
 #### Using Lenses
 There are four main situations that need to be known, as shown below:
