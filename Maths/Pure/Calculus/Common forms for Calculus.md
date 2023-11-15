@@ -1,3 +1,4 @@
+$\DeclareMathOperator{\sech}{sech}\DeclareMathOperator{\csch}{csch}\DeclareMathOperator{\arcsec}{arcsec}\DeclareMathOperator{\arccot}{arccot}\DeclareMathOperator{\arccsc}{arccosec}\DeclareMathOperator{\arcosh}{arcosh}\DeclareMathOperator{\arsinh}{arsinh}\DeclareMathOperator{\artanh}{artanh}\DeclareMathOperator{\arsech}{arsech}\DeclareMathOperator{\arcsch}{arcosech}\DeclareMathOperator{\arcoth}{arcoth}$
 ## Integration
 $\int{x^n}dx = \frac{x^{n+1}}{n+1} + c$ 
 $\int{e^{kx}}dx = \frac{1}{k}e^{kx} + c$  
@@ -11,8 +12,12 @@ $\int{\sec^2x}dx = \tan x + c$
 $\int{\csc^2x}dx = -\cot x + c$  
 $\int{\csc x \cot x }dx = -\csc x + c$  
 $\int{\sec x \tan x}dx = \sec x + c$
+$\int \frac{1}{\sqrt{a^2 - x^2}} = \arcsin(\frac xa)+c$
 $\int \frac{1}{x^2 + a^2} = \frac 1a \arctan(\frac xa)+c$
-$\int \frac{1}{\sqrt{x^2 - a^2}} = \arcsin(\frac xa)+c$
+$\int \frac{1}{\sqrt{x^2 - a^2}} = \arcosh(\frac xa)+c$
+$\int \frac{1}{\sqrt{x^2 + a^2}} = \arsinh(\frac xa)+c$
+$\int \frac{1}{a^2 - x^2} = \frac{1}{2a}\ln|\frac{a+x}{a-x}|+c = \frac 1a\artanh(\frac xa) + c$
+$\int \frac{1}{x^2 - a^2} = \frac{1}{2a}\ln|\frac{x-a}{x+a}|+c$
 
 
 ## Differentiation
