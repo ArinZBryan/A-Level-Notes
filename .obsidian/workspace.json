@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Thermodynamics/Pressure and Volume in Gasses.md",
+                "file": "Physics/Thermodynamics/Kinetic Theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Thermodynamics/Specific Heat Capacity and Specific Latent Heat.md",
+                "file": "Physics/Thermodynamics/Kinetic Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Thermodynamics/Specific Heat Capacity and Specific Latent Heat.md",
+                "file": "Physics/Thermodynamics/Kinetic Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Thermodynamics/Specific Heat Capacity and Specific Latent Heat.md"
+                "file": "Physics/Thermodynamics/Kinetic Theory.md"
               }
             }
           },
@@ -180,7 +181,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcd8c1b60bc0d06f",
+  "active": "a32f8fedcb12e58c",
   "lastOpenFiles": [
     "Physics/Thermodynamics/Thermal Gas Laws.md",
     "Physics/Thermodynamics/Specific Heat Capacity and Specific Latent Heat.md",
