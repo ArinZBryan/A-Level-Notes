@@ -57,3 +57,23 @@ There are several methods of testing
 	- This includes multiple stages of software testing
 		- Alpha - Testing performed before releasing to the public or customers.
 		- Beta - Testing performed once users have access to the product, by the users during use.
+
+## Software Development Tooling
+#### IDEs
+*Integrated Development Environments*, or IDEs are pieces of software used when developing your own software. They contain a text-editor and a way to run the code you write. This however, is the bare minimum. Most IDEs will also include other tooling for services such as SCM/GIT, build and [compiler options]("./The%20Compilation%20Toolchain.md"), debuggers and profilers. An example of a modern IDE is for example *Visual Studio 2022*.
+
+Below is a more exhaustive list of features offered by modern IDEs. All of these are provided by Visual Studio 2022 (at least for C#)
+1. Text Editor
+2. LSP (Language Server)
+	- Code Autocomplete
+	- Jump To / Peek Definition
+	- Jump To / Peek Usage
+	- Symbol Rename
+	- Code Refactor Tools
+	- Syntax Highlights
+3. Complier / Linker / Intrpreter
+4. Source Control
+5. Debuggers
+6. Profiler
+7. REPL / Live code environment
+8. Language Documentation
