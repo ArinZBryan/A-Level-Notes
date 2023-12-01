@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "c8ecf2b12f26423f",
+        "id": "aae0310fb6966079",
         "type": "tabs",
         "children": [
           {
-            "id": "02db0a7de114184d",
+            "id": "de4df9768514e844",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Thermodynamics/Specific Heat Capacity and Specific Latent Heat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b13fc6719519094b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Thermodynamics/Thermal Gas Laws.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a92eb2db0340e27c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Thermodynamics/Pressure and Volume in Gasses.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,14 +84,6 @@
             "id": "d7ce8351cf236226",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "50ea4ca9e2c933e3",
-            "type": "leaf",
-            "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
@@ -70,11 +91,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 308.5
   },
   "right": {
     "id": "d37e7daa1b0879f5",
@@ -90,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics/Thermodynamics/Pressure and Volume in Gasses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physics/Thermodynamics/Pressure and Volume in Gasses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physics/Thermodynamics/Pressure and Volume in Gasses.md"
+              }
             }
           },
           {
@@ -168,53 +193,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02db0a7de114184d",
+  "active": "a92eb2db0340e27c",
   "lastOpenFiles": [
-    "Maths/Pure/Vectors/Vector Techniques.pdf",
-    "Physics/Fields/Electric Fields.md",
-    "Physics/Nuclear/Stable and Unstable Nuclei.md",
+    "Physics/Thermodynamics/Thermal Gas Laws.md",
+    "Physics/Thermodynamics/Specific Heat Capacity and Specific Latent Heat.md",
+    "Physics/Thermodynamics/Kinetic Theory.md",
+    "Physics/Thermodynamics/Pressure and Volume in Gasses.md",
     "Physics/Electricity/Transformers.md",
-    "Physics/Electricity/Series and Parallel.md",
-    "Physics/Nuclear/History Of The Atom.md",
-    "Maths/Pure/Matricies/Matrix Operations.md",
-    "Maths/Pure/Vectors/Vector Operations.md",
-    "Maths/Pure/Vectors/Lines in 3D.pdf",
-    "Maths/Pure/Calculus/Differential Equations/Solving Homogeneous Second Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving Non-Homogenous 2nd Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Harmonic Motion.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving Coupled First Order Differential Equations.md",
-    "Maths/Pure/Calculus/Common forms for Calculus.md",
-    "Maths/FormulaSheet.pdf",
-    "Maths/Pure/Methods Of Proof/Proof by Induction - Recurrance relations.md",
-    "Maths/Pure/Trigonometry/Trig Rules.md",
-    "Maths/Pure/Trigonometry/Trig Identities.md",
-    "Maths/Pure/Trigonometry/T-Formulae.md",
-    "Maths/Pure/Trigonometry/Rsin(x+a) form.md",
-    "Maths/Pure/Trigonometry/Hyperbolic Trigonometric Functions.md",
-    "Maths/Pure/Complex Numbers/Complex Identities.md",
-    "Maths/Pure/Complex Numbers/Complex Numbers - Higher Order Polynomials.pdf",
-    "Maths/Pure/Complex Numbers/Complex Numbers - quadratic equations.pdf",
-    "Maths/Pure/Complex Numbers/Complex Numbers - The Basics.pdf",
-    "Maths/Pure/Complex Numbers/Loci on the Complex Plane.pdf",
-    "Maths/Pure/Complex Numbers/Modulus-Argument Form.pdf",
-    "Maths/Pure/Complex Numbers/Regions on the Complex Plane.pdf",
-    "Maths/Pure/Complex Numbers/Roots of Unity.md",
-    "Maths/Pure/Complex Numbers/The Argand Diagram.pdf",
-    "Maths/Pure/Sums and Series/Sums of Arithmetic Series.md",
-    "Physics/Images/RutherordsExperiment.png",
-    "Pasted image 20231123111905.png",
-    "Physics/Images/History Of The Atom.png",
+    "Physics/Fields/Electric Fields.md",
+    "Physics/Fields/Equipotential Lines.md",
+    "Physics/Fields/Gravitational Fields.md",
     "Physics/Fields/Particle Accelerators.md",
+    "Physics/Fields/Magnetic Fields.md",
+    "Physics/Waves/Diffraction.md",
+    "Physics/FormulaSheet.pdf",
     "Physics/Untitled.md",
-    "Pasted image 20231122104808.png",
-    "Maths/Images/Parallelepiped.png",
-    "Computer Science/Encryption.md",
-    "Physics/Images/hertzprung-russel.jpg",
-    "Physics/Astrophysics/Untitled Diagram.svg",
-    "Computer Science/Images/Boolean_Algebra/Karnaugh-4Inputs.png",
+    "Physics/Electricity/Induction.md",
+    "Maths/Pure/Vectors/Vector Operations.md",
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
+    "Maths/Pure/Matricies/Matrix Operations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
+    "Physics/Electricity/Series and Parallel.md",
+    "Physics/Electricity/Electricity.md",
+    "Physics/Materials/Density, Viscosity and Stokes Law.md",
+    "Physics/Materials/Stress, Strain, Youngs Modulus and Hooke's Law.md",
+    "Physics/Mechanics/Collisions.md",
+    "Physics/Quantum/Quantum Physics.md",
+    "Physics/Quantum/The Photoelectric Effect.md",
+    "Physics/Quantum/Electron Energy Levels and Spectra.md",
+    "Physics/Waves/Waves Properties and Definitions.md",
     "Physics/Images/FaradaysLawDerivation.svg",
     "Physics/Images/Lenzs_Law_2.svg",
+    "Physics/Images/InducedMagneticField.png",
+    "Physics/Images/InducedMagneticField.png~",
+    "Physics/Images/InducedMagneticField.png.crdownload",
+    "Physics/Images/IronCoreTransformer.png",
+    "Physics/Images/InternalResistanceCircuitDiagram.png",
+    "Physics/Images/IronCoreTransformer.png~",
+    "Physics/Images/IronCoreTransformer.png.crdownload",
+    "Maths/Images/SHM-Spring-Horizontal.svg",
+    "Physics/Images/Lenzs_Law_1.svg",
+    "Physics/Fields/Magnetic Fields",
+    "Physics/Images/FlemingsRightHandRule.png~",
+    "Physics/Images/FlemingsRightHandRule.png",
+    "Physics/Images/FlemingsRightHandRule.png.crdownload",
+    "Physics/Images/Box.svg",
+    "Physics/Fields/Untitled Diagram.svg",
+    "Computer Science/Images/Boolean_Logic/Full_Adder.png~",
+    "Maths/Pure/Complex Numbers/Modulus-Argument Form.pdf",
     "Untitled.canvas"
   ]
 }

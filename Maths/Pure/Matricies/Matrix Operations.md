@@ -1,7 +1,7 @@
 There are three main operations that can be performed between two vectors:
 
 ## Addition
-To add two matricies $\underline{A}$ and $\underline{B}$, simply add the values of the matricies of the same row and column. If the matricies are not of the same size, then this cannot be done.
+To add two matrices $\underline{A}$ and $\underline{B}$, simply add the values of the matrices of the same row and column. If the matrices are not of the same size, then this cannot be done.
 
 ## Multiplication with a scalar
 To multiply a matrix $\underline{M}$ with a scalar $s$, simply multiply each cell of the matrix by the scalar $s$. This matrix operation works regardless of matrix.

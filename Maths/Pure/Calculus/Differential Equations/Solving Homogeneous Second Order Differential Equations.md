@@ -8,7 +8,7 @@ The general solution (GS) is then equal to $y = Ae^{\lambda_1x}+Be^{\lambda_2x}$
 If both roots are real and distinct, then the general solution is the above equation: $y = Ae^{\lambda_1x}+Be^{\lambda_2x}$. 
 
 ### One real root
-If the roots are real, but are repeated, then the GS is $y = (A+B)e^{\lambda x}$.
+If the roots are real, but are repeated, then the GS is $y = (A+Bx)e^{\lambda x}$.
 
 ### Imaginary roots
-If the roots are imaginary, then the GS is of the form: $y = e^{px}(A\sin(qx)+B\cos(qx))$, where the roots are of the form $p \pm qi$.
+If the roots are imaginary, then the GS is of the form: $y = e^{px}(A\cos(qx)+B\sin(qx))$, where the roots are of the form $p \pm qi$.

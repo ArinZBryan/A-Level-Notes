@@ -16,7 +16,7 @@ Avogadro's law states that equal volumes of different gases at the same pressure
 ### Molar Volume of Gases
 If the temperature and pressure (273K and 101kPa), 1 mole of any gas occupies a volume of $2.27\times 10^{-2}$m^3. This is the molar volume.
 ### Ideal Gas Equation
-In [Thermal Gas Laws](./Thermal%20Gas%20Laws.md), we derived the *ideal gas equation*. We can now combine this with Avogadro's law: $V \propto n$, so the equation can be written as:
+In [Thermal Gas Laws](./Thermal%20Gas%20Laws.md), we looked at the laws that make up the *Ideal Gas Equation*. They can be combined into the equation shown below:
 $$pV = nRT$$
 - $p$ = Pressure of the gas
 - $V$ = volume of the gas

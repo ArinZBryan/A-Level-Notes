@@ -38,3 +38,4 @@ This type of encryption uses two types of key: public and private.
 If *Alice* ($A$) wants to send *Bob* ($B$) a message ($M_{unencrypted}$), then it is first encrypted using *Alice's Private Key* ($A_{private}$) and *Bob's public key* ($B_{public}$). Then the encrypted message ($M_{encrypted}$) can be sent.
 
 When *Bob* receives the message ($M_{encrypted}$), he must combine *his private key* ($B_{private}$) and *Alice's public key* ($A_{public}$) to form a decryption key, which is then used to decrypt the message ($M_{encrypted}$) to form the *unencrypted message* ($M_{unencrypted}$)
+

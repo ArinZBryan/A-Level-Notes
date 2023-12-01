@@ -32,5 +32,19 @@ The modulus of the cross product is the area of the parallelogram formed by two 
 ## Hadamard Product
 
 $\begin{bmatrix} A_1 \newline A_2 \newline \dots \newline A_n\end{bmatrix} \circ \begin{bmatrix} B_1 \newline B_2 \newline \dots \newline B_n\end{bmatrix} = \begin{bmatrix} A_1B_1 \newline A_2B_2 \newline \dots \newline A_nB_n\end{bmatrix}$ 
+## Scalar Triple Product
+The scalar triple product is as follows:
+$$\underline{A}\cdot(\underline{B}\times\underline{C})$$
+Quite nicely, this has a sort of circular comutativity:
+$$\underline{A}\cdot(\underline{B}\times\underline{C}) = \underline{C}\cdot(\underline{A}\times\underline{B}) = \underline{B}\cdot(\underline{C}\times\underline{A})$$
+However, if you swap the terms being cross product'ed then you get a negative version.
+$$\underline{A}\cdot(\underline{B}\times\underline{C}) = - \underline{A}\cdot(\underline{C}\times\underline{B})$$
+Also, if any of the vectors are the repeated, then the result is always zero.
+$$\underline{A}\cdot(\underline{A}\times\underline{B}) = 0$$
+#### Geometrical Interpretations
+The absolute value of the scalar triple product gives the volume of a *parallelepiped* (Parr-a-lel-a-pipe-ed) defined by the vectors.
+![[Parallelepiped.png]]
+This can also be thought of as a skewed cuboid of sorts.
+Similarly, $\frac 16 \underline{A}\cdot(\underline{B}\times\underline{C})$ gives the volume of the tetrahedron (triangle-based pyramid) formed by the vectors. 
 ## The rest of the operations
 As a 'vector' is technically just a term for a matrix with only one column, all the rest of the matrix operations apply in this case, such as addition, multiplication by a matrix and multiplication by a scalar.
