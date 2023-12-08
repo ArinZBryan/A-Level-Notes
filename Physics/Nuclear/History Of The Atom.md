@@ -30,3 +30,16 @@ Charged particles, such as electrons and protons, create electromagnetic fields 
 > The *planetary model* did not allow for energy levels.
 
 ### 1919 - Discovery of Proton
+Rutherford found that when nitrogen nuclei ejected something similar to a *hydrogen atom*, when bombarded with alpha particles. This particle was subsequently called the proton.
+### 1926 - Schrödinger's Quantum Model
+> Moving electrons should emit energy and collapse into the nucleus
+
+Louis de Broglie proposed that all particles should be treated as waves with a wavelength of $\lambda = \frac{h}{mv}$.
+Erwin Schrödinger proposed the quantum mechanical model of the atom, which treats electrons as waves. By doing this, we can calculate the probability of an electron being in any given position. This model describes the nucleus as being surrounded by a cloud of electrons, where density relates to the probability of finding an electron there.
+
+>Atomic disintegration showed that the atomic number was less than the atomic mass, so the proton could not be the only particle in the nucleus.
+>One leading theory was the presence of electrons in the nucleus, but there was also the possibility of particles with no charge.
+
+### 1932 - Chadwick discovers the neutron
+Chadwick bombarded beryllium with alpha particles, and observed an unknown radiation powerful enough to eject protons from various nuclei.
+Gamma rays could not be powerful enough, so the radiation must be from a newly discovered neutral particle (the neutron).

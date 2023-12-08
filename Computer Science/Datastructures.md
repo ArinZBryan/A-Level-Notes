@@ -78,6 +78,11 @@ A dictionary consists of key-value pairs, for example:
 ` "key1" : "value1"`, where, to access the value, the dictionary must be accessed via the use of the key. In the previous example, the key and value were of the same type, however, this is not required. The value can generally take any `type`, `class` or `struct`. In some cases, the key can be of a range of types. It is very uncommon to find keys of types other than in `int` or `string`. To use a datatype other than `int`, it must first be hashed, and the integer value used as the key. In this case the formal name of the data structure is not a '*dictionary*', but a '*hash map*'.
 
 ### Hash Maps
-Hashmaps require a hashing function that produces no overlap, i.e.. no two keys may result in the same hash. If they do, then the entire thing breaks. This hashed value is then used as an index from the base pointer to the dictionary. This does mean that not all spaces in the continuous memory allocated for this data structure will be filled: a hash map is not memory efficient. 
-
-A hash map may use a specialised hashing algorithm that uses a specific part of the data or does some specific maths to get a pointer from it. This allows programmers who know their dataset to optimise their hashmap for the specific application.
+Hash maps are like dictionaries, except instead of using an arbitrary value as the keys to the dictionary, the keys are first hashed, and the hash is used as the key in the dictionary.
+##### Collisions
+Some hashing functions will not always produce results with no overlap. i.e. multiple in put values result in the same hash. This is more common when trying to use the fastest possible, problem-specific algorithms. To solve the issue of collisions, there are two methods.
+- Open Addressing (Linear Probing)
+	When a collision is found, when trying to insert a value, the next available place in the hash table is used. This can sometimes be searched over an interval, for example checking every third place after the initial value for a free space.
+	When retrieving data from hash maps using open addressing, you must check that the keys match once the hashes are known to match. If they do not, then you must search down the table in the same fashion as was used to insert the collided value comparing keys until a match is or is not found.
+- Closed Addressing (Chaining)
+	Each value in the hash map is not actually the data supposedly stored there, but actually the head node or a pointer to a head node of a linked list. This linked list must be traversed to find the end, where a new key/value pair can be added. To retrieve values, the same operations must be performed, where the keys are checked sequentially to find a match.
