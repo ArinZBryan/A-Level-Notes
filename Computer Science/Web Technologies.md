@@ -4,7 +4,7 @@ When we use the internet, there is an interaction between the two parties, the w
 ### Client-side
 Any processing done on the client device must first be sent back to the server for it to appear in other's webpages. Generally, code run on client side is in javascript or webassembly. 
 
-The advantages of this is that it can reduce web traffic (only if significant computation is done on the client, which is inadvisable) and that there is a generally snappier response for the suer, and that the server has less processing to do, so it can serve more clients.
+The advantages of this is that it can reduce web traffic (only if significant computation is done on the client, which is inadvisable) and that there is a generally snappier response for the user, and that the server has less processing to do, so it can serve more clients.
 
 ### Server-side
 Unlike client-side processing, server-side processing is far more flexible in what language it is run on. Some common languages are javascript, C#, ruby or python.
@@ -26,7 +26,7 @@ The pagerank algorithm:
 $R_{ank}(P_{A}) = (1-d) + d(\sum{\frac{R_{ank}(T_i)}{C_n}})$
 
 where:  
-$d$ = damping factor (based on percieved usage of site)  
+$d$ = damping factor (based on perceived usage of site)  
 $T_i$ = a site citing page A  
 $C_n$ = the number of sites that site A cites.
 

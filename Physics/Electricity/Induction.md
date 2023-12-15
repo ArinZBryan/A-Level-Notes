@@ -14,15 +14,14 @@ In other words: the force moving a charge through the electromagnetic field will
 
 Lenz's law is, despite it's seemingly complex wording, actually just an extension of conservation of energy: if the converse were true, an object would accelerate up to high speeds just by being lightly pushed into a magnetic field.
 
-This can be shown by just dropping a magnet through a copper pipe or coil: the magnet falls much slower than it would falling down 
-a plastic pipe. This is due to the force acting against gravity, caused by Lenz's Law.
+This can be shown by just dropping a magnet through a copper pipe or coil: the magnet falls much slower than it would falling down a plastic pipe. This is due to the force acting against gravity, caused by Lenz's Law.
 
 ### Faraday's Law
 There is an expression for the EMF $\epsilon$ created by a wire in a magnetic field, which we can derive using conservation of energy.
 Consider the following diagram. We are exerting a force $F$ on a wire of length $l$, acting downwards for a distance $\Delta s$. The induced current in the wire is $I$.
 ![[FaradaysLawDerivation.svg]]
 Now by conservation of energy:
-	Work don on the wire = electrostatic energy gained by the wire.
+	Work done on the wire = electrostatic energy gained by the wire.
 Now, we can make this an equation.
 $E = \epsilon Q$ ($E$ here is the electrostatic energy, though it might look a little weird, this is actually just $E = QV$, but for EMFs.)
 Hence, $$F\Delta s = \epsilon Q$$

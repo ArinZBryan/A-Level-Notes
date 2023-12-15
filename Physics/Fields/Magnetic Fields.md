@@ -1,3 +1,4 @@
+A magnetic field is a field that interacts with various magnetic substances, as well as with charges. It is important to note that the field lines, when dealing with magnetic fields travel from a north pole to a south pole.
 When current passes through a wire, a magnetic field is [induced](Physics/Electricity/Induction). This applies to any current carrying conductor. 
 When current is flowing through the conductor, the magnetic field produced has field lines that form concentric rings around the conductor.
 ![Induced Magnetic Field](Images/InducedMagneticField.png)
@@ -11,7 +12,7 @@ $$F = BIl\sin\theta$$
 Note that theta is the angle between the conductor and the external flux lines.
 #### Fleming's Left Hand Rule
 To find the direction of the force, a simple physical rule exists: using your left hand, when positioned as shown the thumb, first and second finger point in the correct directions
-![[FlemingsLeftHandRule.png]]
+![FlemingsLeftHandRule.png](FlemingsLeftHandRule.png)
 ### Moving Charges in a Magnetic Field
 There is a force that acts on charged particles moving through a magnetic field. This is actually the reason that a current-carrying conductor experiences a force when it moves through a magnetic field.
 The magnitude of this force ($F$) exerted on a given particle with charge $Q$, moving with a velocity $v$ at an angle $\theta$ relative to the field can be calculated with the following formula:
