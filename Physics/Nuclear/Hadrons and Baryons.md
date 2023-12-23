@@ -1,0 +1,1 @@
+Quarks and antiquarks cannot exist alone. They always bind together 

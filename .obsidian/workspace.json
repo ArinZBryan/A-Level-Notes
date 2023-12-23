@@ -11,9 +11,11 @@
             "id": "9d203e39d96e4e2d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Maths/Pure/Vectors/Planes in 3D.pdf"
+                "file": "Physics/Nuclear/Hadrons and Baryons.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 200
   },
   "right": {
     "id": "d37e7daa1b0879f5",
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Pure/Vectors/Planes in 3D.pdf",
+                "file": "Physics/Nuclear/Hadrons and Baryons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Pure/Vectors/Planes in 3D.pdf",
+                "file": "Physics/Nuclear/Hadrons and Baryons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Pure/Vectors/Planes in 3D.pdf"
+                "file": "Physics/Nuclear/Hadrons and Baryons.md"
               }
             }
           },
@@ -176,10 +178,36 @@
   },
   "active": "9d203e39d96e4e2d",
   "lastOpenFiles": [
-    "Maths/Mechanics/Oblique Collisions.md",
-    "Maths/Mechanics/Linear Collisions.md",
+    "Physics/Nuclear/Constituents of the Atom.md",
+    "Physics/Nuclear/Hadrons and Baryons.md",
+    "Physics/Nuclear/Fundamental Particles (Nucleons).md",
+    "Physics/Nuclear/History Of The Atom.md",
     "Physics/Nuclear/Nuclear Equations.md",
+    "Physics/Nuclear/Particle Interactions.md",
+    "Physics/Nuclear/Particles and Anti-Particles.md",
     "Physics/Nuclear/Stable and Unstable Nuclei.md",
+    "Physics/Images/UniverseExpansion.svg",
+    "Physics/Images/totalInternalReflection.png",
+    "Physics/Images/SHM-graphs.drawio.svg",
+    "Physics/Images/reflection.drawio.svg",
+    "Physics/Images/polarisation.drawio.svg",
+    "Physics/Images/particleZoo.drawio.svg",
+    "Physics/Images/ParticleInteractionBallThrow.png",
+    "Physics/Images/OrbitDiagram.svg",
+    "Physics/Images/NucleonForceGraph.png",
+    "Physics/Images/MomentsDiagram.png",
+    "Physics/Images/Unconfirmed 414165.crdownload",
+    "Physics/Images/Unconfirmed 792367.crdownload",
+    "Physics/Images/Unconfirmed 905048.crdownload",
+    "Maths/Pure/Vectors/Vector Techniques.md",
+    "Maths/Pure/Vectors/Distances between points, lines and planes.pdf",
+    "Maths/Pure/Vectors/Planes in 3D.pdf",
+    "Maths/Pure/Vectors/Lines in 3D.md",
+    "Maths/Pure/Vectors/Lines in 3D.pdf",
+    "Maths/Mechanics/Oblique Collisions.md",
+    "Excalidraw/Drawing 2023-12-15 10.20.53.excalidraw.md",
+    "Excalidraw",
+    "Maths/Mechanics/Linear Collisions.md",
     "Maths/FormulaSheet.pdf",
     "Maths/Pure/Trigonometry/Trig Identities.md",
     "Maths/Pure/Trigonometry/T-Formulae.md",
@@ -188,40 +216,14 @@
     "Maths/Pure/Calculus/Integration/Parametric Integration.md",
     "Untitled.md",
     "Maths/Pure/Trigonometry/Hyperbolic Trigonometric Functions.md",
-    "Maths/Images/ObliqueCollision1.svg",
-    "Maths/Images/PeriodOfRestitution.svg",
-    "Maths/Images/LinearCollisions2Particles.svg",
     "Maths/Mechanics/Impulse and Momentum.md",
-    "Maths/Images/ImpulseVectorDiagram.svg",
     "Physics/Astrophysics/Hertzsprung-Russel Diagrams.md",
     "Maths/Pure/Calculus/Differential Equations/Modelling using First Order Differential Equations.md",
-    "Maths/Images/Modelling_FODE.svg",
-    "Maths/Pure/Calculus/Differential Equations/Untitled Diagram.svg",
     "Maths/Pure/Calculus/Differential Equations/Solving Coupled First Order Differential Equations.md",
     "Maths/Pure/Calculus/Differential Equations/Modelling_FODE.svg.crswap",
     "Maths/Pure/Calculus/Differential Equations/Untitled Diagram.svg.crswap",
-    "Physics/Images/NucleonForceGraph.png",
-    "NucleonForceGraph.png~",
-    "Physics/Images/NucleonAttractionGraph-1.png",
-    "NucleonAttractionGraph.png",
     "Computer Science/Algorithms/Pathfinding.md",
     "Computer Science/Algorithms/Sorting.md",
-    "Maths/Pure/Calculus/Integration/The Trapezium Rule.md",
-    "Maths/Pure/Calculus/Integration/Integration by Substitution.md",
-    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
-    "Maths/Pure/Calculus/Integration/Integration.md",
-    "Maths/Pure/Methods Of Proof/Proof by Induction - divisibility.pdf",
-    "Computer Science/Web Technologies.md",
-    "Physics/Fields/Magnetic Fields.md",
-    "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
-    "Maths/Pure/Sums and Series/Sums of Arithmetic Series.md",
-    "Maths/Pure/Sums and Series/Standard Series Expansions.md",
-    "Physics/FormulaSheet.pdf",
-    "Physics/Images/LINAC.svg",
-    "Maths/Pure/Vectors/Vector Techniques.pdf",
-    "Maths/Pure/Vectors/Lines in 3D.pdf",
-    "Maths/Pure/Complex Numbers/Complex Numbers - Higher Order Polynomials.pdf",
-    "Maths/Pure/Complex Numbers/Complex Numbers - quadratic equations.pdf",
     "Untitled.canvas"
   ]
 }
