@@ -7,7 +7,7 @@ The specific charge of an alpha particle is:
 $4.8\times 10^7\space C kg^-1$
 ##### Beta Particles
 Beta particles come in two forms: $\beta^+$ and $\beta^-$, a positron and electron respectively. However, to become a beta particle, they must be going really quite quickly.
-When a neutron decays, it will decay into a proton and a beta minus particle.
+When a neutron decays, it will decay into a proton, a beta minus particle and an electron antineutrino.
 ##### Gamma Rays
 A gamma ray is electromagnetic radiation from the nucleus of an atom. As such, it has no charge.
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "94a5824ba29db2ad",
+        "id": "32089963782c3632",
         "type": "tabs",
         "children": [
           {
-            "id": "9d203e39d96e4e2d",
+            "id": "bd4f8a97d568c3f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Nuclear/Hadrons and Baryons.md",
+                "file": "Physics/Quantum/The Photoelectric Effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 284.5
   },
   "right": {
     "id": "d37e7daa1b0879f5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Nuclear/Hadrons and Baryons.md",
+                "file": "Physics/Quantum/The Photoelectric Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Nuclear/Hadrons and Baryons.md",
+                "file": "Physics/Quantum/The Photoelectric Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Nuclear/Hadrons and Baryons.md"
+                "file": "Physics/Quantum/The Photoelectric Effect.md"
               }
             }
           },
@@ -152,7 +152,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -176,16 +178,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d203e39d96e4e2d",
+  "active": "bd4f8a97d568c3f1",
   "lastOpenFiles": [
-    "Physics/Nuclear/Constituents of the Atom.md",
-    "Physics/Nuclear/Hadrons and Baryons.md",
-    "Physics/Nuclear/Fundamental Particles (Nucleons).md",
-    "Physics/Nuclear/History Of The Atom.md",
-    "Physics/Nuclear/Nuclear Equations.md",
-    "Physics/Nuclear/Particle Interactions.md",
-    "Physics/Nuclear/Particles and Anti-Particles.md",
-    "Physics/Nuclear/Stable and Unstable Nuclei.md",
+    "Physics/Quantum/Quantum Physics.md",
+    "Physics/Quantum/Electron Energy Levels and Spectra.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Homogeneous Second Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Non-Homogenous 2nd Order Differential Equations.md",
+    "Maths/Pure/Graphs and Functions/Polar Coordinates.md",
+    "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
+    "Maths/Pure/Sums and Series/Sums of Arithmetic Series.md",
+    "Maths/Pure/Sums and Series/Sums of Polynomial Series.md",
+    "Maths/Pure/Sums and Series/Standard Series Expansions.md",
+    "Maths/Pure/Calculus/Differentiation/Parametric Differentiation.md",
+    "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
+    "Physics/Waves/Polarisation.md",
+    "Maths/Pure/Calculus/Integration/Improper Integrals.md",
+    "Maths/Pure/Vectors/Vector Techniques.pdf",
+    "Maths/Pure/Vectors/Vector Techniques.md",
+    "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
+    "Maths/Pure/Calculus/Integration/The Trapezium Rule.md",
+    "Maths/Pure/Calculus/Integration/Parametric Integration.md",
+    "Maths/Pure/Calculus/Integration/Integration by Substitution.md",
+    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
+    "Maths/Pure/Calculus/Integration/Integration.md",
+    "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
+    "Maths/Pure/Complex Numbers/Roots of Unity.md",
+    "Maths/Pure/Complex Numbers/Complex Numbers - Higher Order Polynomials.pdf",
+    "Maths/Pure/Complex Numbers/Complex Identities.md",
+    "Maths/Pure/Calculus/Differential Equations/Modelling using First Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Harmonic Motion.md",
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
+    "Physics/Nuclear/Hadrons.md",
+    "Physics/Images/MesonHexagon.png",
+    "Physics/FormulaSheet.pdf",
+    "MesonHexagon.png~",
     "Physics/Images/UniverseExpansion.svg",
     "Physics/Images/totalInternalReflection.png",
     "Physics/Images/SHM-graphs.drawio.svg",
@@ -195,35 +221,11 @@
     "Physics/Images/ParticleInteractionBallThrow.png",
     "Physics/Images/OrbitDiagram.svg",
     "Physics/Images/NucleonForceGraph.png",
-    "Physics/Images/MomentsDiagram.png",
     "Physics/Images/Unconfirmed 414165.crdownload",
     "Physics/Images/Unconfirmed 792367.crdownload",
     "Physics/Images/Unconfirmed 905048.crdownload",
-    "Maths/Pure/Vectors/Vector Techniques.md",
     "Maths/Pure/Vectors/Distances between points, lines and planes.pdf",
     "Maths/Pure/Vectors/Planes in 3D.pdf",
-    "Maths/Pure/Vectors/Lines in 3D.md",
-    "Maths/Pure/Vectors/Lines in 3D.pdf",
-    "Maths/Mechanics/Oblique Collisions.md",
-    "Excalidraw/Drawing 2023-12-15 10.20.53.excalidraw.md",
-    "Excalidraw",
-    "Maths/Mechanics/Linear Collisions.md",
-    "Maths/FormulaSheet.pdf",
-    "Maths/Pure/Trigonometry/Trig Identities.md",
-    "Maths/Pure/Trigonometry/T-Formulae.md",
-    "Maths/Pure/Calculus/Common forms for Calculus.md",
-    "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
-    "Maths/Pure/Calculus/Integration/Parametric Integration.md",
-    "Untitled.md",
-    "Maths/Pure/Trigonometry/Hyperbolic Trigonometric Functions.md",
-    "Maths/Mechanics/Impulse and Momentum.md",
-    "Physics/Astrophysics/Hertzsprung-Russel Diagrams.md",
-    "Maths/Pure/Calculus/Differential Equations/Modelling using First Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving Coupled First Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Modelling_FODE.svg.crswap",
-    "Maths/Pure/Calculus/Differential Equations/Untitled Diagram.svg.crswap",
-    "Computer Science/Algorithms/Pathfinding.md",
-    "Computer Science/Algorithms/Sorting.md",
     "Untitled.canvas"
   ]
 }

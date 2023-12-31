@@ -1,21 +1,3 @@
-Unlike when taking the derivative, there are no small number of easy rules to learn. Instead, there are a myriad of different specific integrals to learn, and a few, lesser used methods.
-
-## Standard Integration
-### Trigonometry
-$\int{\sin(x)}dx = -\cos x + c$  
-$\int{\cos(x)}dx = \sin x + c$  
-$\int{\sec^2(x)}dx = \tan x + c$  
-$\int{\csc^2(x)}dx = -\cot x + c$  
-$\int{\sec(x)\tan(x)}dx = \sec(x) + c$  
-$\int{\csc(x)\cot(x)}dx = -\csc(x)+ c$  
-### Logs and Exponentials
-$\int{\frac{1}{x}}dx = \ln(|x|)+ c$  
-$\int{ke^{kx}}dx = e^{kx} + c$  
-$\int{\frac{f'(x)}{f(x)}}dx = \ln(|f(x)|)+ c$  
-$\int{f'(x)e^{f(x)}}dx = e^{f(x)} + c$  
-$\int{a^x}dx = \frac{a^x}{\ln(a)} + c$  
-
-## Other Patterns
 ### Odd Powers of $\sin$/$\cos$
 $\int{\cos^3(x)}dx = \int{\cos(x)\cos^{2}(x)}dx = \int{\cos(x)(1-\sin^2(x))}dx = \int{\cos(x)-\cos(x)\sin^2(x)}dx$
 > This applies to all odd powers, not just 3. It also applies to sin in exactly the same way.
@@ -43,9 +25,10 @@ Integration by substitution is when the integral is changed to be in terms of a 
 4. If there are any limits, convert the limits to be limits of the new variable using the conversion factor.
 5. Do the integral
 6. If the integral was indefinite, make sure to convert all instances of your new variable back to the old variable.
-
-
 ### Integration via the reverse chain rule
-$\int{f'(ax + b)} = \frac{1}{a}f(ax + b) + c$
+$$\int{f'(ax + b)} = \frac{1}{a}f(ax + b) + c$$
 
 This formula allows for any function to be integrated with a linear argument, so long as the function has a integral when $f(x)$ has a known integral or if $f'(x)$ is known for a given $f(x)$
+### Mean Value of a function
+The mean of a set of discrete values is equal to the sum of those values divided by the number of values. In the case of a continuous function, the mean of the function is equal to the integral over a range of values, divided by the width of the range of values:
+$$\overline y = \frac{1}{a-b} \int^a_bf(x)\space dx$$
