@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32089963782c3632",
+        "id": "fcbe33122b7d4878",
         "type": "tabs",
         "children": [
           {
-            "id": "bd4f8a97d568c3f1",
+            "id": "9d07ef00b5642ab2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Quantum/The Photoelectric Effect.md",
+                "file": "Maths/Pure/Matricies/Determinants and Inverses.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Quantum/The Photoelectric Effect.md",
+                "file": "Maths/Pure/Matricies/Determinants and Inverses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Quantum/The Photoelectric Effect.md",
+                "file": "Maths/Pure/Matricies/Determinants and Inverses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Quantum/The Photoelectric Effect.md"
+                "file": "Maths/Pure/Matricies/Determinants and Inverses.md"
               }
             }
           },
@@ -178,37 +178,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd4f8a97d568c3f1",
+  "active": "9d07ef00b5642ab2",
   "lastOpenFiles": [
+    "Maths/FormulaSheet.pdf",
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
+    "Physics/Waves/Lenses.md",
+    "Physics/Waves/Polarisation.md",
+    "Physics/Waves/Standing Waves.md",
+    "Physics/Waves/Superposition, Path Difference and Phase Difference.md",
+    "Physics/Waves/Waves Properties and Definitions.md",
+    "Physics/Thermodynamics/Black Body Radiation.md",
+    "Physics/Images/BlackBodyRadiatorGraph.webp",
+    "Physics/Images/BlackBodyRadiatorGraph.webp.crdownload",
+    "Physics/Astrophysics/Hertzsprung-Russel Diagrams.md",
+    "Physics/Astrophysics/History of the Universe.md",
+    "Physics/Astrophysics/Stellar Parallax.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
+    "Computer Science/Machine Architecture.md",
+    "Computer Science/Web Technologies.md",
+    "Computer Science/Boolean Algebra.md",
+    "Computer Science/Fetch, Decode, Execute, Reset Cycle.md",
+    "Physics/Nuclear/Hadrons.md",
+    "Physics/Nuclear/Fundamental Particles (Nucleons).md",
+    "Physics/Nuclear/Constituents of the Atom.md",
+    "Physics/Quantum/The Photoelectric Effect.md",
     "Physics/Quantum/Quantum Physics.md",
     "Physics/Quantum/Electron Energy Levels and Spectra.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving Homogeneous Second Order Differential Equations.md",
     "Maths/Pure/Calculus/Differential Equations/Solving Non-Homogenous 2nd Order Differential Equations.md",
-    "Maths/Pure/Graphs and Functions/Polar Coordinates.md",
-    "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
-    "Maths/Pure/Sums and Series/Sums of Arithmetic Series.md",
-    "Maths/Pure/Sums and Series/Sums of Polynomial Series.md",
-    "Maths/Pure/Sums and Series/Standard Series Expansions.md",
-    "Maths/Pure/Calculus/Differentiation/Parametric Differentiation.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Homogeneous Second Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Coupled First Order Differential Equations.md",
+    "Maths/Pure/Trigonometry/Trig Identities.md",
     "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
-    "Physics/Waves/Polarisation.md",
-    "Maths/Pure/Calculus/Integration/Improper Integrals.md",
     "Maths/Pure/Vectors/Vector Techniques.pdf",
-    "Maths/Pure/Vectors/Vector Techniques.md",
-    "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
-    "Maths/Pure/Calculus/Integration/The Trapezium Rule.md",
-    "Maths/Pure/Calculus/Integration/Parametric Integration.md",
-    "Maths/Pure/Calculus/Integration/Integration by Substitution.md",
-    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
-    "Maths/Pure/Calculus/Integration/Integration.md",
-    "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
-    "Maths/Pure/Complex Numbers/Roots of Unity.md",
     "Maths/Pure/Complex Numbers/Complex Numbers - Higher Order Polynomials.pdf",
-    "Maths/Pure/Complex Numbers/Complex Identities.md",
-    "Maths/Pure/Calculus/Differential Equations/Modelling using First Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Harmonic Motion.md",
-    "Maths/Pure/Calculus/Common forms for Calculus.md",
-    "Physics/Nuclear/Hadrons.md",
     "Physics/Images/MesonHexagon.png",
     "Physics/FormulaSheet.pdf",
     "MesonHexagon.png~",
@@ -220,12 +222,9 @@
     "Physics/Images/particleZoo.drawio.svg",
     "Physics/Images/ParticleInteractionBallThrow.png",
     "Physics/Images/OrbitDiagram.svg",
-    "Physics/Images/NucleonForceGraph.png",
     "Physics/Images/Unconfirmed 414165.crdownload",
     "Physics/Images/Unconfirmed 792367.crdownload",
     "Physics/Images/Unconfirmed 905048.crdownload",
-    "Maths/Pure/Vectors/Distances between points, lines and planes.pdf",
-    "Maths/Pure/Vectors/Planes in 3D.pdf",
     "Untitled.canvas"
   ]
 }
