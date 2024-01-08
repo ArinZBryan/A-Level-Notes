@@ -20,11 +20,7 @@ The inverse of a 2x2 matrix $M$, $\begin{pmatrix}a&&b\newline c&&d\end{pmatrix}$
 
 ### 3x3
 The inverse of a 3x3 matrix $M$, 
-$\begin{pmatrix}
-a && b && c\newline
-d && e && f\newline
-g && h && i\newline
-\end{pmatrix}$ is denoted as $M^{-1}$. It is such a royal pain in the arse to calculate (source: I made a calculator for this). Just get your calculator to do it. It won't lose any marks.
+$\begin{pmatrix}a && b && c\newline d && e && f\newline g && h && i\newline\end{pmatrix}$ is denoted as $M^{-1}$. It is such a royal pain in the arse to calculate (source: I made a calculator for this). Just get your calculator to do it. It won't lose any marks.
 
 ### Checking your calculations
 A good way to check if your determinant is correct is by multiplying it by the original matrix. This should result in the identity matrix for the given number of dimensions that the original matrix had.
