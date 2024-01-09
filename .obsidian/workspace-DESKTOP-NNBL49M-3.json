@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Exam Paper 3/Errors and Uncertanties.md",
+                "file": "Physics/Electricity/Transformers.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Exam Paper 3/Errors and Uncertanties.md",
+                "file": "Physics/Electricity/Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Exam Paper 3/Errors and Uncertanties.md",
+                "file": "Physics/Electricity/Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Exam Paper 3/Errors and Uncertanties.md"
+                "file": "Physics/Electricity/Transformers.md"
               }
             }
           },
@@ -180,19 +180,6 @@
   },
   "active": "2d030c7047b2c42d",
   "lastOpenFiles": [
-    "Physics/Exam Paper 3/Graph Drawing.md",
-    "Physics/Exam Paper 3/Errors and Uncertanties.md",
-    "Physics/FormulaSheet.pdf",
-    "Physics/Exam Paper 3",
-    "Physics/Quantum/Quantum Physics.md",
-    "Physics/Quantum/Electron Energy Levels and Spectra.md",
-    "Physics/Mechanics/SUVAT.md",
-    "Physics/Mechanics/Momentum And Impulse.md",
-    "Physics/Mechanics/Moments.md",
-    "Physics/Mechanics/Harmonic Motion.md",
-    "Physics/Mechanics/Collisions.md",
-    "Physics/Mechanics/Circular Motion.md",
-    "Physics/Electricity/Transformers.md",
     "Physics/Electricity/Series and Parallel.md",
     "Physics/Electricity/Internal Resistance and EMF.md",
     "Physics/Electricity/Induction.md",
@@ -216,7 +203,20 @@
     "Physics/Waves/Lenses.md",
     "Physics/Waves/Polarisation.md",
     "Physics/Waves/Standing Waves.md",
+    "Physics/Waves/Superposition, Path Difference and Phase Difference.md",
+    "Physics/Waves/Waves Properties and Definitions.md",
+    "Physics/Thermodynamics/Black Body Radiation.md",
     "Physics/Images/BlackBodyRadiatorGraph.webp",
+    "Physics/Images/BlackBodyRadiatorGraph.webp.crdownload",
+    "Physics/Astrophysics/Hertzsprung-Russel Diagrams.md",
+    "Physics/Astrophysics/History of the Universe.md",
+    "Physics/Astrophysics/Stellar Parallax.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
+    "Computer Science/Machine Architecture.md",
+    "Computer Science/Web Technologies.md",
+    "Computer Science/Boolean Algebra.md",
+    "Computer Science/Fetch, Decode, Execute, Reset Cycle.md",
+    "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
     "Physics/Images/MesonHexagon.png",
     "Physics/Images/UniverseExpansion.svg",
     "Physics/Images/totalInternalReflection.png",

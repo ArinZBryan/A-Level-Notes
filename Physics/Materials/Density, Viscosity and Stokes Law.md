@@ -1,5 +1,5 @@
 ## Density
-Density is equal to mass per unity volume, and is measured in kg/m^3 or g/cm^3, with the conversion factor being to multiply by 100 to get from kg/m^3 to g/cm^3
+Density is equal to mass per unity volume, and is measured in $\text{kgm}^{-3}$ or ${gcm}^{-3}$, with the conversion factor being to multiply by 100 to get from $\text{kgm}^{-3}$ to $\text{gcm}^{-3}$
 
 ## Stokes' Law, Viscous Drag
 Viscous drag is the force between a fluid an an object moving through it that opposes the motion of the object.
