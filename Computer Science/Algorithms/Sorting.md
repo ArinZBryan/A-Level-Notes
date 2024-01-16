@@ -20,9 +20,11 @@ Time: O($n\log n$) Space: O($n$)
 * Quick sort can be said to work on a divide and conquer basis.
 
 #### How to quick sort
-> 1. Set a left pointer and right pointer to each end of the list
-> 2. Check the value pointed to by the right pointer is larger than that pointed to by the left pointer
-> 3. If the above check returns true, increment the left pointer. Else, swap the values, and decrement the right pointer
-> 4. Repeat steps 2 and 3 until the left and right pointers meet (are in the same place). Place the 'pivot' pointer at this position. Every value to the left of the pivot should be less than the value pointed to by the left pointer and the opposite for the values to the right.
-> 5. This is where the parallelism comes in. The above steps (1-4) should be repeated for the sub lists (all elements to the left of pivot, all elements to the right of pivot. Pivot is not included in these sub lists.)
-> 6. The base case of the recursion is if no swaps were made, or the sub lists are of length one.
+1. Set a left pointer and right pointer to the first and last elements of the array
+2. Set the *pivot* pointer to the middle element of the array
+3. Walk the left pointer right until it hits a value greater than the pivot's value
+4. Walk the right pointer left until it hits a value smaller than the pivot's value
+5. Swap the values at the left and right pointers
+6. Repeat steps 3-5 until the left and right pointers are at the pivot.
+7. Divide the array into two sub-arrays, one each side of the pivot. This can be done by pre-setting the left and right pointers to points in the original array
+8. Run all above steps on each of the sub-arrays recursively.

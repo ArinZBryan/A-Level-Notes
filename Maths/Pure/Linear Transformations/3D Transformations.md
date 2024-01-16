@@ -1,6 +1,5 @@
 $\begin{bmatrix}-1 & 0 & 0\newline0 & 1 & 0\newline0 & 0 & 1 \end{bmatrix} \rightarrow$  A reflection in the plane $x = 0$
 
-
 $\begin{bmatrix}1 & 0 & 0\newline0 & -1 & 0\newline0 & 0 & 1\newline\end{bmatrix} \rightarrow$  A reflection in the plane $y = 0$
 
 $\begin{bmatrix}1 & 0 & 0\newline0 & 1 & 0\newline0 & 0 & -1 \newline\end{bmatrix} \rightarrow$  A reflection in the plane $z = 0$
@@ -16,9 +15,7 @@ $\begin{bmatrix}a & 0 & 0\newline0 & a & 0\newline0 & 0 & a\newline\end{bmatrix}
 
 $\begin{bmatrix}a & 0 & 0\newline0 & 1 & 0\newline0 & 0 & 1\newline\end{bmatrix} \rightarrow$ A stretch parallel to the x axis by scale factor $a$ about the origin
 
-
 $\begin{bmatrix}1 & 0 & 0\newline0 & a & 0\newline0 & 0 & 1\newline\end{bmatrix} \rightarrow$ A stretch parallel to the y axis by scale factor $a$ about the origin
-
 
 $\begin{bmatrix}1 & 0 & 0\newline0 & 1 & 0\newline0 & 0 & a\newline\end{bmatrix} \rightarrow$ A stretch parallel to the z axis by scale factor $a$ about the origin
 

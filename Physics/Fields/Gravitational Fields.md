@@ -23,7 +23,7 @@ However, now we have been able to find the proportionality constant. Thus, the e
 
 ![Gravitational Fields Diagram](gravitationalFields.svg)
 ### Gravitational Potential Energy
-Gravitational potential, notated as $V_{grav}$ is equal to the gravitational potential energy per unit mass.
+Gravitational potential, notated as $V_{grav}$ is equal to the gravitational potential energy per unit mass. It is notated using the letter 'V' to symbolise it's similarities to potential difference in circuits.
 
 $V_{grav} = \frac EM = \frac{-GM}{r}$
 $\text{GPE} = \frac {Em}{M} = \frac{-GMm}{r} = mV_{grav}$
