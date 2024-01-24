@@ -23,7 +23,7 @@ It is important to note that not only will questions explicitly asking for thing
 	- $R^2(\cos^2\alpha +\sin^2\alpha) = 9 + 16$
 	- $R^2 = 25$
 	- $R = 5$
-5. $\frac{R\sin\alpha}{\R\cos\alpha} = \frac{4}{3}$
+5. $\frac{R\sin\alpha}{R\cos\alpha} = \frac{4}{3}$
 	- $\tan\alpha = \frac{4}{3}$
 	- $\alpha = \arctan\frac{4}{3}$
 	- $\alpha \approx 0.927$

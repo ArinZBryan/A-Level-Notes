@@ -7,7 +7,7 @@ Symmetric encryption uses one key for both encryption and decryption, whereas as
 
 ## Symmetric encryption
 There are several methods of symmetric encryption, generally involving a single key.
-- **Ceasar Cipher** - Each character is incremented by a fixed value across an entire string.
+- **Caesar Cipher** - Each character is incremented by a fixed value across an entire string.
 ```c++
 char* ceaser_cipher(char* buffer, int length, int shift)
 {

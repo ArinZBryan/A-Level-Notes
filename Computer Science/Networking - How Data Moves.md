@@ -9,13 +9,10 @@ To send a packet using the TCP/IP stack (after initial handshake and connection 
 
 ##### 1. Application Layer  
 Format the HTTP request to the destination server. As data is being sent, the POST/UPDATE request will also contain a copy of the data to be sent. 
-
 ##### 2. Transport Layer  
 Split the payload into packets, giving each a number, as well as any checksums on the payload. The required protocols to interpret the data are added here as well as an expiration date (Time-To-Live Protocols)
-
 ##### 3. Network Layer  
-Add metadata to the packets, including source and destination IPs.
-
+Add metadata to the packets, including source and destination IPs. Also, the physical route for the packet to take is determined
 ##### 4. Link Layer  
 Enables the transfer of packets between the sender and recipient. This often comes in the form of a network driver for a specific NIC.
 
@@ -24,13 +21,10 @@ When receiving data using the TCP/IP stack, the stack is traversed in reverse or
 
 ##### 1. Link Layer
 Interprets the electronic signal into a readable file or buffer
-
 ##### 2. Network Layer
 Strip metadata from the packets, as well as check for checksum integrity. 
-
 ##### 3. Transport Layer
 Re-order the packets and re-assemble the received data
-
 ##### 4. Application Layer
 Interpret the received data and use it.
 

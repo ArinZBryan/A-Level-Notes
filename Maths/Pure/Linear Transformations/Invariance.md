@@ -9,11 +9,11 @@ To see if a transformation has only the origin as an invariant point, or if it h
 > $\begin{pmatrix}2&1\newline 2&3\end{pmatrix}\begin{pmatrix}x\newline y\end{pmatrix} = \begin{pmatrix}x\newline y\end{pmatrix}$  
 > $2x + y = x$, $2x + 3y = y$  
 > $x + y = 0$, $2x + 2y = 0$
-> $x + y = 0$ is eqivalent to $2x + 2y = 0$.  
-> Therfore, the line of invariant points must lie on the line $y = -x$.
+> $x + y = 0$ is equivalent to $2x + 2y = 0$.  
+> Therefore, the line of invariant points must lie on the line $y = -x$.
 
 ## Invariant Lines
-An invariant line is a line where all points on that line are mapped to another point on the line. It is important to note the distinction between *invariant lines* and *lines of invariant points* as they are different definitions. A line of invariant points is necassarily an invariant line, but not the other way round. In a *line of invariant points*, each point **must** map to itself, but in an *invariant line*, each point on the line maps to **any** point on the line.
+An invariant line is a line where all points on that line are mapped to another point on the line. It is important to note the distinction between *invariant lines* and *lines of invariant points* as they are different definitions. A line of invariant points is necessarily an invariant line, but not the other way round. In a *line of invariant points*, each point **must** map to itself, but in an *invariant line*, each point on the line maps to **any** point on the line.
 
 Invariant lines can be found by finding the image of a general point on the line $y = mx + c$. 
 

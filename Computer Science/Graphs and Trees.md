@@ -1,5 +1,5 @@
 ## Graphs
-A graph is a network of nodes, connected via pointers. Each link between nodes is called an edge, and each node a vertex. A vertex may link to itself, or to another vertex that links to itself. A vertex may also be bi-directional or have a weight. It is because of this, that it is important to note the lack of a heirarchy / order (there are no root / parent / child nodes).
+A graph is a network of nodes, connected via pointers. Each link between nodes is called an edge, and each node a vertex. A vertex may link to itself, or to another vertex that links to itself. A vertex may also be bi-directional or have a weight. It is because of this, that it is important to note the lack of a hierarchy / order (there are no root / parent / child nodes).
 
 In a graph, there may be several unconnected subgraphs.
 

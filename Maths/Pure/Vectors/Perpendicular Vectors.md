@@ -33,3 +33,4 @@ $$\underline{c} = -21\underline{i} - \underline{j} + 6\underline{k}$$
 $$\underline{c} = \begin{bmatrix}-21\newline -1\newline 6\end{bmatrix}$$
 
 $$\begin{bmatrix}-21\newline -1\newline 6\end{bmatrix}\cdot\begin{bmatrix}1\newline 3\newline 4\end{bmatrix}= 0, \hspace{1em}\begin{bmatrix}-21\newline -1\newline 6\end{bmatrix}\cdot\begin{bmatrix}0\newline 6\newline 1\end{bmatrix}= 0$$
+>As can be seen, this is actually just the 3D cross product. So if variables are not involved, using that is preferable.

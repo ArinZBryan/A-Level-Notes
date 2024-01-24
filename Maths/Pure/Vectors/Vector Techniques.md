@@ -22,7 +22,7 @@ Substitute the components of the line equation into the
 ##### A plane and the origin
 For a plane $r\cdot n = a\cdot n$, the shortest distance to the origin is $|a\cdot\hat n|$.
 ##### Two parallel planes
-Express both planes using the normal vector $\hat n$, then the distances between the planes is $|a_1\cdot\hat n - a_2\cdot\hat n|$, where $a_1, a_2$ are points on each of the planes.
+Express both planes using the unit 7normal vector $\hat n$, then the distances between the planes is $|a_1\cdot\hat n - a_2\cdot\hat n|$, where $a_1, a_2$ are points on each of the planes.
 ##### A point and a plane
 Expressing the point is a vector $\begin{bmatrix}a_1\\ a_2\\ a_3\end{bmatrix}$, and the plane is in the form $n_1x + n_2y + n_3z + d = 0$, the following formula (in the formula book) can be used:
 $$|\frac{n_1a_2+n_2a_2+n_3a_3 + d}{|n|}|$$

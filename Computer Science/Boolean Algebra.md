@@ -55,7 +55,7 @@ $A\wedge B = B\wedge A$
 ##### Distributive
 $A\wedge (B\vee C) = (A \wedge B) \vee (A\wedge C)$
 $A\vee (B\wedge C) = (A \vee B) \wedge (A\vee C)$
-##### Absorbative
+##### Absorptive
 $A \vee (A \wedge B) = A$
 $A\wedge(A\vee B) = A$
 

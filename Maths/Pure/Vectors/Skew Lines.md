@@ -12,7 +12,7 @@ If $\underline{d_1} = k*\underline{d_2}$ where $k \in \mathbb{N}$, then lines ar
 The next thing to prove is that the lines do not intersect.  
 To do this, set up the following simultaneous equations:   
 
-$r_{x1} + \lambda d_{1x} = r_{2x} + \mu d_{2x}$  
+$r_{1x} + \lambda d_{1x} = r_{2x} + \mu d_{2x}$  
 $r_{1y} + \lambda d_{1y} = r_{2y} + \mu d_{2y}$  
 $r_{1z} + \lambda d_{1z} = r_{2z} + \mu d_{2z}$  
 

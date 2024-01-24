@@ -22,3 +22,17 @@ $$L = \sigma4\pi r^2T^4$$
 >$T$, Temperature in $K$ 
 >$r$, Radius in $\text{m}$
 >$\sigma$, Stefan-Boltzmann Constant, in $\text{Wm}^{-2}\text{K}^{-4}$  ($5.67\times 10^-8\space\text{Wm}^{-2}\text{K}^{-4}$)
+
+### Luminosity from a point source
+$$I = \frac{L}{4\pi d^2}$$
+>$I$, Intensity across all wavelengths in $Wm^2$
+>$d$, Distance from the point source in $m$
+>$L$, Luminosity in $W$
+
+Thus, we can combine the equations:
+$$Id^2 = \sigma r^2T^4$$
+>$T$, Surface temperature of the star in $K$ 
+>$r$, Radius of the star in $\text{m}$
+>$\sigma$, Stefan-Boltzmann Constant, in $\text{Wm}^{-2}\text{K}^{-4}$  ($5.67\times 10^-8\space\text{Wm}^{-2}\text{K}^{-4}$)
+>$I$, Intensity across all wavelengths in $Wm^2$
+>$d$, Distance from the star in $m$

@@ -1,11 +1,11 @@
 1. $ax^2 + bx + c = 0$  
 (the a quadratic polynomial)
 
-2. $x^2 + \frac{b}{a}x + \frac{c}{a} = 0 $  
+2. $x^2 + \frac{b}{a}x + \frac{c}{a} = 0$  
 (dividing by $a$)
 
 3. $(x + \frac{b}{2a})^2 - \frac{b^2}{4a^2} + \frac{c}{a} = 0$  
-(completeing the square)
+(completing the square)
 
 4. $(x + \frac{b}{2a})^2 = \frac{b^2}{4a^2} - \frac{c}{a}$  
 (rearranging)

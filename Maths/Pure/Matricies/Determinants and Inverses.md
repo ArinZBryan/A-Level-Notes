@@ -1,5 +1,5 @@
 ## Determinants
-The determinant of a matrix can take one of two values, either zero, or some other number. If the determinant is not zero, then it can be said to be equal to the area scale factor of the transformation represented by the matrix. If the matrix is a 3x3 matrix, then this is the volume scale factor of the relavent transformation. If the determinant is zero, then the transformation maps all points on to either a point or a line, thus a shape with no volume or area. 
+The determinant of a matrix can take one of two values, either zero, or some other number. If the determinant is not zero, then it can be said to be equal to the area scale factor of the transformation represented by the matrix. If the matrix is a 3x3 matrix, then this is the volume scale factor of the relevant transformation. If the determinant is zero, then the transformation maps all points on to either a point or a line, thus a shape with no volume or area. 
 
 ### 2x2
 The determinant of a matrix $M$, $\begin{pmatrix}a&b\\ c&d\end{pmatrix}$ is denoted as $det M$. For a 2x2 matrix, the determinant is calculated by the following formula: $\det M = ad-bc$. The determinant of a 2x2 matrix is equal to the area scale factor of the transformation it represents.
