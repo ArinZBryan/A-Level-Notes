@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "b1e50689a451c339",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf4574c43643a20b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a82d7a6a1494e91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Pure/Sums and Series/Taylor Series and Maclaurin Series.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc9bf623e411bfab",
+    "type": "split",
+    "children": [
+      {
+        "id": "008d412c383d0f1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbad4bdef9d6f8d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c32fa9bb1df3805",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7ce8351cf236226",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "75bd63550a778879",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d37e7daa1b0879f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "69209cc3cf1be9b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "187f3964d1537e41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Maths/Pure/Sums and Series/Taylor Series and Maclaurin Series.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5aa8c3d156026562",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Maths/Pure/Sums and Series/Taylor Series and Maclaurin Series.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5289b2e16b39698",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9dbac6134168e725",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Maths/Pure/Sums and Series/Taylor Series and Maclaurin Series.md"
+              }
+            }
+          },
+          {
+            "id": "314f0273a077c6d5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "acf7fd2db1fbfecc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "4a82d7a6a1494e91",
+  "lastOpenFiles": [
+    "Maths/FormulaSheet.pdf",
+    "Maths/Pure/Sums and Series/Taylor Series and Maclaurin Series.md",
+    "Physics/Materials/Stress, Strain, Youngs Modulus and Hooke's Law.md",
+    "Physics/Nuclear/Nuclear Decay.md",
+    "Physics/Nuclear/Decay Law and Activity.md",
+    "Maths/Pure/Sums and Series/Approximating Differential Equations.md",
+    "Maths/Pure/Trigonometry/Hyperbolic Trigonometric Functions.md",
+    "Physics/Images/stableIsotopesChart.png",
+    "Physics/Nuclear/Table_isotopes_en.svg",
+    "Physics/Nuclear/Hadrons.md",
+    "Physics/Nuclear/Fundamental Particles (Nucleons).md",
+    "Physics/Nuclear/Constituents of the Atom.md",
+    "Physics/Nuclear/Particle Interactions.md",
+    "Physics/Nuclear/Nuclear Equations.md",
+    "Physics/Nuclear/Particles and Anti-Particles.md",
+    "Physics/Stable and Unstable Nuclei.md",
+    "Computer Science/Networking - How Data Moves.md",
+    "Computer Science/Networking - Protocols.md",
+    "Computer Science/IPs, Subnets and Gateways.md",
+    "Computer Science/Web Technologies.md",
+    "Physics/Astrophysics/History of the Universe.md",
+    "Physics/Astrophysics/Untitled Diagram.svg",
+    "Physics/Astrophysics/Hertzsprung-Russel Diagrams.md",
+    "Physics/Astrophysics/Stellar Parallax.md",
+    "Physics/Thermodynamics/Black Body Radiation.md",
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
+    "Maths/Pure/Trigonometry/T-Formulae.md",
+    "Maths/Pure/Trigonometry/Trig Identities.md",
+    "Maths/Pure/Trigonometry/Rsin(x+a) form.md",
+    "Maths/Pure/Lines and Curves/Roots of Curves/Roots of Cubics.pdf",
+    "Maths/Pure/Lines and Curves/Roots of Curves/Roots of a Polynomial - related expressions.pdf",
+    "Maths/Pure/Lines and Curves/Roots of Curves/Linear Transformations of Roots.pdf",
+    "Maths/Pure/Lines and Curves/Parametric Curves/Parametric Equations Basics.pdf",
+    "Maths/Pure/Lines and Curves/Parametric Curves/Intersections with Parametric Curves.pdf",
+    "Maths/Methods Of Proof/Proof by Induction - divisibility.pdf",
+    "Maths/Pure/Exponentials and Logs/Dealing with different exponential functions in the same equation.pdf",
+    "Maths/Pure/Exponentials and Logs/Differentiating Exponentials and Logs.pdf",
+    "Maths/Pure/Exponentials and Logs/Using logs to solve exponential equations.pdf",
+    "Physics/Images/BlackBodyRadiatorGraph.webp",
+    "Physics/Images/MesonHexagon.png",
+    "Physics/Images/UniverseExpansion.svg",
+    "Physics/Images/totalInternalReflection.png",
+    "Physics/Images/SHM-graphs.drawio.svg",
+    "Physics/Images/reflection.drawio.svg",
+    "Physics/Images/polarisation.drawio.svg",
+    "Untitled.canvas"
+  ]
+}

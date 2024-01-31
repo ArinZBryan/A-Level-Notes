@@ -21,7 +21,7 @@ $$L = \sigma4\pi r^2T^4$$
 >$A$, Area in square $m^2$
 >$T$, Temperature in $K$ 
 >$r$, Radius in $\text{m}$
->$\sigma$, Stefan-Boltzmann Constant, in $\text{Wm}^{-2}\text{K}^{-4}$  ($5.67\times 10^-8\space\text{Wm}^{-2}\text{K}^{-4}$)
+>$\sigma$, Stefan-Boltzmann constant, in $\text{Wm}^{-2}\text{K}^{-4}$  ($5.67\times 10^-8\space\text{Wm}^{-2}\text{K}^{-4}$)
 
 ### Luminosity from a point source
 $$I = \frac{L}{4\pi d^2}$$

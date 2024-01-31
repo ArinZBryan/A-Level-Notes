@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiMathSymbols",
+      "TiDatabase",
+      "SiDatabricks",
+      "TiLockOpen",
+      "LiFileCog",
+      "SiFiles",
+      "SiGraphql",
+      "TiBoxMultiple",
+      "TiTooltip",
+      "TiAddressBook",
+      "TiDevicesCog",
+      "LiCpu",
+      "LiNetwork",
+      "SiJavascript",
+      "SiSpeedtest"
+    ],
+    "recentlyUsedIconsSize": 15,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  }
+}

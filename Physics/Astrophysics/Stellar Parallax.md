@@ -1,2 +1,3 @@
 - There are 60 arc minutes in one degree
 - There are 60 arc seconds in one arc minute
+- Use trigonometry
