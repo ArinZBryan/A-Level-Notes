@@ -34,14 +34,14 @@ ASM invented. ASM is a partially readable language that can be easily translated
 * instructions and data share the same memory
 
 In the 50's this was fine, but as time passed, a problem came to light.
-This problem is known as the Von Neumann bottleneck - that an instruction can only be executed after the last had completely finished. This bottleneck was fixed by adding more wire between main-memory and the CPU. This allowed for basic parralelism (concurrency of operations in this case) thus, increasing throughput of instructions.
+This problem is known as the Von Neumann bottleneck - that an instruction can only be executed after the last had completely finished. This bottleneck was fixed by adding more wire between main-memory and the CPU. This allowed for basic parallelism (concurrency of operations in this case) thus, increasing throughput of instructions.
 
 By the 70s, personal computers became more available in the home.
 with it, computer games became far more prevalent, as the challenges of rendering graphics came to the fore.
 
 Processors were developed which are more specialized (array processors, DMA processors, coprocessors)
 Memory in terms of sharing between instructions and data items.
-further changes such as FPUs and GPUs and the parralelism that comes with that (pain)
+further changes such as FPUs and GPUs and the parallelism that comes with that (pain)
 * CISC -> Complex instruction set computer
 * RISC -> Reduced instruction set computer
 

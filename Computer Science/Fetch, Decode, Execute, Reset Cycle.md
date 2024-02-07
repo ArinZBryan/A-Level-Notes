@@ -14,7 +14,7 @@ At the end of each cycle, the processor checks the ***status register*** for err
 ![A diagram of a simple CPU performing the start of the fetch stage](./Images/FDER_cycle/basic_cpu_digram_fetch1.svg)
 
 2. Once the address of the instruction is on the address bus, the control unit instructs a **memory read** operation to allow the contents of the memory location to be transferred to the processor. The instruction that is stored at that address is transferred using the ***data bus*** from the main memory to the processor, and is saved in the ***Memory Data Register*** (MDR).
-Simultaneously, the contents of the PC are incremented, such that they hold the address of the next instruction to be executed. This only applies ofr completely sequential programs, where branch instructions may directly modify the PC to jump to the relevant section of code.  
+Simultaneously, the contents of the PC are incremented, such that they hold the address of the next instruction to be executed. This only applies or completely sequential programs, where branch instructions may directly modify the PC to jump to the relevant section of code.  
 
 ![The instruction to be executed is fetched from the main memory to the MDR and PC is incremented by one](./Images/FDER_cycle/basic_cpu_digram_fetch2.svg)
 

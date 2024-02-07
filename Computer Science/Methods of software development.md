@@ -10,14 +10,14 @@
 |                                                                  | Waterfall isn't useful in ongoing projects                                                                                                               |
 
 ### Spiral
-| Advantages                                                                              | Disadvantages                                                         |
-| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Highly Flexible                                                                         | The cost of doing this model is quite high                            |
-| Monitoring the project is easy, as each cycle requires review before the next can begin | High expertise can be needed to execute this well                     |
-| Risk management is very easy                                                            | Rules and protocols must be followed to properly implement this model |
-| Changes are easy to make late into software development                                 | Reusing the same code between projects can be quite hard              |
-| Estimates of project scope, schedule and budget become clearer as the project goes on   | Running over budget and overtime can be quite common.                                                           |     |     |
-| Suitable for high-projects where continued development is not guaranteed                |                                                                       |
+| Advantages | Disadvantages |
+| ---- | ---- |
+| Highly Flexible | The cost of doing this model is quite high |
+| Monitoring the project is easy, as each cycle requires review before the next can begin | High expertise can be needed to execute this well |
+| Risk management is very easy | Rules and protocols must be followed to properly implement this model |
+| Changes are easy to make late into software development | Reusing the same code between projects can be quite hard |
+| Estimates of project scope, schedule and budget become clearer as the project goes on | Running over budget and overtime can be quite common. |
+| Suitable for high-projects where continued development is not guaranteed |  |
 
 ### Agile
 | Advantages                                            | Disadvantages                                                      |
