@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "67acc3a52c1416c1",
+        "id": "a1db276902e7aa8f",
         "type": "tabs",
         "children": [
           {
-            "id": "115bdd32b269f19d",
+            "id": "875f4e355fc435fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Pure/Graphs and Functions/Conic Sections.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 303.5
   },
   "right": {
     "id": "2552ca06514c510c",
@@ -160,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "115bdd32b269f19d",
+  "active": "a6be131e8b9f151d",
   "lastOpenFiles": [
     "Maths/FormulaSheet.pdf",
     "Maths/Pure/Graphs and Functions/Conic Sections.md",
