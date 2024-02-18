@@ -11,12 +11,8 @@
             "id": "3c1a67e0de1cbd42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Mechanics/Linear Collisions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Mechanics/Linear Collisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Mechanics/Linear Collisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maths/Mechanics/Linear Collisions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,7 +154,6 @@
   },
   "active": "3c1a67e0de1cbd42",
   "lastOpenFiles": [
-    "Maths/Pure/Trigonometry/Hyperbolic Trigonometric Functions.md",
     "Physics/Materials/Stress, Strain, Youngs Modulus and Hooke's Law.md",
     "Physics/Exam Paper 3/Graph Drawing.md",
     "Physics/Astrophysics/Hertzsprung-Russel Diagrams.md",
@@ -190,6 +181,7 @@
     "Physics/Waves/Reflection, Refraction and TIR.md",
     "Physics/Quantum/Quantum Physics.md",
     "Physics/Quantum/Electron Energy Levels and Spectra.md",
-    "Physics/Waves/Diffraction.md"
+    "Physics/Waves/Diffraction.md",
+    "Physics/Waves/Lenses.md"
   ]
 }
