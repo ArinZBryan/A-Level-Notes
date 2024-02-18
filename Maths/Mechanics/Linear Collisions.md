@@ -11,3 +11,5 @@ $$m_A(\underline{v_A}-\underline{u_A}) = -m_B(\underline{v_B} - \underline{u_B})
 $$m_A\underline{v_A}-m_A\underline{u_A} = -m_B\underline{v_B} - m_B\underline{u_B}$$
 $$m_A\underline{v_A} + m_B\underline{v_B} = m_A\underline{u_B}+m_B\underline{u_B}$$
 > This is called conservation of linear momentum. (Total initial momentum = Total final momentum)
+
+In an inela
