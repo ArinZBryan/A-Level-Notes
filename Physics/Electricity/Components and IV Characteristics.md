@@ -33,3 +33,6 @@ However, this does not seem to apply to all conductors. The biggest place where 
 
 ### Superconductors
 A **superconductor** is a material which, below a given temperature, known as the *critical temperature*, have **zero resistivity**. This temperature depends on the material the superconductor is made from, but most superconductors have very low critical temperatures, usually not far from absolute zero (-273 $^\circ C$).
+### Semiconductors
+Semiconductors work by releasing electrons from the lattice of molecules held within under special circumstances. This adds free electrons to the material, so they can flow more freely, reducing resistivity.
+This is actually how **NTC thermistors** and **LDRs** work: the heat/light causes charge carriers to be released, which lowers the resistivity of the material, and the resistance of the component.

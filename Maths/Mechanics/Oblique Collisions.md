@@ -12,16 +12,15 @@ $$e\tan\alpha = \tan\beta$$
 $$(u\cos\alpha)^2 + (eu\cos\alpha)^2 = v^2$$
 Using these equations, we can now solve for all the possible needed values.
 ### Vectors
-When using vectors, the following is true:
-$$m\underline u  \cdot \underline{\hat w} = m\underline v  \cdot \underline{\hat w}$$
-Therefore:
-$$\underline u  \cdot \underline{w} = \underline v  \cdot \underline{w}$$
-This is derived from the formula for the dot product, and is for the components parallel to the plane.
-When dealing with components perpendicular to the plane:
-$$\underline I = m(\underline v - \underline u)$$
-> Note that: $\underline v = - \underline u$
+Consider a particle moving with velocity $\underline u\text{ ms}^{-1}$ that hits a smooth plane with direction vector $\underline W$ and rebounds with a velocity $\underline v\text{ ms}^{-1}$.
+![](vector_collisions.drawio.svg)
+It is known that the impulse $\underline I$ is perpendicular to the vector $\underline W$.
 
-$$\underline v \cdot \underline{\hat{I}} = - e(\underline u \cdot \underline{\hat{I}})$$
-$$\underline v \cdot \underline{I} = - e(\underline u \cdot \underline{I})$$
-
-
+By the definition of the [dot product](./../Pure/Vectors/Vector%20Operations.md#Dot%20(scalar)%20Product):
+$$\underline u \cdot \underline{\hat{W}} = |u| |\underline{\hat W}| = u\cos\alpha$$ $$\underline v \cdot \underline{\hat{W}} = |v| |\underline{\hat W}| = v\cos\alpha$$
+We can substitute this into the CoLM equation ($u\cos\alpha = v\cos\beta$) as:
+$$\underline u\cdot\underline{\hat{W}} = \underline v\cdot\underline{\hat{W}}$$
+$$\implies \underline u \cdot \underline W = \underline v \cdot \underline W$$
+In a similar process, we can get that:
+$$\underline v \cdot \underline{\hat{I}} = -e(\underline u \cdot \underline{\hat{I}})$$
+which can also be given without using unit vectors.

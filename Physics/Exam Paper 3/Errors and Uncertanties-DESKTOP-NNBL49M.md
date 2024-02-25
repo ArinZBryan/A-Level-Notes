@@ -8,7 +8,7 @@
 ### Calculating uncertainties
 To calculate uncertainties, attempt to try the following in order. If one is not possible, then attempt the next.
 ##### 1. Range Testing
-$\pm$ Half the range (This only applies when multiple readings have been taken for the same expected value)
+$\pm$ Half the range
 ##### 2. Digital Equipment
 $\pm$ The least significant figure on the readout
 ##### 3. Analogue Equipment
