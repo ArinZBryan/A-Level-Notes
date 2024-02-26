@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "547ed11e44bae37a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16e2c49ffa011d83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Pure/Radians/Radian Measure.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Pure/Radians/Radian Measure.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Pure/Radians/Radian Measure.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -161,8 +186,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fe35179455403cd",
+  "active": "16e2c49ffa011d83",
   "lastOpenFiles": [
+    "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Coupled First Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Modelling using First Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Non-Homogenous 2nd Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Homogeneous Second Order Differential Equations.md",
+    "Maths/Pure/Vectors/Vector Techniques.md",
+    "Maths/Pure/Vectors/Lines in 3D.md",
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
+    "Maths/Pure/Trigonometry/Hyperbolic Trigonometric Functions.md",
+    "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
+    "Maths/Pure/Calculus/Integration/Integration by Substitution.md",
+    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
+    "Maths/Pure/Calculus/Integration/Integration.md",
+    "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
+    "Maths/Pure/Calculus/Integration/Improper Integrals.md",
+    "Maths/Pure/Graphs and Functions/Polar Coordinates.md",
+    "conflict-files-obsidian-git.md",
+    "Maths/Pure/Radians/Radian Measure.md",
     "Maths/Pure/Radians/Small Angle Approximations.md",
     "Maths/Pure/Trigonometry/Trig Identities.md",
     "Maths/FormulaSheet.pdf",
@@ -172,25 +215,7 @@
     "Maths/Pure/Sums and Series/C + iS Series.md",
     "Maths/Pure/Sums and Series/Approximating Differential Equations.md",
     "Maths/Pure/Sums and Series/Standard Series Expansions.md",
-    "Maths/Pure/Linear Transformations/Invariance.md",
-    "Maths/Pure/Matricies/Matricies and Simultaneous Equations.md",
-    "Maths/Pure/Matricies/Matrix Operations.md",
-    "Maths/Pure/Matricies/Determinants and Inverses.md",
-    "Maths/Pure/Matricies/Consistency.md",
-    "Maths/Pure/Lines and Curves/Forms of a Line.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving Homogeneous Second Order Differential Equations.md",
-    "Maths/Pure/Trigonometry/T-Formulae.md",
-    "Computer Science/Networking - How Data Moves.md",
-    "Computer Science/IPs, Subnets and Gateways.md",
-    "Computer Science/Networking - Protocols.md",
-    "Physics/Electricity/Components and IV Characteristics.md",
-    "Physics/Mechanics/SUVAT.md",
-    "Physics/Mechanics/Collisions.md",
-    "Physics/Mechanics/Harmonic Motion.md",
-    "Physics/Mechanics/Moments.md",
-    "Physics/Mechanics/Momentum And Impulse.md",
     "Physics/FormulaSheet.pdf",
-    "Maths/Mechanics/Oblique Collisions.md",
     "Maths/Images/vector_collisions.drawio.svg",
     "Maths/Mechanics/Untitled Diagram.svg",
     "Physics/Images/BindingEnergyPerNucleon.png"

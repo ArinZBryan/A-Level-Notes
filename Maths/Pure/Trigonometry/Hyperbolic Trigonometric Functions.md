@@ -1,4 +1,4 @@
-   As a counterpart to the trig functions $\sin\theta$, $\cos\theta$ and $\tan\theta$, which operate on the unit circle, there are also three hyperbolic functions which operate on the unit hyperbola:
+x   As a counterpart to the trig functions $\sin\theta$, $\cos\theta$ and $\tan\theta$, which operate on the unit circle, there are also three hyperbolic functions which operate on the unit hyperbola:
 - $\sinh a$ (pronounced 'Cinch')
 - $\cosh a$ (pronounced 'Cosh')
 - $\tanh a$ (pronounced 'Tanch')
