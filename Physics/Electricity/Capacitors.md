@@ -36,3 +36,11 @@ Where:
 - $t$ = Time Discharging (Seconds)
 - $C$ = Capacitance (Farads)
 - $R$ = Resistance of the components being discharged into (Ohms)
+> Note that sometimes $RC$ will sometimes be notated as $\tau$
+### Charging a capacitor
+When charging a capacitor, the following equations apply:
+$V = \epsilon(1 - e^\frac{-t}{RC})$
+$Q = C\epsilon(1 - e^\frac{-t}{RC})$
+$I = I_0e^\frac{-t}{RC}$
+Note that for the current equation, that $I_0 = \frac{\epsilon}{R}$ 
+Also, $\epsilon$ is the charging / supply voltage, i.e. the voltage from the battery

@@ -47,9 +47,7 @@ Data structures should not have long access times. There should also be no data 
 
 * Data consistency
     - When data is entered, it is entered just once and is always consistent
-    - Database normalization takes an entity from a flat file database consisting of one large entity with many attributes
-to a relational database liked by foreign keys where each attribute therein is dependant on the key, and nothing else.
-(so help me Codd)
+    - Database normalization takes an entity from a flat file database consisting of one large entity with many attributes to a relational database liked by foreign keys where each  attribute therein is dependant on the key, and nothing else. (so help me Codd)
 
 Database normalization consists of 3 different stages
 an entity is in 1st normal form if it contains no repeating attributes or groups of attributes

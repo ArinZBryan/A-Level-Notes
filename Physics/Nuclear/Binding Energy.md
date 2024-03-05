@@ -1,4 +1,4 @@
-The mass of an atom can be calculated by firing ions through the magnetic / electric field within a mass spectrometer. Depending on the mass, a different amount of defection can be observed.
+The mass of an atom can be calculated by firing ions through the magnetic / electric field within a mass spectrometer. Depending on the mass, a different amount of deflection can be observed.
 ### Atomic Mass Unit $u$
 The atomic mass unit $u$ is defined as one twelfth the mass of an atom of Carbon 12.
 $$u = \frac{m_{c12}}{12} = 1.660539\times 10^{-27}\text{Kg}$$

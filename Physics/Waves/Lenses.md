@@ -10,13 +10,13 @@ When using a lens, there are two types of image that can be produced: real and v
 #### Using Lenses
 There are four main situations that need to be known, as shown below:
 
-| Object Position | Convex | Concave |
-| :---: | :---: | :---: |
-| Before Focal Length | Enlarged Virtual Image | |
-| At Focal Length | Virtual Image At Infinity (No Image) | |
-| After Focal Length | Enlarged Inverted Real Image | | 
-| At 2x Focal Length | Inverted Real Image (No Magnification) | |
-| Beyond Focal Length | Inverted Diminished Real Image at Focal Length | | 
+|   Object Position   |                     Convex                     | Concave |     |
+| :-----------------: | :--------------------------------------------: | :-----: | --- |
+| Before Focal Length |             Enlarged Virtual Image             |         |     |
+|   At Focal Length   |      Virtual Image At Infinity (No Image)      |         |     |
+| After Focal Length  |          Enlarged Inverted Real Image          |         |     |
+| At 2x Focal Length  |     Inverted Real Image (No Magnification)     |         |     |
+| Beyond Focal Length | Inverted Diminished Real Image at Focal Length |         |     |
 
 ***Finish This Table***
 
