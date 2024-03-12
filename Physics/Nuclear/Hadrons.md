@@ -18,11 +18,11 @@ From this, we can surmise that *quarks* have a *baryon number* of $+\frac{1}{3}$
 Whenever a reaction involving *baryons* occurs, the **sum of baryon numbers is conserved**. 
 For instance, in $\beta^-$ decay: $n \rightarrow p + e^- +\overline{v_e}$ . Examples of reactions are the decay of *baryons* into other *baryons*, as well as particle-antiparticle pairs annihilating.
 ##### Common Baryon Properties
-|                     | up $(u)$     | down $(d)$  | strange $(s)$ | anti-up $(\overline u)$ | anti-down $(\overline d)$ | anti-strange $(\overline s)$ |
-| ------------------- | ------------ | ----------- | ------------- | ----------------------- | ------------------------- | ---------------------------- |
-| Charge ($Q$)        | $+ \frac 23$ | $-\frac 13$ | $-\frac 13$   | $-\frac 23$             | $+\frac 13$               | $+\frac 13$                  |
-| Strangeness ($S$)   | $0$          | $0$         | $-1$          | $0$                     | $0$                       | $1$                          |
-| Baryon Number ($B$) | $+\frac 13$  | $+\frac 13$ | $\frac 13$    | $-\frac 13$             | $-\frac 13$               | $-\frac 13$                  | 
+|                     | up $(u)$     | down $(d)$  | strange $(s)$ | anti-up $(\overline u)$ | anti-down $(\overline d)$ | anti-strange $(\overline s)$ |     |
+| ------------------- | ------------ | ----------- | ------------- | ----------------------- | ------------------------- | ---------------------------- | --- |
+| Charge ($Q$)        | $+ \frac 23$ | $-\frac 13$ | $-\frac 13$   | $-\frac 23$             | $+\frac 13$               | $+\frac 13$                  |     |
+| Strangeness ($S$)   | $0$          | $0$         | $-1$          | $0$                     | $0$                       | $1$                          |     |
+| Baryon Number ($B$) | $+\frac 13$  | $+\frac 13$ | $+\frac 13$   | $-\frac 13$             | $-\frac 13$               | $-\frac 13$                  |     |
 
 ### Mesons
 There are two main 'types' of *meson*, each with sub-types:

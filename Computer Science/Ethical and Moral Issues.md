@@ -16,4 +16,4 @@ On a similar note, whenever a computer program has to cone into contact with the
 ### Monitoring Behaviour
 Much of a person's everyday life is now monitored, a process only made easier with the advent of computers. This monitoring has allowed entities to track people not only in real life, but also on the internet, where despite someone's bets efforts to remain anonymous, they may still be personally identifiable.
 ### Data Mining
-Data mining is the process oif searching and analysing large data sets to find out if there are any hidden connections and they can be used to predict future trends. Ther eare a number of software application which are designed to trawl through such datasets. 
+Data mining is the process of searching and analysing large data sets to find out if there are any hidden connections and they can be used to predict future trends. There are a number of software application which are designed to trawl through such datasets. 
