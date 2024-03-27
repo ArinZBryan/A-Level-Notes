@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "1152e6e7537d5405",
+        "id": "376ad273c7777d20",
         "type": "tabs",
         "children": [
           {
-            "id": "cb98a93fc1c0910d",
+            "id": "0cbd8dbc98736db7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Electricity/Components and IV Characteristics.md",
+                "file": "Maths/Pure/Vectors/Lines in 3D.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fabc6b559813bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Pure/Sums and Series/Taylor Series and Maclaurin Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Electricity/Components and IV Characteristics.md",
+                "file": "Maths/Pure/Vectors/Lines in 3D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Electricity/Components and IV Characteristics.md",
+                "file": "Maths/Pure/Vectors/Lines in 3D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Electricity/Components and IV Characteristics.md"
+                "file": "Maths/Pure/Vectors/Lines in 3D.md"
               }
             }
           }
@@ -161,35 +173,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb98a93fc1c0910d",
+  "active": "0cbd8dbc98736db7",
   "lastOpenFiles": [
-    "Physics/FormulaSheet.pdf",
-    "Maths/Pure/Calculus/Differentiation/Euler's Method.md",
-    "Maths/Pure/Calculus/Differentiation/Differentiation.md",
-    "Maths/Images/diffentiation_from_first_principles.drawio.svg",
-    "Maths/Pure/Graphs and Functions/L'Hopital's Rule.md",
-    "Maths/Pure/Calculus/Differentiation/The Leibniz Rule.md",
-    "Maths/Pure/Trigonometry/T-Formulae.md",
-    "Maths/Pure/Calculus/Integration/Weierstrauss Substitution.md",
-    "Maths/Pure/Trigonometry/Trig Identities.md",
-    "Physics/Mechanics/Harmonic Motion.md",
-    "Maths/Pure/Calculus/Common forms for Calculus.md",
-    "Computer Science/Data Representation.md",
-    "Maths/Mechanics/Elastic Strings and Springs.md",
-    "Maths/Mechanics/Forces and Friction.md",
-    "Maths/Mechanics/Oblique Collisions.md",
-    "Maths/Mechanics/Impulse and Momentum.md",
-    "Maths/Mechanics/Linear Collisions.md",
-    "Physics/Thermodynamics/Thermal Gas Laws.md",
-    "Maths/Mechanics/Linear Collisions-DESKTOP-NNBL49M.md",
+    "Physics/Thermodynamics/Kinetic Theory.md",
     "Physics/Thermodynamics/Pressure and Volume in Gasses.md",
     "Physics/Thermodynamics/Specific Heat Capacity and Specific Latent Heat.md",
-    "Physics/Thermodynamics/Kinetic Theory.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
-    "Physics/Electricity/Induction.md",
-    "Physics/Mechanics/Circular Motion.md",
+    "Physics/Thermodynamics/Thermal Gas Laws.md",
+    "Maths/Pure/Calculus/Differentiation/Euler's Method.md",
+    "Maths/Pure/Calculus/Differentiation/Midpoint Method.md",
+    "Maths/Pure/Calculus/Differentiation/The Leibniz Rule.md",
+    "Maths/Pure/Trigonometry/Trig Identities.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Non-Homogenous 2nd Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Homogeneous Second Order Differential Equations.md",
+    "Maths/Pure/Trigonometry/T-Formulae.md",
+    "Maths/Pure/Graphs and Functions/Limits of Functions and L'Hopital's Rule.md",
+    "Maths/Pure/Sums and Series/Taylor Series and Maclaurin Series.md",
+    "Maths/Pure/Calculus/Differential Equations/Series Solutions.md",
+    "Maths/Statistics/Collecting Data/Populations and Samples.md",
+    "Maths/Statistics/Collecting Data/Non-Random Sampling.md",
+    "Maths/Statistics/Collecting Data/Random Sampling.md",
+    "Maths/Mechanics/Oblique Collisions.md",
+    "Maths/Mechanics/Linear Collisions.md",
+    "Maths/Mechanics/Work, Energy and Power.md",
+    "Maths/Mechanics/Impulse and Momentum.md",
+    "Maths/Mechanics/Elastic Strings and Springs.md",
+    "Maths/Mechanics/Forces and Friction.md",
     "Physics/Fields/Magnetic Fields.md",
-    "Computer Science/The Operating System.md",
+    "Physics/Images/SolenoidPolarity.png",
+    "Physics/Fields/Gravitational Fields.md",
+    "Physics/Images/Solenoid.png",
+    "Pasted image 20240320122559.png",
+    "Physics/Fields/Equipotential Lines.md",
+    "Physics/FormulaSheet.pdf",
+    "Maths/Images/diffentiation_from_first_principles.drawio.svg",
     "Physics/Images/particle-zoo.drawio.svg",
     "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
     "Maths/Pure/Lines and Curves/Parametric Curves/Parametric Equations Basics.pdf",

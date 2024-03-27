@@ -21,3 +21,9 @@ To get the direction of the force, we can still use *Fleming's Left Hand Rule*. 
 
 As the force applied to the particle is always perpendicular to the particle, said particle will move on a circular path, thus following [circular motion](Physics/Mechanics/Circular%20Motion).
 The most common application of this is in a type of [particle accelerator](Physics/Fields/Particle%20Accelerators) called a *cyclotron*.
+### Solenoids
+A solenoid is a coil of wire, that when powered will create a magnetic field, similar to that of a bar magnet.
+![Solenoid Magnetic Field](Solenoid.png)
+By looking at the way that the current flows from the end of a coil, we can determine which pole of the coil you are looking at.
+If the current is flowing clockwise, then it is a south pole, and if the current is flowing anticlockwise, then the pole is a north pole. This can be remembered using the following simple graphic.
+![Solenoid Polarity](./../Images/SolenoidPolarity.png)

@@ -1,3 +1,4 @@
+### First Order Differential Equations
 When defining differentiation from first principals, we get that
 $$f'(x) = \lim_{h\to 0}\frac{f(x+h)- f(x)}{h}$$
 Euler's method is an approximation, where we remove the limit and set $h$ to some arbitrary, small value (usually less than 1).
@@ -14,8 +15,8 @@ The best way to do this is to use the **Table Method**
 | $n$ | $x_n$ | $y_n$ | $(\frac{dy}{dx})_n$ |
 | --- | ----- | ----- | ------------------- |
 | 0   | 2     | 5     | -11                 |
-| 1   |       |       |                     |
-| 2   |       |       |                     |
-| 3   |       |       |                     |
+| 1   | ...   | ...   | ...                 |
+| 2   | ...   | ...   | ...                 |
+| 3   | ...   | ...   | ...                 |
 
- 
+### Second Order Differential Equations

@@ -5,7 +5,7 @@ This is known as <u><i>random sampling</i></u>. There are a few ways to do this.
 ### What is it?
 Every sample has an equal chance of being selected.
 ### Method:
-In sampling frame <u>each item has an identifying number.</u> Use a <u>random number generator</u>, or '*lottery sampling*' (eg. picking names from a hat)
+In sampling frames <u>each item has an identifying number.</u> Use a <u>random number generator</u>, or '*lottery sampling*' (eg. picking names from a hat)
 ### Advantages
 - Bias free
 - Easy and cheap to implement
