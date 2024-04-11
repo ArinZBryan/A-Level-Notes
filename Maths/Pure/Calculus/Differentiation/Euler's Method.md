@@ -20,3 +20,17 @@ The best way to do this is to use the **Table Method**
 | 3   | ...   | ...   | ...                 |
 
 ### Second Order Differential Equations
+Suppose we have a second order differential equations of the form $\frac{d^2y}{dx^2} = f(x,y)$. 
+For first order differential equations, Euler's Method gives $(\frac{dy}{dx})_n\approx\frac{y_{n+1}-y_n}{h}$. If we think of $\frac{d^2y}{dx^2}$ as the rate of change of $\frac{dy}{dx}$, we can apply Euler's method again to the first derivative to get the second. 
+This gives the following:
+$$(\frac{d^2y}{dx^2})_{_n}\approx\frac{(\frac{y_{n+1} - y_n}{h}) - (\frac{y_{n} - y_{n-1}}{h})}{h}$$
+Rearranging this to the more useful iterative form, we get that:
+$$y_{n+1} \approx 2y_n -y_{n-1} + h^2(\frac{d^2y}{dx^2})_{_n}$$
+### Second order differential equations involving $\frac{dy}{dx}$
+If we are given a second order differential equation of the form $\frac{d^2y}{dx^2} = f(x,y,\frac{dy}{dx})$, then we don't have enough information on the face of it to apply Euler's method. However, by using both the second order part of Euler's method and the [midpoint method](./Midpoint%20Method.md), we can approximate the data we need to use the second order version of Euler's method outright. 
+In these questions, you are always given the starting conditions of $x$, $y$ and $\frac{dy}{dx}$.
+- By substituting these in to the original equation, we can get $\frac{d^2y}{dx^2}$
+- Setting $n$ to zero in the midpoint equation gives us $y_1 \approx y_{-1} + 2h(\frac{dy}{dx})_0$. We can then substitute in known values to get an an equation approximating $y_1$ to $y_{-1}$.
+- Setting $n$ to zero in the second order iterative equation gives us $y_1 \approx 2y_0 - y_{-1} + h^2(\frac{d^2y}{dx^2})$. We can then substitute in known values to get an equation approximating $y_1$ to $y_{-1}$. 
+- We can then solve these two equations simultaneously to get approximate values for $y_1$ and $y_{-1}$. Though, we will only use the value for $y_1$. 
+- Using this, we now have enough information to use the regular version of the second order iterative equation.
