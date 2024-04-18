@@ -1,4 +1,4 @@
-6### Fleming's Right Hand Rule
+### Fleming's Right Hand Rule
 When a conductive wire is moved through a magnetic field, a current is induced in the wire. The direction of the current is given by Fleming’s right-hand rule for generators. As with Fleming’s left-hand rule, the thumb is the direction of the motion of the wire, or equivalently, the force exerted on the wire, F, the first finger is the direction of the magnetic field, B, and the second finger is the direction of the induced conventional current, I.
 ![[FlemingsRightHandRule.png]]
 ## Lenz's Law

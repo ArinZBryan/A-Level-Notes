@@ -65,7 +65,10 @@ To delete a sub tree, first traverse through the tree using a depth first-search
 
 ## Traversals
 ### Breadth First
-This type of traversal closely models the actions taken by Djikstra's algorithm. It is easily applicable to both graphs and trees. A breadth first traversal will use a queue to work, but generally, the route taken by the traversal will be what is asked for in a question.
+This type of traversal relies on the use of a 
+
+This type of traversal closely models the actions taken by [Djikstra's algorithm](./Algorithms/Pathfinding.md). It is easily applicable to both graphs and trees. A breadth first traversal will use a queue to work, but generally, the route taken by the traversal will be what is asked for in a question.
+
 
 ### Depth First
 This type of traversal is generally only used on on trees, rather than graphs, however, it can still be applied to graphs. A depth first traversal also uses a stack to store a '*trace*' of sorts. This will be what is asked for in exam questions. Below is the algorithm for a depth first traversal of a tree, starting at the *root node*:

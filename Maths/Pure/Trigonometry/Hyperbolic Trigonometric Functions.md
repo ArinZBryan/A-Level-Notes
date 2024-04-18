@@ -18,7 +18,7 @@ There are also three new inverse functions to go with these:
 Unlike the regular trig functions, which have a rather informal definition, these functions are precisely defined using other methods:
 - $\sinh a = \frac{e^x - e^{-x}}{2}$
 - $\cosh a = \frac{e^x + e^{-x}}{2}$
-- $\tanh a = \frac{e^{2x} - 1}{e^{2x} -1}$
+- $\tanh a = \frac{e^{2x} - 1}{e^{2x} +1}$
 
 | $\sinh x$                           | $\cosh x$                           | $\tanh x$                           |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- |
