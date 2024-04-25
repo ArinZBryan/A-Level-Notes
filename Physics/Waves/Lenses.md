@@ -36,7 +36,10 @@ $\frac{1}{I_{height}} + \frac{1}{O_{height}} = \frac{1}{f}$
 **Note:** The values are only positive if the image formed is real.
 
 #### Lens Power and Magnification
+$m = \frac{I_{dist}}{O_{dist}}$
 $m = \frac{I_{height}}{O_{height}}$
+> - $I_{dist}$ - Image distance from lens
+> - $O_{dist}$ - Object distance from lens
 > - $I_{height}$ - Image height
 > - $O_{height}$ - Object height
 > - $m$ - Magnification

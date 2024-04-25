@@ -1,11 +1,11 @@
-Random sampling can be problematic because often, the sampling frame is not known, so if a random sample was taken from the population, the results could be skewed.
+[Random sampling](./Random%20Sampling.md) can be problematic because often, the sampling frame is not known, so if a random sample was taken from the population, the results could be skewed.
 
 There are two types of Non-Random Sampling
 
 ## Quota Sampling 
 ### What is it?
 The population is divided into groups according to a characteristic. A quota of items/people in each group is set to try and reflect the group's proportion in the whole population.
-*<u>The interviewer must select the actual sampling units</u>*
+**The interviewer must select the actual ![sampling units](./Populations%20and%0Samples.md)**
 
 ### Advantages
 - Allows small sample to still be representative of population.

@@ -5,7 +5,7 @@ When exponentiating a binomial, the power that the binomial is raised to is the 
 
 ![Pascal's Triangle](./../../Images/PascalsTriangle.png)
 
-From this, we can attempt to turn this into a tangible formula, resulting in the below formula:
+From this, we can attempt to turn this into a tangible formula, resulting in the below formula, called the *choose* function:
 
 $$\begin{pmatrix}n\newline r\end{pmatrix} = \frac{n!}{r!(n-r)!}$$
 

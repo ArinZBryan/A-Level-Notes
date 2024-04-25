@@ -1,5 +1,5 @@
 ## The Scheduler
-***See '[The Operating System](The_Operating_System.md#schedulers-aka-job-scheduler)'***  
+***See '[The Operating System](The%20Operating%20System.md#schedulers-aka-job-scheduler)'***  
 
 The operating system uses scheduling algorithms which allocate processing time to each task / process / thread that is currently needing to be service.
 The scheduler may use one of five algorithms that we need to know.

@@ -1,6 +1,6 @@
 ### Simple Harmonic Motion
 
-![](Maths/Images/SHM-Spring-Horizontal.svg|200)
+![Spring With Ball](./../../../Images/SHM-Spring-Horizontal.svg |200)
 
 Simple harmonic motion (see [Physics](Physics/Mechanics/Harmonic%20Motion) for more detailed explanation) can be modelled as a second order differential equation in $x$.
 

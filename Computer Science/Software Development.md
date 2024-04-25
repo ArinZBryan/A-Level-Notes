@@ -60,7 +60,7 @@ There are several methods of testing
 
 ## Software Development Tooling
 #### IDEs
-*Integrated Development Environments*, or IDEs are pieces of software used when developing your own software. They contain a text-editor and a way to run the code you write. This however, is the bare minimum. Most IDEs will also include other tooling for services such as SCM/GIT, build and [compiler options]("./The%20Compilation%20Toolchain.md"), debuggers and profilers. An example of a modern IDE is for example *Visual Studio 2022*.
+*Integrated Development Environments*, or IDEs are pieces of software used when developing your own software. They contain a text-editor and a way to run the code you write. This however, is the bare minimum. Most IDEs will also include other tooling for services such as SCM/GIT, build and [compiler options](The%20Compilation%20Toolchain.md), debuggers and profilers. An example of a modern IDE is for example *Visual Studio 2022*.
 
 Below is a more exhaustive list of features offered by modern IDEs. All of these are provided by Visual Studio 2022 (at least for C#)
 1. Text Editor

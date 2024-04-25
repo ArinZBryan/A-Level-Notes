@@ -1,4 +1,4 @@
-## Definitions
+### Definitions
 
 * Database 
     - an organized persistent store of information of records pertaining to an individual data item or collection of data
@@ -40,7 +40,7 @@
 	- A programmable set of relationships that maintain the integrity and consistency of data items across the database.
 	- This ensures that when records are created, updated or removed, related records are dealt with properly. This may include deleting orphaned records.
 
-## Normalization
+### Normalization
 
 Database normalization is the process of structuring entities and attributes in the most efficient and optimized way.  
 Data structures should not have long access times. There should also be no data duplication or redundancy
@@ -56,7 +56,7 @@ an entity is in 1st normal form if it contains no repeating attributes or groups
 - create separate entities for each group of related data
 - identify a field within
 
-### Nature of database relationships
+##### Nature of database relationships
 - one-to-one : one person may only have a relationship with one other person
 - one-to-many : one teacher may teach many pupils
 - many-to-many : many courses having many pupils each
@@ -70,10 +70,10 @@ an entity is in 1st normal form if it contains no repeating attributes or groups
 3. Third normal form
     - Must be in 1NF and contains no key dependencies (all links between records are made with keys)
 
-#### Standard Notation
+##### Standard Notation
 >TableName(<u>PrimaryKey</u>, <span style = "text-decoration:overline">ForeignKey</span>, DataAttribute)  
 
-#### Entity relationship Modelling 
+##### Entity relationship Modelling 
 >object ------------- object		one-to-one		(simple)  
    object ------------< object		one-to-many		(good)  
    object >-----------< object     many-to-many	(bad)
@@ -85,7 +85,7 @@ There should be no residual of data records are left in the database. In relatio
 
 Relational databases in large organizations are accessed by many users. Therefore, keeping data consistent is important these are accessible through database management systems. These are the software that gives users the rights to access and view data at certain levels
 
-### Transaction processing
+##### Transaction processing
 - There are four different types of processing that takes place:
 	- CRUD 
 		- Create a database entity

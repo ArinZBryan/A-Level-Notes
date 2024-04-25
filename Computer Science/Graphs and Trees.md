@@ -61,7 +61,7 @@ To delete a sub tree, first traverse through the tree using a depth first-search
 2. Run postorder algorithm on the right sub-tree
 3. Add node to array
 
-> This is the order in which code is compiled to. It is also known as [Reverse Polish Notation](./The_Compilation_Toolchain.md).
+> This is the order in which code is compiled to. It is also known as [Reverse Polish Notation](./The%20Compilation%20Toolchain.md).
 
 ## Traversals
 ### Breadth First

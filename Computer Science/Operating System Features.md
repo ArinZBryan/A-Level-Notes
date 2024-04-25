@@ -12,7 +12,7 @@
         Permanent loss of data held in the file. This will affect the quality of the file in some way, and depending on the quantity of data removed, this may be more or less noticeable  
     - **Lossless**  
         No loss of data in the file. Various algorithms are used to find patterns in the data of the file, and use those to reduce the total file size.  
-        ***See [Compression Algorithms](./Algorithms_Compression.md)***   
+        ***See [Compression Algorithms](./Algorithms/Compression.md)***   
 
 #### Backup Programs
 - May create a complete copy of the disk image, or may backup changes incrementally.

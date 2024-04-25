@@ -6,17 +6,46 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Maths  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Computer Science\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048454
+      }
+    },
+    {
+      "query": "path:Physics  ",
+      "color": {
+        "a": 1,
+        "rgb": 6082262
+      }
+    },
+    {
+      "query": "path:Robotics  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.49736022742656,
+  "repelStrength": 11.8532557195072,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.4119920667525086,
+  "linkDistance": 243,
+  "scale": 0.29207141733319386,
   "close": true
 }

@@ -8,4 +8,4 @@ When using a binomial distribution, the following values can be calculated
 - Mean ($\mu$) $=np$
 - Variance ($\sigma^2$) $=np(1-p)$
 - Standard Deviation ($\sigma$) $= \sqrt{np(1-p)}$
-These formulas are given in the formula book, and become relavant when looking at approximating the binomial distribution using the [normal distribution](./The%20Normal%20Distribution.md)
+These formulas are given in the formula book, and become relevant when looking at approximating the binomial distribution using the [normal distribution](./The%20Normal%20Distribution.md)

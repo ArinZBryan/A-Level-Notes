@@ -6,8 +6,11 @@ Each individual thing in the population that can be samples is known as a sampli
 
 Often sampling units of a population are individually 
 named or numbered to **form a list** called the **sampling frame**. It can be said that a sampling frame is a *sub-population* of the overall population that we are interested in.
+>An example:
+>Suppose we want to survey all the people in London (this is the population). A *sampling frame* could be the phone book / directory (the [yellow pages](https://en.wikipedia.org/wiki/Yellow_pages)). The *sample* taken would be the list of people that pick up the phone. Each person that picks up the phone is a *sampling unit*.
 
 We can collect data either from a sample, or from the entire population. Data collected from the entire population is known as a **census**
+
 
 |        | Advantages                                                             | Disadvantages                                                                                                                                      |
 | ------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
