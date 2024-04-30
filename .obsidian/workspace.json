@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "913c009dce0c77b0",
+        "id": "0ae8c2620cb3c646",
         "type": "tabs",
         "children": [
           {
-            "id": "53eb789f8b6f37dd",
+            "id": "4f674ca74caa48dd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Maths/FormulaSheet.pdf"
+                "file": "Maths/Pure/Vectors/Vector Techniques.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -36,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "strange",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/FormulaSheet.pdf",
+                "file": "Maths/Pure/Vectors/Vector Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/FormulaSheet.pdf",
+                "file": "Maths/Pure/Vectors/Vector Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/FormulaSheet.pdf"
+                "file": "Maths/Pure/Vectors/Vector Techniques.md"
               }
             }
           }
@@ -160,39 +162,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53eb789f8b6f37dd",
+  "active": "4f674ca74caa48dd",
   "lastOpenFiles": [
+    "Maths/Pure/Vectors/Vector Operations.md",
+    "Maths/Pure/Vectors/Lines in 3D.md",
+    "Maths/Pure/Vectors/Planes in 3D.md",
+    "Maths/Pure/Vectors/Vector Techniques.md",
+    "Maths/FormulaSheet.pdf",
+    "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
+    "Maths/Pure/Lines and Curves/Roots of Curves/Roots of Cubics.pdf",
+    "Maths/Pure/Lines and Curves/Roots of Curves/Roots of Quadratics.pdf",
+    "Maths/Pure/Lines and Curves/Roots of Curves/Roots of a Polynomial - related expressions.pdf",
+    "Physics/FormulaSheet.pdf",
+    "Physics/Electricity/Capacitors.md",
+    "Physics/Nuclear/Fundamental Particles (Nucleons).md",
+    "Physics/Nuclear/Hadrons.md",
+    "Maths/Pure/Vectors/Perpendicular Vectors.md",
+    "Maths/Pure/Vectors/Skew Lines.md",
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
+    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
+    "Maths/Pure/Trigonometry/Trig Identities.md",
+    "Maths/Pure/Calculus/Differentiation/Differentiation.md",
+    "Maths/Pure/Radians/Radian Measure.md",
+    "Maths/Pure/Radians/Small Angle Approximations.md",
+    "Maths/Pure/Trigonometry/Trig Rules.md",
     "Maths/Pure/Calculus/Differentiation/The Leibniz Rule.md",
     "Maths/Pure/Trigonometry/Hyperbolic Trigonometric Functions.md",
-    "Maths/FormulaSheet.pdf",
     "Maths/Pure/Graphs and Functions/Binomial Expansion.md",
-    "Physics/FormulaSheet.pdf",
     "Computer Science/Databases.md",
     "Computer Science/Data Representation.md",
     "Computer Science/Computer Science book.pdf",
     "Maths/Statistics/Measures of Location And Spread/Quartiles, Percentiles and the Median.md",
     "Computer Science/Networking - How Data Moves.md",
     "Computer Science/Multitasking.md",
-    "Maths/Statistics/Statistical Distributions/The Normal Distribution.md",
-    "Physics/Waves/Lenses.md",
-    "Maths/Statistics/Measures of Location And Spread/Variance and Standard Deviation.md",
-    "Maths/Statistics/Hypothesis Testing/Hypothesis Testing.md",
-    "Maths/Statistics/Hypothesis Testing/The Sample Mean.md",
-    "Maths/Statistics/Probablility/Represeting Probability.md",
     "Maths/Images/Tree_Diagram.png",
-    "Maths/Statistics/Probablility/Probability.md",
-    "Maths/Statistics/Probablility/Probabilistic Operators.md",
-    "Maths/Statistics/Statistical Distributions/The Binomial Distribution.md",
     "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
-    "Maths/Pure/Calculus/Differential Equations/Solving Homogeneous Second Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving Non-Homogenous 2nd Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Reducible Differential Equations.md",
-    "Maths/Pure/Complex Numbers/Roots of Unity.md",
-    "Maths/Mechanics/Elastic Strings and Springs.md",
-    "Maths/Mechanics/Linear Collisions.md",
-    "Maths/Mechanics/Oblique Collisions.md",
-    "Maths/Mechanics/Impulse and Momentum.md",
     "Physics/Images/SolenoidPolarity.png",
     "Physics/Images/Solenoid.png",
     "Pasted image 20240320122559.png",
