@@ -36,4 +36,4 @@ $$\begin{pmatrix}p_x\\ p_y\\ p_z\end{pmatrix} - \begin{pmatrix}x\\ y\\ z\end{pma
 Then, add $\underline v$ to point $P$. This gives the reflection of the initial point in the plane.
 ##### A line and a plane
 Given a line $\underline r = \underline a + \lambda \underline b$, and a plane $\underline r \cdot \underline n = c$, find the point of intersection between the line and the plane. See the section above for instructions on this. Then, reflect another point (not the intersection point) on the line in the plane; generally it is advisable to reflect $\underline a$ as this is sometimes easier. To do this, see the above section. 
-Now, we have two points on the reflected line. Using this, we can make a direction vector, and use one of them as the point used for forming the line equation.
+Now, we have two points on the reflected line. Using   this, we can make a direction vector, and use one of them as the point used for forming the line equation.

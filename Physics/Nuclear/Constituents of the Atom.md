@@ -34,6 +34,5 @@ $$^{23}_{11}Na$$
 Atoms that have the same number of protons, but **different number of neutrons** are known as **isotopes**
 ### What makes atoms stable?
 If an atom has too many neutrons, then the nucleus will be unbalanced (unstable) and want to regain stability. An unstable nucleus will be radioactive and will decay into more stable nuclei (these may not be stable themselves, but will be *more* stable than their predecessor.)
-
 ### Specific Charge
 The specific charge of a particle = charge of particle / mass of particle. Thus, the units of specific charge is Coulombs per kilogram.

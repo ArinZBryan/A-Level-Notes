@@ -4,11 +4,11 @@ The atomic mass unit $u$ is defined as one twelfth the mass of an atom of Carbon
 $$u = \frac{m_{c12}}{12} = 1.660539\times 10^{-27}\text{Kg}$$
 Using $E=mc^2$, $u = 931.5\text{MeV}$
 ### Masses of atomic particles
-| Particle | Mass / $u$ | Mass / $\text{Kg}$ |
-| ---- | ---- | ---- |
-| Proton | $1.007276u$ | $1.67262\times 10^{-27}$ |
-| Neutron | $1.008665u$ | $1.67493\times10^{-27}$ |
-| Electron | $0.000549u$ | $0.00091\times10^{-27}$ |
+| Particle | Mass / $u$  | Mass / $\text{Kg}$       |
+| -------- | ----------- | ------------------------ |
+| Proton   | $1.007276u$ | $1.67262\times 10^{-27}$ |
+| Neutron  | $1.008665u$ | $1.67493\times10^{-27}$  |
+| Electron | $0.000549u$ | $0.00091\times10^{-27}$  |
 So based on that, we can calculate the expected mass of atoms:
 >Helium: 2 protons, 2 neutrons & 2 electrons
 >$m_{He} = (2\cdot1.007276) + (2\cdot1.008665) + (2\cdot0.000549) = 4.032980u$

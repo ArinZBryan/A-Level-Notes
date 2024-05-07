@@ -17,8 +17,17 @@ The inverse of a 2x2 matrix $M$, $\begin{pmatrix}a&b\\ c&d\end{pmatrix}$ is deno
 ### 3x3
 The inverse of a 3x3 matrix $M$, 
 $\begin{pmatrix}a & b & c\\ d & e & f\\ g & h & i\\\end{pmatrix}$ is denoted as $M^{-1}$. It is such a royal pain in the arse to calculate (source: I made a calculator for this). Just get your calculator to do it. It won't lose any marks. Sometimes however, you will need to do it the long way if there is a variable in the matrix.
-$$M^{-1} = \frac{1}{\text{det}M}\text{cof}(M^T)$$
-where $\text{cof}(M)$ is the cofactor of matrix $M$, an operation where each element in the resulting matrix is equal to the determinant of the submatrix of $M$ where the row and column of each element is removed:
-$$\text{cof}\begin{pmatrix}a & b & c\\ d & e & f\\ g & h & i\\\end{pmatrix} = \begin{pmatrix}\text{det}\begin{vmatrix}e&f\\ h&i\end{vmatrix} & \text{det}\begin{vmatrix}d&f\\ g&i\end{vmatrix} & \text{det}\begin{vmatrix}d&e\\ g&h\end{vmatrix}\\ \text{det}\begin{vmatrix}b&c\\ h&i\end{vmatrix}&\text{det}\begin{vmatrix}a&c\\ g&i\end{vmatrix}&\text{det}\begin{vmatrix}a&b\\ g&h\end{vmatrix}\\ \text{det}\begin{vmatrix}b&c\\ e&f\end{vmatrix}&\text{det}\begin{vmatrix}a&c\\ d&f\end{vmatrix}&\text{det}\begin{vmatrix}a&b\\ d&e\end{vmatrix}\end{pmatrix}$$
+$$M^{-1} = \frac{1}{\text{det}M}\text{adj}(M)$$
+Where $\text{adj}(M)$ is the adjoint of the matrix. This is then calculated by the formula:
+$$adj(M) = \text{cof}(\text{minor}(M^T))$$
+##### Transpose Matrix
+Notated above as $M^T$, this is where you swap the matrix from being row-major to column major. Visually, this looks like mirroring the values in the matrix by the tor-left to bottom-right diagonal
+$$\begin{pmatrix}a&b&c\\ d&e&f\\ g&h&i\end{pmatrix}^T=\begin{pmatrix}a&d&g\\ b&e&h\\ c&f&i\end{pmatrix}$$
+##### Matrix of Minors
+Notated above as $\text{minor}(M)$, the minor of a matrix $M$ is  an operation where each element in the resulting matrix is equal to the determinant of the submatrix of $M$ where the row and column of each element is removed:
+$$\text{minor}\begin{pmatrix}a & b & c\\ d & e & f\\ g & h & i\\\end{pmatrix} = \begin{pmatrix}\text{det}\begin{vmatrix}e&f\\ h&i\end{vmatrix} & \text{det}\begin{vmatrix}d&f\\ g&i\end{vmatrix} & \text{det}\begin{vmatrix}d&e\\ g&h\end{vmatrix}\\ \text{det}\begin{vmatrix}b&c\\ h&i\end{vmatrix}&\text{det}\begin{vmatrix}a&c\\ g&i\end{vmatrix}&\text{det}\begin{vmatrix}a&b\\ g&h\end{vmatrix}\\ \text{det}\begin{vmatrix}b&c\\ e&f\end{vmatrix}&\text{det}\begin{vmatrix}a&c\\ d&f\end{vmatrix}&\text{det}\begin{vmatrix}a&b\\ d&e\end{vmatrix}\end{pmatrix}$$
+##### Cofactor Function
+Notated above as $\text{cof}(M)$, this is a specific pattern of flipping signs of the values of the matrix.
+$$\text{cof}\begin{pmatrix}a & b & c\\ d & e & f\\ g & h & i\\\end{pmatrix} = \begin{pmatrix}a & -b & c\\ -d & e & -f\\ g & -h & i\\\end{pmatrix}$$
 ### Checking your calculations
 A good way to check if your determinant is correct is by multiplying it by the original matrix. This should result in the identity matrix for the given number of dimensions that the original matrix had.

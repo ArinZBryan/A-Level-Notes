@@ -21,8 +21,6 @@ $\int \frac{1}{\sqrt{x^2 - a^2}} = \arcosh(\frac xa)+c$
 $\int \frac{1}{\sqrt{x^2 + a^2}} = \arsinh(\frac xa)+c$
 $\int \frac{1}{a^2 - x^2} = \frac{1}{2a}\ln|\frac{a+x}{a-x}|+c = \frac 1a\artanh(\frac xa) + c$
 $\int \frac{1}{x^2 - a^2} = \frac{1}{2a}\ln|\frac{x-a}{x+a}|+c$
-
-
 ## Differentiation
 $\frac{d}{dx}(x^n) = nx^{n-1}$
 $\frac{d}{dx}(e^{kx}) = ke^{kx}$

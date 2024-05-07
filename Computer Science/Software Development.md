@@ -3,6 +3,10 @@ Software development is the process of creating, designing, deploying and suppor
 	In waterfall development, each stage must be completely finished before moving on to the next. This style of software development was more popular in the early 2000s, but has fallen off since then.
 - Agile
 	In agile development, development is split up into 'sprints'. Each sprint goes through the whole of the software development lifecycle, but in miniature, and all are generally done around the same time.
+- Extreme Programming (XP)
+- Spiral
+	In this style of development, many prototypes are individually made through the waterfall methodology to precisely determine the requirements for one final waterfall that will produce the final product.
+- Rapid Application Development
 
 ## The steps of the software development lifecycle
 #### Analysis
