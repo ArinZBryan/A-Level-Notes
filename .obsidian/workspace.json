@@ -11,11 +11,9 @@
             "id": "514c2fa179272676",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Computer Science/Legislation.md",
-                "mode": "source",
-                "source": false
+                "file": "Physics/FormulaSheet.pdf"
               }
             }
           }
@@ -38,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "photons",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Legislation.md",
+                "file": "Physics/FormulaSheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Legislation.md",
+                "file": "Physics/FormulaSheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Legislation.md"
+                "file": "Physics/FormulaSheet.pdf"
               }
             }
           }
@@ -164,37 +162,37 @@
   },
   "active": "514c2fa179272676",
   "lastOpenFiles": [
+    "Maths/Pure/Linear Transformations/2D Transformations.md",
+    "Maths/Pure/Linear Transformations/3D Transformations.md",
+    "Maths/Pure/Lines and Curves/Forms of a Line.md",
+    "Maths/Pure/Matricies/Consistency.md",
+    "Maths/Pure/Trigonometry/Hyperbolic Trigonometric Functions.md",
+    "Maths/Pure/Trigonometry/Trig Rules.md",
+    "Maths/Pure/Trigonometry/Trig Identities.md",
+    "Maths/Pure/Trigonometry/T-Formulae.md",
+    "Maths/Pure/Calculus/Differential Equations/Harmonic Motion.md",
+    "Maths/Pure/Calculus/Differential Equations/Modelling using First Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Reducible Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Series Solutions.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Coupled First Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Homogeneous Second Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Non-Homogenous 2nd Order Differential Equations.md",
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
+    "Maths/Pure/Graphs and Functions/Partial Fractions.md",
+    "Maths/Pure/Matricies/Determinants and Inverses.md",
+    "Physics/FormulaSheet.pdf",
+    "Maths/FormulaSheet.pdf",
+    "Physics/Mechanics/Circular Motion.md",
+    "Physics/Mechanics/Harmonic Motion.md",
+    "Computer Science/Legislation.md",
     "Physics/Thermodynamics/Black Body Radiation.md",
     "Computer Science/Graphs and Trees.md",
     "Computer Science/CPU Architecture.md",
     "Maths/Pure/Trigonometry/Rsin(x+a) form.md",
-    "Computer Science/~$tabases.md",
-    "Maths/Pure/Lines and Curves/~$rms of a Line.md",
-    "Computer Science/Ethical and Moral Issues.md",
-    "Computer Science/Fetch, Decode, Execute, Reset Cycle.md",
-    "Computer Science/Interrupts.md",
-    "Physics/Electricity/Capacitors.md",
-    "Physics/Electricity/Components and IV Characteristics.md",
-    "Physics/Astrophysics/Star Lifecycles.md",
-    "Physics/Astrophysics/History of the Universe.md",
-    "Physics/Mechanics/Circular Motion.md",
-    "Physics/Waves/Waves Properties and Definitions.md",
-    "Physics/Waves/Superposition, Path Difference and Phase Difference.md",
-    "Physics/Waves/Standing Waves.md",
-    "Physics/Waves/Diffraction.md",
-    "Physics/Nuclear/Particle Interactions.md",
-    "Physics/Nuclear/Leptons.md",
-    "Physics/Nuclear/History Of The Atom.md",
-    "Physics/Nuclear/Hadrons.md",
-    "Physics/Nuclear/Fundamental Particles (Nucleons).md",
-    "Physics/Nuclear/Decay Law and Activity.md",
-    "Physics/Nuclear/Constituents of the Atom.md",
-    "Physics/Nuclear/Classifying Particles.md",
     "Physics/Images/ClassifyingParticles.png",
     "Maths/Pure/Lines and Curves/Roots of Curves/Roots of a Polynomial - related expressions.pdf",
     "Maths/Pure/Lines and Curves/Roots of Curves/Roots of Cubics.pdf",
-    "Maths/FormulaSheet.pdf",
-    "Physics/FormulaSheet.pdf",
     "Maths/Pure/Lines and Curves/Roots of Curves/Roots of Quadratics.pdf",
     "Computer Science/Computer Science book.pdf",
     "Maths/Images/Tree_Diagram.png",

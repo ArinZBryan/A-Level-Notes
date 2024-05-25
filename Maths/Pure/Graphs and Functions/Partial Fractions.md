@@ -19,4 +19,4 @@ The rest of the method outlined above remains the same. However, when substituti
 $$f(x) = (a)g_2(x)g_3(x)\dots\space + (b)g_1(x)g_3(x)\dots\space + (c)g_1(x)g_2(x)\dots\space + \dots$$
 Now, we can use the values we know to equate coefficients and solve for the remaining numerators.
 ### Numerator of higher order
-When the numerator is of a higher order than the denominator, the fraction must first be converted to be usable with one of the above methods. To do this, re-write the numerator in the form of some multiple of the denominator plus some remnants. In effect, this is the same process as transforming a top-heavy fraction into a mixed number (integer plus fraction).
+ number (integer plus fraction).
