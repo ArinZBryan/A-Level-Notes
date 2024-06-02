@@ -11,9 +11,11 @@
             "id": "514c2fa179272676",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Physics/FormulaSheet.pdf"
+                "file": "Maths/Pure/Calculus/Integration/Volumes of Revolution.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/FormulaSheet.pdf",
+                "file": "Maths/Pure/Calculus/Integration/Volumes of Revolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/FormulaSheet.pdf",
+                "file": "Maths/Pure/Calculus/Integration/Volumes of Revolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/FormulaSheet.pdf"
+                "file": "Maths/Pure/Calculus/Integration/Volumes of Revolution.md"
               }
             }
           }
@@ -162,12 +164,14 @@
   },
   "active": "514c2fa179272676",
   "lastOpenFiles": [
+    "Maths/Pure/Graphs and Functions/Polar Coordinates.md",
+    "Maths/Pure/Calculus/Integration/Volumes of Revolution.md",
+    "Physics/FormulaSheet.pdf",
     "Physics/Thermodynamics/Thermal Gas Laws.md",
     "Physics/Thermodynamics/Specific Heat Capacity and Specific Latent Heat.md",
     "Physics/Thermodynamics/Pressure and Volume in Gasses.md",
     "Physics/Thermodynamics/Kinetic Theory.md",
     "Physics/Thermodynamics/Black Body Radiation.md",
-    "Physics/FormulaSheet.pdf",
     "Maths/Pure/Sums and Series/Sums of Polynomial Series.md",
     "Maths/Pure/Sums and Series/Taylor Series and Maclaurin Series.md",
     "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
@@ -188,8 +192,6 @@
     "Maths/Pure/Linear Transformations/3D Transformations.md",
     "Maths/Pure/Lines and Curves/Forms of a Line.md",
     "Maths/Pure/Trigonometry/Hyperbolic Trigonometric Functions.md",
-    "Maths/Pure/Trigonometry/Trig Rules.md",
-    "Maths/Pure/Trigonometry/Trig Identities.md",
     "Physics/Images/ClassifyingParticles.png",
     "Maths/Pure/Lines and Curves/Roots of Curves/Roots of a Polynomial - related expressions.pdf",
     "Maths/Pure/Lines and Curves/Roots of Curves/Roots of Cubics.pdf",
