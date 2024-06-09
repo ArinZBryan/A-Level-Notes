@@ -1,6 +1,6 @@
 ### Magnitude and Angle
 Assume the following situation, a particle of mass $m$ travelling at a speed $u$ m/s hits a smooth immovable plane at an angle $\alpha$. It then rebounds at an angle $\beta$ with speed $v$.
-![](ObliqueCollision1.svg)
+![](./../Images/ObliqueCollision1.svg)
 In this situation, we can calculate some important values.
 As momentum is conserved parallel to the plane, we know that:
 $$mu\cos\alpha = mv\cos\beta$$
@@ -13,7 +13,7 @@ $$(u\cos\alpha)^2 + (eu\cos\alpha)^2 = v^2$$
 Using these equations, we can now solve for all the possible needed values.
 ### Vectors
 Consider a particle moving with velocity $\underline u\text{ ms}^{-1}$ that hits a smooth plane with direction vector $\underline W$ and rebounds with a velocity $\underline v\text{ ms}^{-1}$.
-![](vector_collisions.drawio.svg)
+![](./../Images/vector_collisions.drawio.svg)
 It is known that the impulse $\underline I$ is perpendicular to the vector $\underline W$.
 
 By the definition of the [dot product](./../Pure/Vectors/Vector%20Operations.md#Dot%20(scalar)%20Product):

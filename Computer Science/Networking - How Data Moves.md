@@ -1,4 +1,3 @@
-	
 ## TCP/IP
 TCP (Transfer Control Protocol) is a protocol used when sending data across a network. It is the most commonly used protocol, as it prioritises data integrity over speed and latency, making it most suitable for webpages, and other largely static content. For this reason, it is not used in *live* applications such as livestreaming, VoIP and online videogames. It would be better to use [UDP](#udpip) in this situation.
 

@@ -12,6 +12,3 @@ $F_{Rmax} = \mu R$
 As $T$ increases, to pull the particle along, $F_R$ will increase to oppose this, resulting in no net movement. Eventually, the frictional force will hit a maximum ($F_{Rmax}$). At this point, where friction is at a maximum, but the particle is yet to move ($T = F_{Rmax}$), the situation is known as limiting equilibrium. After this, the tension grows large enough to overcome the maximum  frictional force, and the object accelerates.
 
 In summary, the above equation ($F_{Rmax} = \mu R$) only applies when the object is accelerating, or is in limiting equilibrium.
-
-### Inclined Planes
-

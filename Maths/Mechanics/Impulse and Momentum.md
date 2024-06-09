@@ -11,4 +11,4 @@ Since $\underline I = m \underline v - m\underline u$,
 
 This leads to another way of considering problems involving momentum: vector triangles.
 
-![Impulse Vector Diagram](ImpulseVectorDiagram.svg)
+![Impulse Vector Diagram](./../Images/ImpulseVectorDiagram.svg)

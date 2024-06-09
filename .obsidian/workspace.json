@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0ae8c2620cb3c646",
+        "id": "a6cf8dd6b8239506",
         "type": "tabs",
         "children": [
           {
-            "id": "514c2fa179272676",
+            "id": "3edac059177f95e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Pure/Calculus/Integration/Volumes of Revolution.md",
+                "file": "Computer Science/Legislation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Pure/Calculus/Integration/Volumes of Revolution.md",
+                "file": "Computer Science/Legislation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Pure/Calculus/Integration/Volumes of Revolution.md",
+                "file": "Computer Science/Legislation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Pure/Calculus/Integration/Volumes of Revolution.md"
+                "file": "Computer Science/Legislation.md"
               }
             }
           }
@@ -162,11 +162,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "514c2fa179272676",
+  "active": "3edac059177f95e8",
   "lastOpenFiles": [
-    "Maths/Pure/Graphs and Functions/Polar Coordinates.md",
-    "Maths/Pure/Calculus/Integration/Volumes of Revolution.md",
+    "Computer Science/File Systems.md",
+    "Computer Science/Ethical and Moral Issues.md",
+    "Computer Science/Encryption.md",
+    "Computer Science/Datastructures.md",
+    "Computer Science/Databases.md",
+    "Computer Science/The Compilation Toolchain.md",
+    "Computer Science/Networking - How Data Moves.md",
+    "Computer Science/IPs, Subnets and Gateways.md",
+    "Computer Science/Hashing.md",
+    "Computer Science/Graphs and Trees.md",
+    "Maths/FormulaSheet.pdf",
+    "Maths/Mechanics/Forces and Friction.md",
+    "Maths/Mechanics/Elastic Strings and Springs.md",
+    "Maths/Mechanics/Impulse and Momentum.md",
+    "Maths/Mechanics/Linear Collisions.md",
+    "Maths/Mechanics/Work, Energy and Power.md",
+    "Maths/Mechanics/Oblique Collisions.md",
     "Physics/FormulaSheet.pdf",
+    "Maths/Pure/Calculus/Integration/Volumes of Revolution.md",
+    "Maths/Pure/Graphs and Functions/Polar Coordinates.md",
     "Physics/Thermodynamics/Thermal Gas Laws.md",
     "Physics/Thermodynamics/Specific Heat Capacity and Specific Latent Heat.md",
     "Physics/Thermodynamics/Pressure and Volume in Gasses.md",
@@ -175,23 +192,6 @@
     "Maths/Pure/Sums and Series/Sums of Polynomial Series.md",
     "Maths/Pure/Sums and Series/Taylor Series and Maclaurin Series.md",
     "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
-    "Maths/Pure/Sums and Series/Sums of Arithmetic Series.md",
-    "Maths/Pure/Sums and Series/Standard Series Expansions.md",
-    "Maths/Pure/Vectors/Vector Operations.md",
-    "Maths/Pure/Matricies/Matrix Operations.md",
-    "Maths/Pure/Matricies/Consistency.md",
-    "Maths/Pure/Matricies/Determinants and Inverses.md",
-    "Maths/Pure/Matricies/Matricies and Simultaneous Equations.md",
-    "Maths/Pure/Vectors/Lines in 3D.md",
-    "Maths/Pure/Vectors/Skew Lines.md",
-    "Maths/Pure/Vectors/Perpendicular Vectors.md",
-    "Maths/FormulaSheet.pdf",
-    "Maths/Pure/Calculus/Differentiation/The Leibniz Rule.md",
-    "Maths/Pure/Calculus/Integration/Simpson's Rule.md",
-    "Maths/Pure/Linear Transformations/2D Transformations.md",
-    "Maths/Pure/Linear Transformations/3D Transformations.md",
-    "Maths/Pure/Lines and Curves/Forms of a Line.md",
-    "Maths/Pure/Trigonometry/Hyperbolic Trigonometric Functions.md",
     "Physics/Images/ClassifyingParticles.png",
     "Maths/Pure/Lines and Curves/Roots of Curves/Roots of a Polynomial - related expressions.pdf",
     "Maths/Pure/Lines and Curves/Roots of Curves/Roots of Cubics.pdf",
