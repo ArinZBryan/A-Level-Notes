@@ -22,3 +22,10 @@ A relative uncertainty is given as the value $\pm$ a percentage of that value wi
 - When adding or subtracting values, add the *absolute* uncertainties
 - When multiplying or dividing values, add the *relative* uncertainties
 - When raising a value to a power, multiply the *relative* uncertainties by the power
+Make sure when dealing with relative uncertainties, to use the *actual* value, rather than the percentage value. Only convert to a percentage right at the end.
+### Accuracy vs Precision
+One of the most common confusions is the difference between accuracy and precision. In common English, these are practically synonyms, however, in physics, they have a specific meaning.
+**Accuracy** refers to the distance from the true value. Thus, a high accuracy reading is close to the correct value, and a low accuracy reading is not.
+**Precision** refers to the spread of the data points. In statistics, this would be the [variance / standard deviation](./../../Maths/Statistics/Measures%20of%20Location%20And%20Spread/Variance%20and%20Standard%20Deviation.md) of the measurements.
+Put in the terms of statistics, accuracy is a measure of location, and would be represented by $\overline{x}$, the mean, whereas precision is a measure of spread and would be represented by $\sigma$ or $\sigma^2$, i.e. the variance or standard deviation.
+![](AccuracyVsPrecision.png)

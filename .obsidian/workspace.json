@@ -11,11 +11,9 @@
             "id": "3edac059177f95e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Computer Science/Legislation.md",
-                "mode": "source",
-                "source": false
+                "file": "Physics/FormulaSheet.pdf"
               }
             }
           }
@@ -38,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "leib",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Legislation.md",
+                "file": "Physics/FormulaSheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Legislation.md",
+                "file": "Physics/FormulaSheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Legislation.md"
+                "file": "Physics/FormulaSheet.pdf"
               }
             }
           }
@@ -164,6 +162,20 @@
   },
   "active": "3edac059177f95e8",
   "lastOpenFiles": [
+    "Physics/Exam Paper 3/Errors and Uncertanties.md",
+    "Physics/FormulaSheet.pdf",
+    "Physics/Exam Paper 3/Graph Drawing.md",
+    "Physics/Images/StellarParalax1.svg",
+    "Physics/Images/AccuracyVsPrecision.png",
+    "Physics/Exam Paper 3/Errors and Uncertanties-DESKTOP-NNBL49M.md",
+    "Maths/Statistics/Measures of Location And Spread/Variance and Standard Deviation.md",
+    "Maths/Statistics/Measures of Location And Spread/Variables.md",
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
+    "Maths/Pure/Calculus/Differentiation/The Leibniz Rule.md",
+    "Computer Science/Boolean Algebra.md",
+    "Computer Science/Legislation.md",
+    "Computer Science/Web Technologies.md",
+    "Computer Science/Data Representation.md",
     "Computer Science/File Systems.md",
     "Computer Science/Ethical and Moral Issues.md",
     "Computer Science/Encryption.md",
@@ -179,19 +191,6 @@
     "Maths/Mechanics/Elastic Strings and Springs.md",
     "Maths/Mechanics/Impulse and Momentum.md",
     "Maths/Mechanics/Linear Collisions.md",
-    "Maths/Mechanics/Work, Energy and Power.md",
-    "Maths/Mechanics/Oblique Collisions.md",
-    "Physics/FormulaSheet.pdf",
-    "Maths/Pure/Calculus/Integration/Volumes of Revolution.md",
-    "Maths/Pure/Graphs and Functions/Polar Coordinates.md",
-    "Physics/Thermodynamics/Thermal Gas Laws.md",
-    "Physics/Thermodynamics/Specific Heat Capacity and Specific Latent Heat.md",
-    "Physics/Thermodynamics/Pressure and Volume in Gasses.md",
-    "Physics/Thermodynamics/Kinetic Theory.md",
-    "Physics/Thermodynamics/Black Body Radiation.md",
-    "Maths/Pure/Sums and Series/Sums of Polynomial Series.md",
-    "Maths/Pure/Sums and Series/Taylor Series and Maclaurin Series.md",
-    "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
     "Physics/Images/ClassifyingParticles.png",
     "Maths/Pure/Lines and Curves/Roots of Curves/Roots of a Polynomial - related expressions.pdf",
     "Maths/Pure/Lines and Curves/Roots of Curves/Roots of Cubics.pdf",
@@ -205,8 +204,6 @@
     "Maths/Images/diffentiation_from_first_principles.drawio.svg",
     "Physics/Images/particle-zoo.drawio.svg",
     "Maths/Pure/Lines and Curves/Parametric Curves/Parametric Equations Basics.pdf",
-    "Maths/Images/vector_collisions.drawio.svg",
-    "Maths/Mechanics/Untitled Diagram.svg",
-    "Physics/Images/BindingEnergyPerNucleon.png"
+    "Maths/Images/vector_collisions.drawio.svg"
   ]
 }
