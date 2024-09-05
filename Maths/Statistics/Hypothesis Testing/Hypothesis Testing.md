@@ -6,7 +6,7 @@ A **hypothesis** is a statement made about the value of a population parameter t
 The **null hypothesis**, $H_0$ is the default position, i.ie. that nothing has changed, unless proven otherwise.
 
 ### Alternative Hypothesis
-The **alternative hypothesis**, $H_1$ is that there has been some change in the population parameter/
+The **alternative hypothesis**, $H_1$ is that there has been some change in the population parameter.
 
 ### Test Statistics
 In a hypothesis test, evidence from the sample is called a **test statistic**

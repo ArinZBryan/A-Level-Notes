@@ -1,4 +1,3 @@
-
 ## Procedural Programming
 A type of programming typified by a style without flair - the code is just a series of well thought out steps and procedures. It contains a systematic order of statements, functions and commands. to complete a task. This style of programming generally has a few problems; these include:
 1. Code written in this style tends to be harder to debug
