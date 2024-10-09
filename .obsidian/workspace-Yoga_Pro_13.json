@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "5f732766d11e8688",
+    "type": "split",
+    "children": [
+      {
+        "id": "b99111dbf545ba99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c94e4263a57278ba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b6ac65f0e7f7986",
+    "type": "split",
+    "children": [
+      {
+        "id": "75b91ffad8aea194",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e699b43f42dd5e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d812df968ccb0ec7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e712fa5e3d3e3f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d57ac4e5541910f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1859dbf7f2ac28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbb54fbcb756fce0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "916b632c9e9774d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20e066caefad74b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cfb19efbe0edcc23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c94e4263a57278ba",
+  "lastOpenFiles": [
+    "Maths/Statistics/Large_Dataset/The_Large_Dataset.xls",
+    "Maths/Pure/Lines and Curves/Forms of a Line.md",
+    "Maths/Pure/Calculus/Differential Equations/Reducible Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Modelling using First Order Differential Equations.md",
+    "Maths/Pure/Calculus/Differential Equations/Harmonic Motion.md",
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
+    "Computer Science/Images/Speeds_of_algorithms/Graph.jpeg",
+    "Computer Science/Images/Pathfinding/Graph-without-heuristics.png",
+    "Computer Science/Images/Pathfinding/Graph-with-heuristics.png",
+    "Computer Science/Images/Graphs/Ajacency-Matrix.svg",
+    "Computer Science/Images/File_Systems/Disk-Diagram.png",
+    "Computer Science/Images/FDER_cycle/pipelineing_diagram.drawio.svg",
+    "Computer Science/Images/FDER_cycle/fetch_decode_execute_cycle_diagram.svg",
+    "Computer Science/Images/FDER_cycle/basic_cpu_digram_fetch3.svg",
+    "Computer Science/Images/FDER_cycle/basic_cpu_digram_fetch2.svg",
+    "Computer Science/Images/FDER_cycle/basic_cpu_digram_execute.svg",
+    "Computer Science/Images/Data_Representation/flowchart.drawio",
+    "Computer Science/Images/Boolean_Logic/Full_Adder.png~",
+    "Computer Science/Images/Speeds_of_algorithms",
+    "Computer Science/Images/Pathfinding",
+    "Computer Science/Images/Graphs",
+    "Computer Science/Images/File_Systems",
+    "Computer Science/Images/FDER_cycle",
+    "Computer Science/Images/Data_Representation",
+    "Computer Science/Images/Boolean_Logic",
+    "Computer Science/Images/Boolean_Algebra",
+    "Maths/Statistics/Statistical Distributions/The Normal Distribution.md",
+    "Maths/Statistics/Statistical Distributions/The Binomial Distribution.md",
+    "Maths/Statistics/Representations of Data/Cumulative Frequency Graphs.md",
+    "Maths/Statistics/Representations of Data/Box Plots and Outliers.md",
+    "Maths/Statistics/Probablility/Represeting Probability.md",
+    "Maths/Statistics/Probablility/Probability.md",
+    "Maths/Statistics/Probablility/Probabilistic Operators.md",
+    "Maths/Statistics/Measures of Location And Spread/Variance and Standard Deviation.md",
+    "Maths/Statistics/Measures of Location And Spread/Variables.md",
+    "Maths/Statistics/Measures of Location And Spread/Quartiles, Percentiles and the Median.md",
+    "Maths/Statistics/Measures of Location And Spread/PMCC.md",
+    "Maths/Statistics/Measures of Location And Spread/Coding.md",
+    "Maths/Statistics/Hypothesis Testing/The Sample Mean.md",
+    "Maths/Statistics/Hypothesis Testing/Hypothesis Testing.md",
+    "Maths/Statistics/Collecting Data/Types of Data.md",
+    "Maths/Statistics/Collecting Data/Random Sampling.md",
+    "Maths/Statistics/Collecting Data/Populations and Samples.md",
+    "Maths/Statistics/Collecting Data/Non-Random Sampling.md",
+    "Maths/Pure/Complex Numbers/Roots of Unity.md",
+    "Maths/Pure/Complex Numbers/Complex Identities.md"
+  ]
+}
