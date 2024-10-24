@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Methods Of Proof/Proof by Induction - Recurrance relations.md",
+                "file": "Maths/Pure/Trigonometry/Trig Identities.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Trig Identities"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,11 +68,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Methods Of Proof/Proof by Induction - Recurrance relations.md",
+                "file": "Maths/Pure/Trigonometry/Trig Identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Trig Identities"
             }
           },
           {
@@ -103,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Methods Of Proof/Proof by Induction - Recurrance relations.md",
+                "file": "Maths/Pure/Trigonometry/Trig Identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Trig Identities"
             }
           },
           {
@@ -117,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Methods Of Proof/Proof by Induction - Recurrance relations.md"
-              }
+                "file": "Maths/Pure/Trigonometry/Trig Identities.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Trig Identities"
             }
           },
           {
@@ -139,7 +154,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -163,6 +180,21 @@
   },
   "active": "c94e4263a57278ba",
   "lastOpenFiles": [
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
+    "Maths/Pure/Trigonometry/Trig Identities.md",
+    "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
+    "Maths/Pure/Calculus/Integration/Integration.md",
+    "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
+    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
+    "Maths/Pure/Calculus/Integration/Weierstrauss Substitution.md",
+    "Maths/Pure/Calculus/Integration/Volumes of Revolution.md",
+    "Maths/Pure/Calculus/Integration/The Trapezium Rule.md",
+    "Maths/Pure/Calculus/Integration/Simpson's Rule.md",
+    "Maths/Pure/Calculus/Integration/Parametric Integration.md",
+    "Maths/Pure/Calculus/Integration/Integration by Substitution.md",
+    "Maths/Pure/Calculus/Differentiation/Differentiation Rules.md",
+    "Maths/Pure/Calculus/Differentiation/Differentiation.md",
+    "Maths/Methods Of Proof/Proof by Induction - Recurrance relations.md",
     "Computer Science/Boolean Algebra.md",
     "Maths/Pure/Exponentials and Logs/Using Logs to Analyse Nonlinear Data.pdf~RF1ec11b.TMP",
     "Computer Science/Images/FDER_cycle/pipelineing_diagram.drawio.svg~RF1ebc1a.TMP",
@@ -193,20 +225,6 @@
     "Computer Science/Attacks.md",
     "Computer Science/Boolean Logic.md",
     "Computer Science/CPU Architecture.md",
-    "Computer Science/Data Representation.md",
-    "Computer Science/Databases.md",
-    "Computer Science/Datastructures.md",
-    "Computer Science/Encryption.md",
-    "Computer Science/Ethical and Moral Issues.md",
-    "Computer Science/Fetch, Decode, Execute, Reset Cycle.md",
-    "Computer Science/File Systems.md",
-    "Computer Science/Hashing.md",
-    "Computer Science/Graphs and Trees.md",
-    "Computer Science/Interrupts.md",
-    "Computer Science/IPs, Subnets and Gateways.md",
-    "Computer Science/Legislation.md",
-    "Computer Science/Machine Architecture.md",
-    "Computer Science/Methods of software development.md",
-    "Computer Science/Modes Of Addressing.md"
+    "Computer Science/Data Representation.md"
   ]
 }
