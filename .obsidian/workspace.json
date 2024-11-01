@@ -11,10 +11,12 @@
             "id": "7c505b7f60e3bd1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Implicit Differentiation"
             }
           }
         ]
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Pure/Trigonometry/Trig Identities.md",
+                "file": "Physics/FormulaSheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Trig Identities"
+              "title": "Backlinks for FormulaSheet"
             }
           },
           {
@@ -108,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Pure/Trigonometry/Trig Identities.md",
+                "file": "Physics/FormulaSheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Trig Identities"
+              "title": "Outgoing links from FormulaSheet"
             }
           },
           {
@@ -135,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Pure/Trigonometry/Trig Identities.md"
+                "file": "Physics/FormulaSheet.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of Trig Identities"
+              "title": "Outline of FormulaSheet"
             }
           },
           {
@@ -174,10 +176,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e699b43f42dd5e1",
+  "active": "7c505b7f60e3bd1c",
   "lastOpenFiles": [
-    "Maths/Pure/Calculus/Common forms for Calculus.md",
+    "Maths/Pure/Calculus/Differentiation/Differentiation Rules.md",
+    "Maths/Pure/Sums and Series/Taylor Series and Maclaurin Series.md",
+    "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
+    "Physics/FormulaSheet.pdf",
+    "Physics/Nuclear/Hadrons.md",
+    "Physics/Nuclear/History Of The Atom.md",
+    "Physics/Nuclear/Leptons.md",
+    "Physics/Nuclear/Stable and Unstable Nuclei.md",
+    "Physics/Nuclear/Particles and Anti-Particles.md",
+    "Physics/Nuclear/Particle Interactions.md",
+    "Physics/Nuclear/Fundamental Particles (Nucleons).md",
+    "Physics/Nuclear/Decay Law and Activity.md",
+    "Physics/Nuclear/Constituents of the Atom.md",
+    "Physics/Nuclear/Classifying Particles.md",
+    "Physics/Nuclear/Binding Energy.md",
     "Maths/Pure/Trigonometry/Trig Identities.md",
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
     "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
     "Maths/Pure/Calculus/Integration/Integration.md",
     "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
@@ -188,16 +205,11 @@
     "Maths/Pure/Calculus/Integration/Simpson's Rule.md",
     "Maths/Pure/Calculus/Integration/Parametric Integration.md",
     "Maths/Pure/Calculus/Integration/Integration by Substitution.md",
-    "Maths/Pure/Calculus/Differentiation/Differentiation Rules.md",
-    "Maths/Pure/Calculus/Differentiation/Differentiation.md",
-    "Maths/Methods Of Proof/Proof by Induction - Recurrance relations.md",
-    "Computer Science/Boolean Algebra.md",
     "Maths/Pure/Exponentials and Logs/Using Logs to Analyse Nonlinear Data.pdf~RF1ec11b.TMP",
     "Computer Science/Images/FDER_cycle/pipelineing_diagram.drawio.svg~RF1ebc1a.TMP",
     "Computer Science/Images/Data_Representation/flowchart.svg~RF1ebb8d.TMP",
     "Physics/Images/BindingEnergyPerNucleon.png",
     "Physics/Images/AccuracyVsPrecision.png",
-    "Physics/Materials/Density, Viscosity and Stokes Law.md",
     "Physics/Images/BlackBodyRadiatorGraph.webp",
     "Physics/Images/ArcLengthRadus.png",
     "Physics/Images/centripetal_acceleration_derivation_light.svg",
@@ -210,17 +222,7 @@
     "Physics/Astrophysics/Parallax.kra",
     "Physics/Images/StressStrainGraph.jpg~RF15f304.TMP",
     "Physics/Images/StellarParalax1.svg.xml",
-    "Physics/Astrophysics/Hertzsprung-Russel Diagrams.md",
-    "Physics/Astrophysics/History of the Universe.md",
-    "Physics/Astrophysics/Standard Candles.md",
-    "Physics/Astrophysics/Star Lifecycles.md",
-    "Physics/Astrophysics/Stellar Parallax.md",
     "Physics/Astrophysics/Stellar Parallax.md~RF15f0b3.TMP",
-    "Maths/Pure/Polynomial Division.url",
-    "Maths/Images/SHM-Spring-Horizontal.svg~RF15d991.TMP",
-    "Computer Science/Attacks.md",
-    "Computer Science/Boolean Logic.md",
-    "Computer Science/CPU Architecture.md",
-    "Computer Science/Data Representation.md"
+    "Maths/Pure/Polynomial Division.url"
   ]
 }
