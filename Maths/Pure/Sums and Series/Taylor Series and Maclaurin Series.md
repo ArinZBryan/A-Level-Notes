@@ -1,4 +1,4 @@
-It is possible to express any differentiable function as an infinite polynomial. This allows for an approximation to any function, just by increasing the number of terms calculated.
+  It is possible to express any differentiable function as an infinite polynomial. This allows for an approximation to any function, just by increasing the number of terms calculated.
 
 ### Maclaurin Series
 The Maclaurin series of $f(x)$ is the following:
