@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proof",
+                "query": "particular solution",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c505b7f60e3bd1c",
+  "active": "d812df968ccb0ec7",
   "lastOpenFiles": [
     "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
     "Maths/Pure/Calculus/Differentiation/Differentiation Rules.md",
