@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "86a4410c5347a8b6",
+        "id": "ff11b41691618249",
         "type": "tabs",
         "children": [
           {
-            "id": "7c505b7f60e3bd1c",
+            "id": "adbb5ae93d4b10ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Pure/Sums and Series/Taylor Series and Maclaurin Series.md",
+                "file": "Computer Science/Algorithms/Pathfinding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Taylor Series and Maclaurin Series"
+              "title": "Pathfinding"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,11 +178,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d812df968ccb0ec7",
+  "active": "adbb5ae93d4b10ec",
   "lastOpenFiles": [
-    "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
-    "Maths/Pure/Calculus/Differentiation/Differentiation Rules.md",
+    "Maths/Pure/Calculus/Integration/Integration.md",
+    "Maths/Pure/Calculus/Integration/Simpson's Rule.md",
+    "Maths/Pure/Calculus/Integration/The Trapezium Rule.md",
+    "Maths/Pure/Calculus/Integration/Volumes of Revolution.md",
+    "Maths/Pure/Calculus/Integration/Weierstrauss Substitution.md",
+    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
+    "Maths/Pure/Calculus/Integration/Integration by Substitution.md",
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
     "Maths/Pure/Sums and Series/Taylor Series and Maclaurin Series.md",
+    "Maths/Pure/Calculus/Differentiation/The Leibniz Rule.md",
+    "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
+    "Maths/Pure/Calculus/Differentiation/Stationary Points, Turning Points and Points of Inflection.md",
+    "Maths/Pure/Calculus/Differentiation/Parametric Differentiation.md",
+    "Maths/Pure/Calculus/Differentiation/Euler's Method.md",
+    "Maths/Pure/Calculus/Differentiation/Differentiation.md",
+    "Maths/Pure/Calculus/Differentiation/Differentiation Rules.md",
+    "Maths/Pure/Calculus/Differential Equations/Solving Non-Homogenous 2nd Order Differential Equations.md",
     "Maths/Pure/Sums and Series/Sums of Geometric Series.md",
     "Physics/FormulaSheet.pdf",
     "Physics/Nuclear/Hadrons.md",
@@ -195,19 +208,6 @@
     "Physics/Nuclear/Fundamental Particles (Nucleons).md",
     "Physics/Nuclear/Decay Law and Activity.md",
     "Physics/Nuclear/Constituents of the Atom.md",
-    "Physics/Nuclear/Classifying Particles.md",
-    "Physics/Nuclear/Binding Energy.md",
-    "Maths/Pure/Trigonometry/Trig Identities.md",
-    "Maths/Pure/Calculus/Common forms for Calculus.md",
-    "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
-    "Maths/Pure/Calculus/Integration/Integration.md",
-    "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
-    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
-    "Maths/Pure/Calculus/Integration/Weierstrauss Substitution.md",
-    "Maths/Pure/Calculus/Integration/Volumes of Revolution.md",
-    "Maths/Pure/Calculus/Integration/The Trapezium Rule.md",
-    "Maths/Pure/Calculus/Integration/Simpson's Rule.md",
-    "Maths/Pure/Calculus/Integration/Parametric Integration.md",
     "Maths/Pure/Exponentials and Logs/Using Logs to Analyse Nonlinear Data.pdf~RF1ec11b.TMP",
     "Computer Science/Images/FDER_cycle/pipelineing_diagram.drawio.svg~RF1ebc1a.TMP",
     "Computer Science/Images/Data_Representation/flowchart.svg~RF1ebb8d.TMP",
@@ -225,7 +225,6 @@
     "Physics/Astrophysics/Parallax.kra",
     "Physics/Images/StressStrainGraph.jpg~RF15f304.TMP",
     "Physics/Images/StellarParalax1.svg.xml",
-    "Physics/Astrophysics/Stellar Parallax.md~RF15f0b3.TMP",
-    "Maths/Pure/Polynomial Division.url"
+    "Physics/Astrophysics/Stellar Parallax.md~RF15f0b3.TMP"
   ]
 }
