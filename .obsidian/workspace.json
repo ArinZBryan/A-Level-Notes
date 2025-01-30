@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Pure/Linear Transformations/2D Transformations.md",
+                "file": "Maths/Pure/Calculus/Common forms for Calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2D Transformations"
+              "title": "Common forms for Calculus"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "adbb5ae93d4b10ec",
   "lastOpenFiles": [
+    "Maths/Pure/Linear Transformations/2D Transformations.md",
     "Maths/Pure/Linear Transformations/3D Transformations.md",
     "Maths/Pure/Linear Transformations/Invariance.md",
     "Maths/Pure/Graphs and Functions/Polar Coordinates.md",
@@ -216,7 +217,6 @@
     "Maths/Pure/Calculus/Differentiation/Stationary Points, Turning Points and Points of Inflection.md",
     "Maths/Pure/Calculus/Differentiation/Parametric Differentiation.md",
     "Maths/Pure/Calculus/Differentiation/Euler's Method.md",
-    "Maths/Pure/Calculus/Differentiation/Differentiation.md",
     "Physics/FormulaSheet.pdf",
     "Maths/Pure/Exponentials and Logs/Using Logs to Analyse Nonlinear Data.pdf~RF1ec11b.TMP",
     "Computer Science/Images/FDER_cycle/pipelineing_diagram.drawio.svg~RF1ebc1a.TMP",
