@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Pure/Calculus/Common forms for Calculus.md",
+                "file": "Maths/Pure/Vectors/Lines in 3D.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common forms for Calculus"
+              "title": "Lines in 3D"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "particular solution",
+                "query": "direction cosine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,6 +182,19 @@
   },
   "active": "adbb5ae93d4b10ec",
   "lastOpenFiles": [
+    "Maths/Pure/Trigonometry/Trig Identities.md",
+    "Maths/Pure/Trigonometry/T-Formulae.md",
+    "Maths/Pure/Complex Numbers/Roots of Unity.md",
+    "Computer Science/Algorithms/Sorting.md",
+    "Maths/Statistics/Statistical Distributions/The Normal Distribution.md",
+    "Maths/Pure/Calculus/Integration/Integration by Substitution.md",
+    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
+    "Maths/Pure/Calculus/Integration/Integration.md",
+    "Maths/Pure/Calculus/Integration/Integrating using inverse functions.md",
+    "Maths/Pure/Calculus/Integration/Simpson's Rule.md",
+    "Maths/Pure/Calculus/Integration/Parametric Integration.md",
+    "Maths/Pure/Calculus/Integration/Integration Methods and Facts.md",
+    "Maths/Pure/Calculus/Common forms for Calculus.md",
     "Maths/Pure/Linear Transformations/2D Transformations.md",
     "Maths/Pure/Linear Transformations/3D Transformations.md",
     "Maths/Pure/Linear Transformations/Invariance.md",
@@ -203,20 +218,7 @@
     "Maths/Images/Parallelepiped.png",
     "Maths/Pure/Matricies/Determinants and Inverses.md",
     "Computer Science/Algorithms/Pathfinding.md",
-    "Maths/Pure/Calculus/Integration/Integration.md",
-    "Maths/Pure/Calculus/Integration/Simpson's Rule.md",
-    "Maths/Pure/Calculus/Integration/The Trapezium Rule.md",
-    "Maths/Pure/Calculus/Integration/Volumes of Revolution.md",
-    "Maths/Pure/Calculus/Integration/Weierstrauss Substitution.md",
-    "Maths/Pure/Calculus/Integration/Integration by Parts.md",
-    "Maths/Pure/Calculus/Integration/Integration by Substitution.md",
-    "Maths/Pure/Calculus/Common forms for Calculus.md",
-    "Maths/Pure/Sums and Series/Taylor Series and Maclaurin Series.md",
-    "Maths/Pure/Calculus/Differentiation/The Leibniz Rule.md",
     "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
-    "Maths/Pure/Calculus/Differentiation/Stationary Points, Turning Points and Points of Inflection.md",
-    "Maths/Pure/Calculus/Differentiation/Parametric Differentiation.md",
-    "Maths/Pure/Calculus/Differentiation/Euler's Method.md",
     "Physics/FormulaSheet.pdf",
     "Maths/Pure/Exponentials and Logs/Using Logs to Analyse Nonlinear Data.pdf~RF1ec11b.TMP",
     "Computer Science/Images/FDER_cycle/pipelineing_diagram.drawio.svg~RF1ebc1a.TMP",
