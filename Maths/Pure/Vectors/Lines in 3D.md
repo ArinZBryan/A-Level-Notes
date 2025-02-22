@@ -10,3 +10,4 @@ One thing that might come up is a question asking for a line's direction ratio a
 	- $\cos\beta = \frac{b_y}{|b|}$
 	- $\cos\gamma = \frac{b_z}{|b|}$
 
+
