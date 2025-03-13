@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting.md",
+                "file": "Maths/Pure/Calculus/Differentiation/Midpoint Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sorting"
+              "title": "Midpoint Method"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 476.5024719238281
   },
   "right": {
     "id": "8d57ac4e5541910f",
@@ -181,6 +181,12 @@
   },
   "active": "adbb5ae93d4b10ec",
   "lastOpenFiles": [
+    "Maths/Pure/Calculus/Differentiation/Parametric Differentiation.md",
+    "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
+    "Maths/Pure/Calculus/Integration/Parametric Integration.md",
+    "Computer Science/Databases.md",
+    "Maths/Pure/Vectors/Vector Operations.md",
+    "Computer Science/Algorithms/Sorting.md",
     "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
     "Maths/Pure/Trigonometry/Trig Identities.md",
     "Maths/Pure/Trigonometry/Trig Rules.md",
@@ -202,11 +208,6 @@
     "Maths/Pure/Calculus/Differential Equations/Solving Homogeneous Second Order Differential Equations.md",
     "Maths/Pure/Calculus/Differential Equations/Solving Non-Homogenous 2nd Order Differential Equations.md",
     "Maths/Pure/Calculus/Differential Equations/Solving Coupled First Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Series Solutions.md",
-    "Maths/Pure/Calculus/Differential Equations/Reducible Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Modelling using First Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Harmonic Motion.md",
-    "Maths/Pure/Vectors/Vector Operations.md",
     "Maths/Images/venn_diagram_intersection.drawio.svg",
     "Maths/Images/vector_collisions.drawio.svg",
     "Maths/Images/Tree_Diagram.png",
@@ -217,7 +218,6 @@
     "Maths/Images/PeriodOfRestitution.svg",
     "Maths/Images/PascalsTriangle.png",
     "Maths/Images/Parallelepiped.png",
-    "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
     "Physics/FormulaSheet.pdf",
     "Maths/Pure/Exponentials and Logs/Using Logs to Analyse Nonlinear Data.pdf~RF1ec11b.TMP",
     "Computer Science/Images/FDER_cycle/pipelineing_diagram.drawio.svg~RF1ebc1a.TMP",
