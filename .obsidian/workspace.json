@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Pure/Calculus/Differentiation/Midpoint Method.md",
+                "file": "Maths/Pure/Calculus/Differentiation/Parametric Differentiation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Midpoint Method"
+              "title": "Parametric Differentiation"
             }
           }
         ]
@@ -181,8 +181,12 @@
   },
   "active": "adbb5ae93d4b10ec",
   "lastOpenFiles": [
-    "Maths/Pure/Calculus/Differentiation/Parametric Differentiation.md",
     "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
+    "Maths/Pure/Calculus/Differentiation/Euler's Method.md",
+    "Maths/Pure/Calculus/Differentiation/Differentiation.md",
+    "Maths/Pure/Calculus/Differentiation/Differentiation Rules.md",
+    "Maths/Pure/Calculus/Differentiation/Midpoint Method.md",
+    "Maths/Pure/Calculus/Differentiation/Parametric Differentiation.md",
     "Maths/Pure/Calculus/Integration/Parametric Integration.md",
     "Computer Science/Databases.md",
     "Maths/Pure/Vectors/Vector Operations.md",
@@ -203,11 +207,6 @@
     "Physics/Nuclear/Hadrons.md",
     "Physics/Nuclear/History Of The Atom.md",
     "Physics/Nuclear/Leptons.md",
-    "Physics/Quantum/Quantum Physics.md",
-    "Physics/Quantum/Electron Energy Levels and Spectra.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving Homogeneous Second Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving Non-Homogenous 2nd Order Differential Equations.md",
-    "Maths/Pure/Calculus/Differential Equations/Solving Coupled First Order Differential Equations.md",
     "Maths/Images/venn_diagram_intersection.drawio.svg",
     "Maths/Images/vector_collisions.drawio.svg",
     "Maths/Images/Tree_Diagram.png",
