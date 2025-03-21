@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Pure/Calculus/Differentiation/Parametric Differentiation.md",
+                "file": "Maths/Statistics/Measures of Location And Spread/Coding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parametric Differentiation"
+              "title": "Coding"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5024719238281
+    "width": 410.5
   },
   "right": {
     "id": "8d57ac4e5541910f",
@@ -181,14 +181,20 @@
   },
   "active": "adbb5ae93d4b10ec",
   "lastOpenFiles": [
-    "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
-    "Maths/Pure/Calculus/Differentiation/Euler's Method.md",
-    "Maths/Pure/Calculus/Differentiation/Differentiation.md",
-    "Maths/Pure/Calculus/Differentiation/Differentiation Rules.md",
+    "Maths/Methods Of Proof/Proof by Induction - Recurrance relations.md",
+    "Maths/Methods Of Proof/Proof by Induction - recurrance relations.pdf",
     "Maths/Pure/Calculus/Differentiation/Midpoint Method.md",
-    "Maths/Pure/Calculus/Differentiation/Parametric Differentiation.md",
-    "Maths/Pure/Calculus/Integration/Parametric Integration.md",
+    "Maths/Pure/Calculus/Integration/Simpson's Rule.md",
+    "Maths/Pure/Calculus/Differentiation/Euler's Method.md",
     "Computer Science/Databases.md",
+    "Computer Science/Datastructures.md",
+    "Maths/Pure/Calculus/Differentiation/Differentiation Rules.md",
+    "Maths/Pure/Calculus/Differentiation/Implicit Differentiation.pdf",
+    "Maths/Pure/Calculus/Differentiation/The Leibniz Rule.md",
+    "Maths/Pure/Calculus/Differentiation/Stationary Points, Turning Points and Points of Inflection.md",
+    "Maths/Pure/Calculus/Differentiation/Parametric Differentiation.md",
+    "Maths/Pure/Calculus/Differentiation/Differentiation.md",
+    "Maths/Pure/Calculus/Integration/Parametric Integration.md",
     "Maths/Pure/Vectors/Vector Operations.md",
     "Computer Science/Algorithms/Sorting.md",
     "Maths/Pure/Calculus/Differential Equations/Solving First Order Differential Equations.md",
@@ -202,11 +208,6 @@
     "Physics/Nuclear/Nuclear Decay.md",
     "Physics/Nuclear/Binding Energy.md",
     "Physics/Nuclear/Classifying Particles.md",
-    "Physics/Nuclear/Constituents of the Atom.md",
-    "Physics/Nuclear/Fundamental Particles (Nucleons).md",
-    "Physics/Nuclear/Hadrons.md",
-    "Physics/Nuclear/History Of The Atom.md",
-    "Physics/Nuclear/Leptons.md",
     "Maths/Images/venn_diagram_intersection.drawio.svg",
     "Maths/Images/vector_collisions.drawio.svg",
     "Maths/Images/Tree_Diagram.png",
@@ -224,7 +225,6 @@
     "Physics/Astrophysics/Parallax.kra~",
     "Physics/Astrophysics/Parallax.kra",
     "Physics/Images/StressStrainGraph.jpg~RF15f304.TMP",
-    "Physics/Images/StellarParalax1.svg.xml",
-    "Physics/Astrophysics/Stellar Parallax.md~RF15f0b3.TMP"
+    "Physics/Images/StellarParalax1.svg.xml"
   ]
 }
