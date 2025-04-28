@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Statistics/Measures of Location And Spread/Coding.md",
+                "file": "Maths/Pure/Matricies/Determinants and Inverses.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Coding"
+              "title": "Determinants and Inverses"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "adbb5ae93d4b10ec",
   "lastOpenFiles": [
+    "Maths/Statistics/Measures of Location And Spread/Coding.md",
     "Maths/Methods Of Proof/Proof by Induction - Recurrance relations.md",
     "Maths/Methods Of Proof/Proof by Induction - recurrance relations.pdf",
     "Maths/Pure/Calculus/Differentiation/Midpoint Method.md",
