@@ -21,3 +21,5 @@ $\sigma_x = 10\sqrt{2}$
 
 ### Coding with more complex operators
 In some cases, it may be that data is coded using functions such as $\ln()$ or $\log()$. Luckily, it is not necessary to know how this coding affects the mean ($\overline{x}$), median or [standard deviation](./../Measures%20of%20Location%20And%20Spread/Variance%20and%20Standard%20Deviation.md#Standard%20Deviation) ($\sigma$). Generally, when coding is performed with [logarithms](./../../Pure/Exponentials%20and%20Logs/Logarithms.md), it is for the purpose of using a linear regression model on data with an exponential. This may reveal that an exponential model is more appropriate for the given data if the [PMCC](./PMCC.md) of the coded data is higher.
+
+
