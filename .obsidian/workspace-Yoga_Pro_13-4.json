@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Thermodynamics/Specific Heat Capacity and Specific Latent Heat.md",
+                "file": "Maths/Pure/Matricies/Determinants and Inverses.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Specific Heat Capacity and Specific Latent Heat"
+              "title": "Determinants and Inverses"
             }
           }
         ]
@@ -181,10 +181,6 @@
   },
   "active": "adbb5ae93d4b10ec",
   "lastOpenFiles": [
-    "Physics/Thermodynamics/Pressure and Volume in Gasses.md",
-    "Physics/Thermodynamics/Kinetic Theory.md",
-    "Physics/Thermodynamics/Black Body Radiation.md",
-    "Maths/Pure/Matricies/Determinants and Inverses.md",
     "Maths/Statistics/Measures of Location And Spread/Coding.md",
     "Maths/Methods Of Proof/Proof by Induction - Recurrance relations.md",
     "Maths/Methods Of Proof/Proof by Induction - recurrance relations.pdf",
@@ -209,6 +205,10 @@
     "Physics/Nuclear/Particles and Anti-Particles.md",
     "Physics/Nuclear/Stable and Unstable Nuclei.md",
     "Physics/Nuclear/Particle Interactions.md",
+    "Physics/Nuclear/Nuclear Equations.md",
+    "Physics/Nuclear/Nuclear Decay.md",
+    "Physics/Nuclear/Binding Energy.md",
+    "Physics/Nuclear/Classifying Particles.md",
     "Maths/Images/venn_diagram_intersection.drawio.svg",
     "Maths/Images/vector_collisions.drawio.svg",
     "Maths/Images/Tree_Diagram.png",
